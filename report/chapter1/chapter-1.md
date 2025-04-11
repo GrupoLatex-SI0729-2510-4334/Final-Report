@@ -10,7 +10,7 @@ En esta sección, se abordarán los aspectos más relevantes que conforman la id
 Además, se examinarán sus metas a mediano y largo plazo, así como las estrategias que utiliza para crecer y posicionarse en el sector al que pertenece. Comprender estos elementos es clave para valorar el potencial del **startup profile** y el impacto que puede generar en su entorno.
 
 ### 1.1.1. Descripción de la Startup
-
+TocaAqui 
 
 
 ### 1.1.2. Perfiles de integrantes del equipo
