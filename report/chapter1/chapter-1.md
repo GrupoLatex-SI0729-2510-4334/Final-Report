@@ -3,11 +3,17 @@ La introducción desempeña un papel fundamental en la estructuración y compren
 
 ## 1.1. Startup Profile
 
-El **startup profile** constituye un componente esencial para comprender en profundidad la esencia y dirección estratégica de dicha empresa emergente. Este perfil no solo revela su visión a futuro y los valores fundamentales que la guían, sino que también permite entender de manera clara cuál es su propuesta de valor diferenciadora en el mercado.
+<p>
+  <b>TocaAquí</b> es una plataforma web integral desarrollada para músicos emergentes y espacios culturales como bares, discotecas, centros culturales y promotores de eventos. Su propósito es facilitar la contratación directa de artistas, gestionar espacios disponibles, coordinar la logística de los shows, organizar la programación musical y promover presentaciones en vivo.
 
-En esta sección, se abordarán los aspectos más relevantes que conforman la identidad de la startup, tales como su historia de origen, las motivaciones detrás de su creación, el problema que busca resolver, y la manera en que su enfoque innovador le permite destacar frente a la competencia.
+A través de una experiencia personalizable tanto para bandas como para promotores, la plataforma ofrece herramientas innovadoras como la firma digital de contratos, pagos seguros mediante un sistema escrow, agenda compartida y promoción automatizada con entradas digitales.
 
-Además, se examinarán sus metas a mediano y largo plazo, así como las estrategias que utiliza para crecer y posicionarse en el sector al que pertenece. Comprender estos elementos es clave para valorar el potencial del **startup profile** y el impacto que puede generar en su entorno.
+Cada evento cuenta con procesos internos clave como la validación del rider técnico, coordinación de horarios, control de asistencia y evaluación post-evento, asegurando una experiencia profesional y transparente para todas las partes involucradas.
+
+Los músicos pueden crear un perfil artístico, explorar eventos según ubicación y estilo, postularse, firmar contratos y recibir pagos una vez validado el show. Los promotores, por su parte, pueden registrar sus espacios, publicar fechas disponibles, recibir postulaciones filtradas, coordinar la logística y evaluar a las bandas luego de cada presentación.
+
+La visión de TocaAquí es <b>profesionalizar la escena musical independiente</b> mediante una solución digital eficiente que potencie el talento emergente, dinamice la oferta cultural y fortalezca el vínculo entre artistas y promotores.
+</p> 
 
 ### 1.1.1. Descripción de la Startup
 
@@ -47,6 +53,11 @@ GrupoLatex es una startup innovadora que está enfocada en impulsar y transforma
 El proceso Lean UX es una metodología ágil que revoluciona la forma en que se diseña y desarrolla productos digitales. En este punto, exploraremos los principios fundamentales de Lean UX y cómo se integran en el ciclo de desarrollo de productos. Desde la colaboración multidisciplinaria hasta la iteración rápida y la validación continua, descubriremos cómo este enfoque permite a los equipos crear productos centrados en el usuario de manera eficiente y efectiva.
 
 - #### 1.2.2.1. Lean UX Problem Statements
+  En la escena musical independiente, especialmente para músicos emergentes, existen grandes dificultades para acceder a espacios donde puedan presentarse de manera profesional. Las bandas y artistas suelen depender de contactos informales, redes sociales u oportunidades esporádicas para conseguir fechas, lo que limita su crecimiento y visibilidad.
+
+Al mismo tiempo, muchos bares, discotecas, centros culturales y promotores de eventos enfrentan desafíos para encontrar talento adecuado que se ajuste a su propuesta musical, disponibilidad y requerimientos técnicos. La ausencia de una herramienta que conecte directamente a ambas partes de forma profesional y segura ralentiza la dinamización de la oferta cultural y la profesionalización del sector.
+
+<i>¿Cómo podríamos desarrollar una solución digital que conecte a músicos emergentes con promotores y espacios culturales de manera profesional, ágil y segura, facilitando la contratación directa, la coordinación logística, los pagos seguros y la promoción eficiente de presentaciones en vivo?</i><br><br>
 
 
 
