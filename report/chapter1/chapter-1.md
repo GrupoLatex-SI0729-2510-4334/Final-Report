@@ -57,7 +57,7 @@ El proceso Lean UX es una metodología ágil que revoluciona la forma en que se 
 
 Al mismo tiempo, muchos bares, discotecas, centros culturales y promotores de eventos enfrentan desafíos para encontrar talento adecuado que se ajuste a su propuesta musical, disponibilidad y requerimientos técnicos. La ausencia de una herramienta que conecte directamente a ambas partes de forma profesional y segura ralentiza la dinamización de la oferta cultural y la profesionalización del sector.
 
-<i>¿Cómo podríamos desarrollar una solución digital que conecte a músicos emergentes con promotores y espacios culturales de manera profesional, ágil y segura, facilitando la contratación directa, la coordinación logística, los pagos seguros y la promoción eficiente de presentaciones en vivo?</i><br><br>
+<b><i>¿Cómo podríamos desarrollar una solución digital que conecte a músicos emergentes con promotores y espacios culturales de manera profesional, ágil y segura, facilitando la contratación directa, la coordinación logística, los pagos seguros y la promoción eficiente de presentaciones en vivo?</i></b><br><br>
 
 
 
