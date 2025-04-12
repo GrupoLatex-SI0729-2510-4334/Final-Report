@@ -41,13 +41,13 @@ GrupoLatex es una startup innovadora que está enfocada en impulsar y transforma
 ### 1.2.1 Antecedentes y problemática
 | LAS 5W y 2H | Pregunta | Descripción  |
 |-|-|-|
-| Who? | ¿Quién es afectado?  |  |
-| What? | ¿Cuál es el problema? |  |
-| When? | ¿Cuándo sucede el problema? |  |
-| Where? | ¿Dónde surge el problema? |  |
-| Why? | ¿Cuál es la causa del problema? |  |
-| How? | ¿Qué llevó a la persona a esta situación? |  |
-| How Much? | ¿Cuál es la cantidad, duración o intensidad del evento? |  |
+| Who? | ¿Quién es afectado?  | Músicos emergentes, promotores de eventos, dueños de bares, discotecas y centros culturales, así como el úblico que consume eventos en vivo. Estos actores forman parte de un ecosistema que actualmente carece de una red formal que facilite la gestión profesional de eventos musicales independientes (Ramos Espinoza, 2021). |
+| What? | ¿Cuál es el problema? | Existe una falta de mecanismos centralizados, seguros y eficientes para conectar, contratar y coordinar presentaciones musicales. Esto genera informalidad, incumplimientos contractuales, y limita la profesionalización del circuito musical independiente  (Ramos Espinoza, 2021). |
+| When? | ¿Cuándo sucede el problema? | De manera recurrente en la planificación de eventos musicales en escenarios pequeños y medianos, especialmente en el circuito independiente. La pandemia exacerbó esta situación, dejando al 80.9% de los músicos independientes sin ingresos suficientes para cubrir sus gastos básicos (Asociación Peruana de Managers Musicales [APEMM], 2020). |
+| Where? | ¿Dónde surge el problema? | En ciudades con escena musical activa pero desorganizada, donde la comunicación entre artistas y promotores es informal o dispersa. En Lima, por ejemplo, muchos eventos son autogestionados por los propios músicos sin apoyo institucional (Soriano, 2020). |
+| Why? | ¿Cuál es la causa del problema? | La ausencia de una plataforma especializada que profesionalice la contratación y gestión de eventos musicales en el circuito independiente. Además, la falta de políticas públicas que respalden a los artistas independientes contribuye a esta problemática (Ramos Espinoza, 2021). |
+| How? | ¿Qué llevó a la persona a esta situación? | La necesidad de visibilidad, oportunidades de presentación y seguridad contractual y económica por parte de los músicos, y de confiabilidad y logística para promotores. La informalidad del sector obliga a los artistas a aceptar condiciones desventajosas (Ramos Espinoza, 2021). |
+| How Much? | ¿Cuál es la cantidad, duración o intensidad del evento? | Se estima una alta frecuencia de eventos (varios por semana), con dificultades constantes de organización, afectando la experiencia artística y del público. La falta de datos precisos impide cuantificar el impacto exacto, pero la percepción general es de una problemática persistente (Ramos Espinoza, 2021). |
 
 ### 1.2.2 Lean UX Process
 El proceso Lean UX es una metodología ágil que revoluciona la forma en que se diseña y desarrolla productos digitales. En este punto, exploraremos los principios fundamentales de Lean UX y cómo se integran en el ciclo de desarrollo de productos. Desde la colaboración multidisciplinaria hasta la iteración rápida y la validación continua, descubriremos cómo este enfoque permite a los equipos crear productos centrados en el usuario de manera eficiente y efectiva.
