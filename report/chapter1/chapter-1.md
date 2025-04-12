@@ -11,6 +11,11 @@ Además, se examinarán sus metas a mediano y largo plazo, así como las estrate
 
 ### 1.1.1. Descripción de la Startup
 
+GrupoLatex es una startup innovadora que está enfocada en impulsar y transformar la forma en que se vinculan los músicos emergentes con el ecosistema de eventos en vivo a través de herramientas tecnológicas. Nuestro producto, TocaAquí, es una plataforma digital diseñada que surge ante la necesidad de contar con herramientas más estructuradas, seguras y eficientes para profesionalizar la contratación de artistas independientes, facilitando el vínculo entre bandas y espacios como bares, discotecas, centros culturales y promotores de eventos.
+
+**Misión:** Profesionalizar y transformar la escena musical independiente a través de una plataforma digital que conecte de forma directa, segura y eficiente a músicos emergentes con promotores de eventos, bares y centros culturales, brindando herramientas tecnológicas que dignifiquen el trabajo artístico, optimicen la logística y fortalezcan los vínculos entre artistas y espacios culturales.
+
+**Visión:** Convertirnos en la plataforma líder para la gestión y promoción de música en vivo, impulsando el talento emergente y transformando la industria musical independiente con soluciones tecnológicas innovadoras, inclusivas y sostenibles que fomenten la cultura, la equidad y la sostenibilidad del sector.
 
 
 ### 1.1.2. Perfiles de integrantes del equipo
