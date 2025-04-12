@@ -73,7 +73,18 @@ El proceso Lean UX es una metodología ágil que revoluciona la forma en que se 
   ### **User Outcomes Assumptions**
   
 - #### 1.2.2.3. Lean UX Hypothesis Statements
+- **Creemos que los músicos emergentes necesitan una forma profesional y segura de postularse, cerrar contratos y recibir pagos por presentaciones
+porque actualmente enfrentan informalidad, falta de pago y dificultades logísticas (Ramos Espinoza, 2021).
+Tendremos éxito si al menos el 60% de los usuarios músicos completan un proceso de contratación exitoso en los primeros 3 meses.
 
+- **Creemos que los promotores y dueños de espacios culturales necesitan una herramienta para gestionar postulaciones, logística y promoción de eventos
+porque pierden tiempo coordinando manualmente y tienen dificultades para asegurar la calidad del show (Ramos Espinoza, 2021).
+Tendremos éxito si al menos el 50% de los eventos programados son gestionados completamente a través de la plataforma.
+
+- **Creemos que una plataforma con herramientas integradas como contratos digitales, sistema escrow y agenda compartida
+permitirá una experiencia más segura y fluida para ambas partes
+porque reduce riesgos, evita malos entendidos y profesionaliza el proceso (Ramos Espinoza, 2021).
+Tendremos éxito si la tasa de disputas y cancelaciones se reduce en un 40% respecto a métodos tradicionales.
 
 - #### 1.2.2.4. Lean UX Canvas
 El Lean UX Canvas es una herramienta  que permite a los equipos plasmar y visualizar de manera concisa los aspectos clave de su proyecto. En este punto, exploraremos cómo el Canvas facilita la colaboración y la alineación del equipo al definir claramente el problema, la solución propuesta, los usuarios y sus necesidades, así como las métricas de éxito.
