@@ -30,7 +30,7 @@ GrupoLatex es una startup innovadora que está enfocada en impulsar y transforma
 |-|-|
 | ![Diego]() | Me llamo Diego Ivan Cabrera Buitron, estudiante de la carrera de Ingeniería de Software; tengo conocimiento sobre el desarrollo web, ya sean lenguajes como HTML, CSS y JavaScript o frameworks como Angular, PrimeVue y React. Me considero una persona perseverante y siempre estoy enfocado en el cumplimiento de los objetivos. |
 | ![...]() | info. |
-| ![...]() | info. |
+| ![Andrea]() | Me llamo Andrea Elizabeth Santur Tello y estudio el Quinto Ciclo de la Carrera de Ingeniería de Software, me considero una persona organizada, dedicada, dispuesta a aprender y brindar apoyo a quienes lo necesiten. Mis conocimientos incluyen lenguajes de programación como C++, HTML y CSS. Sumado a un conocimiento básico de Java, JavaScript, Typescript Photoshop, Diseño Web y Python. Espero poder aportar de manera efectiva al equipo y presentar un trabajo excelente. |
 | ![...]() | info. |
 | ![...]() | info. |                                                                                                                                                     
 
@@ -55,7 +55,7 @@ El proceso Lean UX es una metodología ágil que revoluciona la forma en que se 
 - #### 1.2.2.1. Lean UX Problem Statements
   En la escena musical independiente, especialmente para músicos emergentes, existen grandes dificultades para acceder a espacios donde puedan presentarse de manera profesional. Las bandas y artistas suelen depender de contactos informales, redes sociales u oportunidades esporádicas para conseguir fechas, lo que limita su crecimiento y visibilidad.
 
-Al mismo tiempo, muchos bares, discotecas, centros culturales y promotores de eventos enfrentan desafíos para encontrar talento adecuado que se ajuste a su propuesta musical, disponibilidad y requerimientos técnicos. La ausencia de una herramienta que conecte directamente a ambas partes de forma profesional y segura ralentiza la dinamización de la oferta cultural y la profesionalización del sector.
+ Al mismo tiempo, muchos bares, discotecas, centros culturales y promotores de eventos enfrentan desafíos para encontrar talento adecuado que se ajuste a su propuesta musical, disponibilidad y requerimientos técnicos. La ausencia de una herramienta que conecte directamente a ambas partes de forma profesional y segura ralentiza la dinamización de la oferta cultural y la profesionalización del sector.
 
 <b><i>¿Cómo podríamos desarrollar una solución digital que conecte a músicos emergentes con promotores y espacios culturales de manera profesional, ágil y segura, facilitando la contratación directa, la coordinación logística, los pagos seguros y la promoción eficiente de presentaciones en vivo?</i></b><br><br>
 
