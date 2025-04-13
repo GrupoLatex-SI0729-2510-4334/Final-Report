@@ -31,7 +31,7 @@ Grupo: 01
 |           Integrantes            |   Código    |
 |:--------------------------------:|:-----------:|
 | Diego Ivan Cabrera Buitron |  |
-| Andrea Elizabeth Santur Tello |  |
+| Andrea Elizabeth Santur Tello |u202310988  |
 | Alessandra Nicole Becerra Tejeda |  |
 | Joaquin Andree Pedraza Maldonado | u202218514  | 
 | Pedro Jesus Nanfuñay Liza |  |
