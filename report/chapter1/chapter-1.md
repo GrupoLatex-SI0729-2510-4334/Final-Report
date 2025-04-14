@@ -63,15 +63,48 @@ El proceso Lean UX es una metodología ágil que revoluciona la forma en que se 
 
 - #### 1.2.2.2. Lean UX Assumptions
   ### **Business Assumptions**
+Nuestros clientes iniciales serán:
+Bandas independientes y músicos solistas que actualmente tienen dificultades para acceder a espacios de presentación o que dependen exclusivamente de shows en vivo para generar ingresos.
+
+El valor número 1 que un cliente quiere obtener de nuestro producto es:
+Acceso directo a oportunidades de presentaciones en vivo, con contratos seguros, pagos garantizados, y una gestión profesional de su carrera artística.
+
+Obtenemos la mayoría de nuestros clientes a través de:
+Recomendaciones entre músicos, alianzas con escuelas de música, festivales emergentes, redes sociales especializadas y contenido dirigido al ecosistema musical independiente.
+
+Ganamos dinero mediante:
+Comisión por evento concretado (modelo de éxito), tarifas por promoción destacada del perfil artístico, y eventualmente suscripciones premium que ofrezcan herramientas adicionales de gestión y visibilidad.
+
+Nuestra competencia en el mercado será:
+Plataformas de búsqueda de eventos informales (grupos de Facebook, WhatsApp, Instagram), managers independientes, y el contacto directo entre bandas y locales sin intermediación tecnológica.
+
+Los venceremos porque:
+Ofrecemos una solución profesional, segura y centralizada que reduce la incertidumbre, garantiza pagos, facilita la logística, y proyecta al músico como un profesional en el mercado.
+
+Nuestro mayor riesgo es:
+La desconfianza inicial del músico frente a una plataforma intermediaria, y la percepción de que podrían perder autonomía o pagar por algo que antes hacían informalmente.
+
+Resolveremos esto proporcionando:
+Una experiencia sencilla, gratuita al inicio, con beneficios visibles desde el primer uso (como postulaciones fáciles y pagos asegurados), además de testimonios y casos de éxito dentro de la comunidad.
+
+Sabremos que hemos tenido éxito cuando:
+El número de músicos registrados y activos crezca mes a mes, aumente la cantidad de postulaciones a eventos, y más del 80% de las contrataciones se completen con pagos exitosos y feedback positivo.
 
 
-  ### **Business Outcomes Assumptions**
 
 
   ### **User Assumptions**
     
-  ### **User Outcomes Assumptions**
-  
+¿Quién es el usuario?
+* Músicos emergentes, solistas o bandas independientes que buscan oportunidades para presentarse 
+* Promotores de eventos, bares, discotecas, centros culturales o cualquier espacio que busca contratar bandas para presentaciones musicales y gestionar la logística de sus eventos.
+  ¿Qué problemas resuelve nuestro producto?
+Nuestro producto resuelve la dificultad de encontrar espacios para presentarse, la informalidad en la contratación y pagos, la desorganización logística y la falta de herramientas de promoción. También responde a la necesidad de formalización y acceso a ingresos estables
+  Qué características son importantes?
+ Segmento Promotores: Es crucial que el producto permita publicar fechas disponibles, recibir postulaciones filtradas por estilo y perfil, firmar contratos digitales, coordinar horarios y requerimientos técnicos, realizar pagos seguros y promocionar el evento con entradas digitales.
+Segmento Musicos : Es fundamental que el producto permita explorar eventos filtrados por ubicación y estilo musical, postularse directamente, firmar contratos digitales, recibir pagos seguros y contar con una agenda compartida.
+¿Cómo debe verse nuestro producto y cómo debe comportarse?
+Nuestro producto debe ser visualmente profesional, intuitivo y adaptarse a la estética moderna, ofreciendo una interfaz clara y fácil de navegar que sirva tanto a músicos emergentes como a promotores de eventos. Deberá comportarse de manera robusta, proporcionando interacción en tiempo real, notificaciones y soporte continuo, lo que permitirá a los músicos explorar oportunidades y gestionar su agenda, mientras los promotores publican fechas, coordinan logística y formalizan contrataciones de forma segura. De esta manera, la plataforma centraliza y automatiza todos los procesos, garantizando una experiencia confiable y fluida para ambos segmentos.
 - #### 1.2.2.3. Lean UX Hypothesis Statements
 - Creemos que los músicos emergentes necesitan una forma profesional y segura de postularse, cerrar contratos y recibir pagos por presentaciones
 porque actualmente enfrentan informalidad, falta de pago y dificultades logísticas (Ramos Espinoza, 2021).
