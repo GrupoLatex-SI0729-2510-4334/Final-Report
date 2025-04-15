@@ -34,7 +34,7 @@ Grupo: 01
 | Andrea Elizabeth Santur Tello |u202310988  |
 | Alessandra Nicole Becerra Tejeda |  |
 | Joaquin Andree Pedraza Maldonado | u202218514  | 
-| Pedro Jesus Nanfuñay Liza |  |
+| Pedro Jesus Nanfuñay Liza | u202215462 |
 
 Abril 2025
 
