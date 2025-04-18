@@ -168,5 +168,5 @@ Ela Moreno, una joven organizadora de eventos de 25 años, encuentra en su traba
 
 ### 2.2.2 Análisis de entrevistas 
 **Segmento 1: Músicos Independientes ** <br>
-![Gráfico 1](/assets/graficoCircular1.1.png)
-![Gráfico 2](/assets/graficoCircular1.2.png)
+<img src="/assets/graficoCircular1.1.png" alt="Grafico 1" width="500"></a>
+<img src="/assets/graficoCircular1.2.png" alt="Grafico 2" width="500"></a>
