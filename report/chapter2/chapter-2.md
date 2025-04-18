@@ -80,6 +80,7 @@ El diseño de las entrevistas ha sido elaborado cuidadosamente en función de lo
 
 **Detalles de la entrevista:** <br>
 <img src="assets/BryanEntrevista2.png" alt="Entrevista 2" width="500">
+![Entrevista 2](assets/BryanEntrevista2.png)
 </a>
 [URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/EWnvCRctvWtNnWC_5f9lcN0BhU8OvDz-oYj8QhkF3xSBDw?e=IJe6js&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
