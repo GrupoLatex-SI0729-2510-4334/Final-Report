@@ -47,7 +47,7 @@ El diseño de las entrevistas ha sido elaborado cuidadosamente en función de lo
 | Validación Técnica y Coordinación    | ¿Cómo validas los requerimientos técnicos de los artistas?                                                                                          |
 | Expectativas de una Plataforma       | ¿Qué funcionalidades tecnológicas considerarías esenciales en una plataforma que gestione todo el proceso?                                          |
 
-###2.2.2 Registro de entrevistas 
+## 2.2.2 Registro de entrevistas 
 ### Segmento : Músicos Independientes
 # Entrevista #1 – Datos del Entrevistado
 
@@ -62,7 +62,8 @@ El diseño de las entrevistas ha sido elaborado cuidadosamente en función de lo
 | Duración de la entrevista |   06:40                                  |
 
 **Detalles de la entrevista:** <br>
-<img src="assets/AlexanderEntrevista1.png" alt="Entrevista 1" width="500"></a>
+<img src="assets/AlexanderEntrevista1.png" alt="Entrevista 1" width="500">
+</a>
 [URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/EWnvCRctvWtNnWC_5f9lcN0BhU8OvDz-oYj8QhkF3xSBDw?e=IJe6js&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
@@ -78,7 +79,8 @@ El diseño de las entrevistas ha sido elaborado cuidadosamente en función de lo
 | Duración de la entrevista |   07:50                                  |
 
 **Detalles de la entrevista:** <br>
-<img src="assets/BryanEntrevista2.png" alt="Entrevista 2" width="500"></a>
+<img src="assets/BryanEntrevista2.png" alt="Entrevista 2" width="500">
+</a>
 [URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/EWnvCRctvWtNnWC_5f9lcN0BhU8OvDz-oYj8QhkF3xSBDw?e=IJe6js&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 # Entrevista #3 - Datos del Entrevistado 
@@ -93,7 +95,8 @@ El diseño de las entrevistas ha sido elaborado cuidadosamente en función de lo
 | Duración de la entrevista |   02:38                                  |
 
 **Detalles de la entrevista:** <br>
-<img src="assets/IovanellaEntrevista3.png" alt="Entrevista 3" width="500"></a>
+<img src="assets/IovanellaEntrevista3.png" alt="Entrevista 3" width="500">
+</a>
 [URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/EWnvCRctvWtNnWC_5f9lcN0BhU8OvDz-oYj8QhkF3xSBDw?e=IJe6js&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
