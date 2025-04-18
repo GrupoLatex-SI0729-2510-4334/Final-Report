@@ -251,3 +251,15 @@ Se realizó un análisis detallado de las entrevistas con los usuarios, lo cual 
 **Segmento 2: Promotores** <br>
 <img src="/assets/graficoCircular2.1.png" alt="Grafico 4" width="500"></a> <br>  
 <img src="/assets/graficoCircular2.2.png" alt="Grafico 5" width="500"></a> <br>  
+
+### 2.1  User Journey Mapping
+En esta sección, analizaremos el recorrido del usuario al utilizar nuestra plataforma TocaAqui
+
+**Segmento 1: Músicos Independientes** <br>
+<img src="/assets/musicosjourneymap.png" alt="Musicos" ></a> <br>  
+**Segmento 2: Promotores** <br>
+<img src="/assets/PromotoresJourneymap.png" alt="Promotores" ></a> <br>  
+
+
+
+
