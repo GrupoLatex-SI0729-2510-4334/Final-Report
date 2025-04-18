@@ -252,13 +252,21 @@ Se realizó un análisis detallado de las entrevistas con los usuarios, lo cual 
 <img src="/assets/graficoCircular2.1.png" alt="Grafico 4" width="500"></a> <br>  
 <img src="/assets/graficoCircular2.2.png" alt="Grafico 5" width="500"></a> <br>  
 
-### 2.1  User Journey Mapping
+### 2.3.3  User Journey Mapping
 En esta sección, analizaremos el recorrido del usuario al utilizar nuestra plataforma TocaAqui
 
 **Segmento 1: Músicos Independientes** <br>
 <img src="/assets/musicosjourneymap.png" alt="Musicos" ></a> <br>  
 **Segmento 2: Promotores** <br>
 <img src="/assets/PromotoresJourneymap.png" alt="Promotores" ></a> <br>  
+### 2.3.4  Empathy   Mapping
+En esta sección se presenta el Empathy Mapping, una herramienta para crear un perfil detallado de los user personas y desarrollar una comprensión profunda de su perspectiva y experiencia. Para cada user persona, se incluyen cinco elementos clave: lo que el usuario ve, lo que el usuario escucha, lo que el usuario dice, lo que el usuario hace y lo que el usuario siente.<br>
+**Segmento 1: Músicos Independientes** <br>
+<img src="/assets/musicosEmp.png" alt="Musicos" ></a> <br>  
+**Segmento 2: Promotores** <br>
+<img src="/assets/musicosEmpathy.png" alt="Promotores" ></a> <br>  
+
+
 
 
 
