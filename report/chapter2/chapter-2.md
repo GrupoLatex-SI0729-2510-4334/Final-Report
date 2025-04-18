@@ -62,6 +62,10 @@ El diseño de las entrevistas ha sido elaborado cuidadosamente en función de lo
 </a>
 [URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/EWnvCRctvWtNnWC_5f9lcN0BhU8OvDz-oYj8QhkF3xSBDw?e=IJe6js&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
+**Resumen de la entrevista:**
+Gabriel Montoya, baterista de 19 años, busca presentaciones en vivo para expresar su creatividad, mejorar sus habilidades y generar ingresos, valorando especialmente la satisfacción del público y la cantidad de asistentes como indicadores de éxito. Actualmente organiza su carrera con herramientas como Notion, Google Calendar y redes sociales, aunque enfrenta desafíos como la falta de claridad en la coordinación logística de los shows y la dificultad para encontrar espacios adecuados a su estilo musical. Considera esencial que una plataforma digital incluya reseñas de locales por otros músicos, comunicación directa y detallada con promotores, y un catálogo organizado por ubicación y géneros musicales.
+
+
 **Entrevista #2 - Datos del Entrevistado** 
 | **Dato**                  | **Información**                          |
 |---------------------------|------------------------------------------|
@@ -78,6 +82,10 @@ El diseño de las entrevistas ha sido elaborado cuidadosamente en función de lo
 </a>
 [URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/EWnvCRctvWtNnWC_5f9lcN0BhU8OvDz-oYj8QhkF3xSBDw?e=IJe6js&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
+**Resumen de la entrevista:**
+Bryan Huamán, guitarrista solista y compositor de 20 años, busca presentaciones en vivo para conectar emocionalmente con el público, darse a conocer y crecer como artista independiente. Evalúa el éxito de un evento por la energía y la conexión con la audiencia, más que por la cantidad de asistentes. Utiliza principalmente Instagram y Facebook para gestionar su carrera, y ha tenido experiencias autodirigidas al contactar directamente con espacios, enfrentando dificultades para negociar pagos y condiciones técnicas. Sus principales desafíos incluyen la falta de visibilidad y el poco reconocimiento hacia artistas emergentes. Coordina la logística por cuenta propia y valora que una plataforma digital le permita subir su perfil artístico, visualizar eventos disponibles, contactar promotores, y contar con referencias claras tanto de artistas como de locales.
+
+
 **Entrevista #3 - Datos del Entrevistado**
 | **Dato**                  | **Información**                          |
 |---------------------------|------------------------------------------|
@@ -93,6 +101,11 @@ El diseño de las entrevistas ha sido elaborado cuidadosamente en función de lo
 <img src="assets/IovanellaEntrevista3.png" alt="Entrevista 3" width="500">
 </a>
 [URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/EWnvCRctvWtNnWC_5f9lcN0BhU8OvDz-oYj8QhkF3xSBDw?e=IJe6js&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+**Resumen de la entrevista:**
+Mariel, una joven de 19 años, es integrante de una orquesta sinfónica y también colabora como corista en una iglesia. Su motivación principal es superarse musicalmente con el objetivo de ingresar a un conservatorio privado. Evalúa positivamente los eventos en los que participa, destacando la organización y el respeto hacia los músicos. Aunque no ha utilizado plataformas digitales para gestionar su carrera, menciona que sus experiencias de contratación han sido ordenadas y sin inconvenientes. Los principales desafíos que enfrenta para presentarse profesionalmente son la movilidad y la falta de claridad en las ubicaciones de los eventos. Considera esenciales en una plataforma digital la posibilidad de ver encuestas, folletos o fotos de los espacios, así como contar con canales de comunicación directa con los promotores.
+
+
 ### Segmento : Promotores
 **Entrevista #4 – Datos del Entrevistado**
 
@@ -110,6 +123,10 @@ El diseño de las entrevistas ha sido elaborado cuidadosamente en función de lo
 <img src="assets/AgustinEntrevista4.png" alt="Entrevista 4" width="500"></a>
 [URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/EWnvCRctvWtNnWC_5f9lcN0BhU8OvDz-oYj8QhkF3xSBDw?e=IJe6js&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
+**Resumen de la entrevista:**
+Agustín Ventura, de 27 años, trabaja como programador, promotor y agente de eventos, y está casado. Su principal motivación para organizar eventos en vivo es crear conexiones entre las personas a través del arte y la música, buscando talentos auténticos que ofrezcan experiencias memorables. Define el éxito de un evento por la satisfacción del público y utiliza herramientas como Google Calendar y Excel para gestionar su trabajo, aunque desearía que fueran más intuitivas. Ha enfrentado problemas por falta de claridad en negociaciones con artistas, que ha solucionado mediante contratos bien establecidos. Su mayor reto es la logística, debido a la coordinación de múltiples elementos y partes. Valida los requerimientos técnicos solicitando fichas técnicas detalladas antes de cada evento. Considera esenciales en una plataforma tecnológica funciones como gestión de contratos, pagos automatizados, seguimiento de requerimientos técnicos, comunicación centralizada y análisis post-evento.
+
+
 **Entrevista #5 – Datos del Entrevistado**
 
 | **Dato**                  | **Información**                          |
@@ -125,6 +142,10 @@ El diseño de las entrevistas ha sido elaborado cuidadosamente en función de lo
 **Detalles de la entrevista:** <br>
 <img src="assets/DavidEntrevista5.png" alt="Entrevista 5" width="500"></a>
 [URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/EWnvCRctvWtNnWC_5f9lcN0BhU8OvDz-oYj8QhkF3xSBDw?e=IJe6js&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+**Resumen de la entrevista:**
+David, un representante y organizador de eventos, busca crear espacios donde el público pueda disfrutar y promover tanto a artistas locales como internacionales, con la meta de elevar la calidad de los espectáculos. Define el éxito de un evento por la taquilla, la asistencia y la frecuencia del público, utilizando herramientas de gestión propias de su empresa y coordinando directamente con escenarios para asegurar condiciones adecuadas según la talla del artista. Ha enfrentado desafíos con artistas de gran trayectoria que exigen mejores condiciones, resolviéndolos mediante negociación basada en la expectativa de público y la capacidad del lugar. Considera que el carisma, la conexión con el público y la popularidad son clave para validar a los artistas, y sugiere que una plataforma ideal debería mostrar los artistas confirmados, ciudades de presentación, estimación de espectadores y requisitos técnicos para una mejor planificación y experiencia del evento.
+
 
 **Entrevista #6 – Datos del Entrevistado**
 
@@ -142,4 +163,6 @@ El diseño de las entrevistas ha sido elaborado cuidadosamente en función de lo
 <img src="assets/ElaEntrevista6.png" alt="Entrevista 6" width="500"></a>
 [URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/EWnvCRctvWtNnWC_5f9lcN0BhU8OvDz-oYj8QhkF3xSBDw?e=IJe6js&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
+**Resumen de la entrevista:**
+Ela Moreno, una joven organizadora de eventos de 25 años, encuentra en su trabajo una pasión que cultiva desde temprana edad, motivada por crear espacios donde los jóvenes puedan aprender y crecer a través de la música. Define el éxito de un evento por la experiencia del público, especialmente en aspectos como la escenografía y la facilidad de acceso a entradas. Aunque prioriza la comunicación con locales y bandas, reconoce que este aspecto suele fallar, y ha aprendido a establecer reglas claras y contratos firmes para evitar inconvenientes, como cancelaciones de último momento. Entre los retos más comunes, menciona la falta de profesionalismo de algunos locales y problemas de coordinación técnica. Valora brindar un servicio de calidad a los artistas en sonido y luces, y sugiere que una plataforma tecnológica ideal debería permitir conocer a fondo las necesidades de las bandas, facilitando así una organización más transparente y eficiente.
 
