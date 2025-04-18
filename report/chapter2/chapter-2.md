@@ -98,5 +98,53 @@ El diseño de las entrevistas ha sido elaborado cuidadosamente en función de lo
 <img src="assets/IovanellaEntrevista3.png" alt="Entrevista 3" width="500">
 </a>
 [URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/EWnvCRctvWtNnWC_5f9lcN0BhU8OvDz-oYj8QhkF3xSBDw?e=IJe6js&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+### Segmento : Promotores
+# Entrevista #4 – Datos del Entrevistado
+
+| **Dato**                  | **Información**                          |
+|---------------------------|------------------------------------------|
+| Nombre completo           | William Agustín Ventura Saldaña          |
+| Edad y Género             | 27 años – Masculino                      |
+| Distrito                  | Surco                                    |
+| Ocupación                 | programador cultural                     |
+| Estado Civil              | Casado                                   |
+| Inicio de la entrevista   |   17:09                                  |
+| Duración de la entrevista |   06:04                                  |
+
+**Detalles de la entrevista:** <br>
+<img src="assets/AgustinEntrevista4.png" alt="Entrevista 4" width="500"></a>
+[URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/EWnvCRctvWtNnWC_5f9lcN0BhU8OvDz-oYj8QhkF3xSBDw?e=IJe6js&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+# Entrevista #5 – Datos del Entrevistado
+
+| **Dato**                  | **Información**                          |
+|---------------------------|------------------------------------------|
+| Nombre completo           | David Manuel Torres Meneses              |
+| Edad y Género             | 25 años – Masculino                      |
+| Distrito                  | Miraflores                               |
+| Ocupación                 | promotor de eventos                      |
+| Estado Civil              | Comprometido                             |
+| Inicio de la entrevista   |   23:12                                  |
+| Duración de la entrevista |   09:08                                  |
+
+**Detalles de la entrevista:** <br>
+<img src="assets/DavidEntrevista5.png" alt="Entrevista 5" width="500"></a>
+[URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/EWnvCRctvWtNnWC_5f9lcN0BhU8OvDz-oYj8QhkF3xSBDw?e=IJe6js&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+#Entrevista #6 – Datos del Entrevistado
+
+| **Dato**                  | **Información**                          |
+|---------------------------|------------------------------------------|
+| Nombre completo           | Ela Moreno                               |
+| Edad y Género             | 25 años – Femenino                       |
+| Distrito                  | Molina                                   |
+| Ocupación                 | organizador  de eventos                  |
+| Estado Civil              | Soltera                                  |
+| Inicio de la entrevista   |   32:21                                  |
+| Duración de la entrevista |   06:32                                  |
+
+**Detalles de la entrevista:** <br>
+<img src="assets/ElaEntrevista6.png" alt="Entrevista 6" width="500"></a>
+[URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/EWnvCRctvWtNnWC_5f9lcN0BhU8OvDz-oYj8QhkF3xSBDw?e=IJe6js&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
