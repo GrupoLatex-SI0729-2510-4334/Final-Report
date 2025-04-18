@@ -3,7 +3,7 @@
 El diseño de las entrevistas ha sido elaborado cuidadosamente en función de los objetivos de la investigación y la información que buscamos obtener sobre las experiencias y necesidades de nuestros grupos objetivos. Para ello, se ha considerado el perfil de cada tipo de usuario, intereses y objetivos, lo que nos ha permitido formular preguntas específicas para cada segmento. Además, se han  garantizado que se aborden los aspectos más relevantes para el proyecto.
 
 ## 1. Preguntas para Músicos Independientes
-## 1.1 Información Demográfica
+### 1.1 Información Demográfica
 
 | **Categoría Demográfica**              | **Pregunta**                                                         |
 |----------------------------------------|----------------------------------------------------------------------|
@@ -12,7 +12,7 @@ El diseño de las entrevistas ha sido elaborado cuidadosamente en función de lo
 | **Ocupación**                          | ¿Cuál es tu ocupación dentro del ámbito musical?                     |
 | **Estado Civil**                       | ¿Cuál es tu estado civil?                                            |
 
-## 1.2 Atributos Personales y Gustos
+### 1.2 Atributos Personales y Gustos
 
 | **Categoría**                        | **Pregunta**                                                                                                                                        |
 |--------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -26,7 +26,7 @@ El diseño de las entrevistas ha sido elaborado cuidadosamente en función de lo
 | Expectativas de una Plataforma       | ¿Qué funcionalidades considerarías esenciales en una plataforma digital para conectar con promotores y espacios culturales?                         |
 
 ## 2. Preguntas para Promotores
-## 2.1 Información Demográfica
+### 2.1 Información Demográfica
 
 | **Categoría Demográfica**              | **Pregunta**                                                                   |
 |----------------------------------------|--------------------------------------------------------------------------------|
@@ -49,7 +49,7 @@ El diseño de las entrevistas ha sido elaborado cuidadosamente en función de lo
 
 ## 2.2.2 Registro de entrevistas 
 ### Segmento : Músicos Independientes
-# Entrevista #1 – Datos del Entrevistado
+*Entrevista #1 – Datos del Entrevistado
 
 | **Dato**                  | **Información**                          |
 |---------------------------|------------------------------------------|
@@ -66,8 +66,7 @@ El diseño de las entrevistas ha sido elaborado cuidadosamente en función de lo
 </a>
 [URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/EWnvCRctvWtNnWC_5f9lcN0BhU8OvDz-oYj8QhkF3xSBDw?e=IJe6js&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-
-# Entrevista #2 - Datos del Entrevistado 
+*Entrevista #2 - Datos del Entrevistado 
 | **Dato**                  | **Información**                          |
 |---------------------------|------------------------------------------|
 | Nombre completo           | Bryan Dennis Huamán Salas                |
@@ -83,7 +82,7 @@ El diseño de las entrevistas ha sido elaborado cuidadosamente en función de lo
 </a>
 [URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/EWnvCRctvWtNnWC_5f9lcN0BhU8OvDz-oYj8QhkF3xSBDw?e=IJe6js&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-# Entrevista #3 - Datos del Entrevistado 
+*Entrevista #3 - Datos del Entrevistado 
 | **Dato**                  | **Información**                          |
 |---------------------------|------------------------------------------|
 | Nombre completo           | Iovanella Mariel Ruiz Santos             |
@@ -99,7 +98,7 @@ El diseño de las entrevistas ha sido elaborado cuidadosamente en función de lo
 </a>
 [URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/EWnvCRctvWtNnWC_5f9lcN0BhU8OvDz-oYj8QhkF3xSBDw?e=IJe6js&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 ### Segmento : Promotores
-# Entrevista #4 – Datos del Entrevistado
+*Entrevista #4 – Datos del Entrevistado
 
 | **Dato**                  | **Información**                          |
 |---------------------------|------------------------------------------|
@@ -115,7 +114,7 @@ El diseño de las entrevistas ha sido elaborado cuidadosamente en función de lo
 <img src="assets/AgustinEntrevista4.png" alt="Entrevista 4" width="500"></a>
 [URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/EWnvCRctvWtNnWC_5f9lcN0BhU8OvDz-oYj8QhkF3xSBDw?e=IJe6js&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-# Entrevista #5 – Datos del Entrevistado
+*Entrevista #5 – Datos del Entrevistado
 
 | **Dato**                  | **Información**                          |
 |---------------------------|------------------------------------------|
@@ -131,7 +130,7 @@ El diseño de las entrevistas ha sido elaborado cuidadosamente en función de lo
 <img src="assets/DavidEntrevista5.png" alt="Entrevista 5" width="500"></a>
 [URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/EWnvCRctvWtNnWC_5f9lcN0BhU8OvDz-oYj8QhkF3xSBDw?e=IJe6js&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-#Entrevista #6 – Datos del Entrevistado
+*Entrevista #6 – Datos del Entrevistado
 
 | **Dato**                  | **Información**                          |
 |---------------------------|------------------------------------------|
