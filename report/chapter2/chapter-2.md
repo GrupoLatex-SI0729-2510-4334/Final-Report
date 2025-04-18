@@ -1,9 +1,83 @@
-## 2.2. Entrevistas
-### 2.2.1. Diseño de entrevistas
+### Capítulo II: Requirements Elicitation & Analysis
+
+### 2.1 Competidores
+
+Dentro del ecosistema de herramientas para la organización de eventos musicales y la contratación de artistas, hay varias plataformas que brindan servicios comparables a los de TocaAquí. A continuación, se describen algunos de los principales competidores, acompañados de un análisis de sus enfoques y una comparación con los aspectos que hacen única nuestra propuesta.
+
+![Songkick App Creates Custom Concert Listings from your iTunes Library](https://www.rollingstone.com/wp-content/uploads/2018/06/rs-142457-rectangle.jpg?w=386&h=254&crop=1)
+
+**Songkick**: Es una plataforma de alcance internacional que permite a los usuarios seguir a sus artistas preferidos, recibir notificaciones sobre conciertos cercanos y adquirir entradas. Sin embargo, su enfoque está centrado en la promoción y venta de eventos, sin involucrarse en la contratación directa ni en la gestión logística de los artistas.
+
+**Ventaja de TocaAquí**: Nuestra plataforma no solo facilita el contacto, sino que gestiona de forma integral todo el proceso de contratación, abarcando desde la búsqueda hasta el pago y la evaluación posterior al evento.
+
+![GigSalad](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdK__S_0ktshktw1DYJSkkTY3LbpbB-nusJl1iPyna4gxduXR5ZRwj4pj-jWV4Jdi5jgV6EOS7NVm8oddeSggfPgW22tTmFEda7dwzYGIOxRYRx9jdhMmxt08iiLXnOOBRF_pyGCQ?key=UTGk9fNRTPANN7JnqgZpalhy)
+
+**GigSalad**: Es un marketplace orientado a vincular artistas con organizadores de eventos privados, principalmente en Estados Unidos. Si bien es efectivo para presentaciones específicas, no está diseñado para apoyar a la escena musical independiente ni para impulsar el talento local.
+
+**Ventaja de TocaAquí**: Nos enfocamos en artistas emergentes que buscan visibilidad en espacios culturales auténticos, promoviendo contrataciones para presentaciones en vivo en entornos públicos y comunitarios.
+
+![Indie on the Move](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfluwZjQSItm_-HnJzteiZ8-JxMEpgsyrurPUN3HsqOs2CliiFVulB2ve3-v05hR4XtUOlBOFgBDI-7iSevJhvSxr0VfAt9GazqQ_ejyjzmjlAK-y_FUMlEKyMwju3Jg0zv8xvuaA?key=UTGk9fNRTPANN7JnqgZpalhy)
+
+**Indie on the Move**: Es una plataforma que asiste a bandas en la búsqueda de lugares para presentarse en Estados Unidos, proporcionando bases de datos y herramientas útiles para planificar giras. No obstante, el proceso sigue siendo manual y carece de mecanismos formales como contratos o sistemas de pago seguros.
+
+**Ventaja de TocaAquí**: Brindamos una experiencia automatizada y confiable, que incluye contrato digital, gestión logística, pagos seguros a través de escrow y promoción integrada del evento.
+
+#### 2.1.1. Análisis Competitivo
+
+| **Categoría**             | **TocaAquí**                                                                                                                                     | **Songkick**                                                                                                                  | **GigSalad**                                                                                                             | **Indie on the Move**                                                                                             |
+|---------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
+| **Perfil Overview**   | Plataforma web que enlaza a músicos emergentes con bares, promotores y espacios culturales. Facilita la contratación directa, con contratos digitales, pagos protegidos y herramientas de promoción. | App global que permite a los usuarios seguir a sus artistas favoritos, recibir alertas de conciertos y comprar entradas.     | Marketplace especializado en artistas y animadores para celebraciones privadas en EE. UU.                            | Herramienta para que bandas independientes contacten lugares donde tocar; ofrece recursos para planificar sus giras. |
+| **Ventaja competitiva** | Conexión directa y protegida, contratos digitales, logística unificada, sistema de pago asegurado y promoción del evento incluida.             | Gran visibilidad global y descubrimiento de conciertos, pero sin herramientas para contratar o coordinar logísticamente.      | Ideal para fiestas privadas, pero no contempla contrataciones culturales ni procesos formales.                       | Buena fuente de contactos para giras, pero sin automatización ni protección legal o financiera.                      |
+| **Mercado objetivo**      | Artistas emergentes, gestores culturales, bares, discotecas, centros comunitarios y promotores de eventos.                                     | Aficionados a la música que buscan conciertos y entradas.                                                                     | Organizadores de eventos sociales (bodas, fiestas privadas, etc.).                                                  | Bandas independientes que autogestionan sus conciertos en EE. UU.                                                   |
+| **Estrategias de marketing** | Promoción en redes sociales, alianzas con espacios culturales, showcases, reputación basada en reseñas.                                     | Alertas personalizadas e integración con plataformas musicales.                                                               | Publicidad localizada y anuncios en redes sociales.                                                                 | SEO, blog y comunidad digital.                                                                                      |
+| **Productos y servicios** | Plataforma todo-en-uno: contratación, pagos vía escrow, contratos digitales, agenda colaborativa, validación técnica y promoción del show.     | Seguimiento de artistas, alertas de eventos, venta de entradas.                                                               | Directorio de artistas con fichas profesionales y contacto directo.                                                 | Directorio de venues y herramientas para planear giras.                                                              |
+| **Precios y costos**     | Comisión por evento cerrado. Plan gratuito con funciones premium disponibles.                                                                  | Gratis para usuarios. Ingresos por venta de entradas y acuerdos comerciales.                                                 | Comisión por cada contratación. Costos variables según el tipo de artista.                                          | Tarifas por acceso a bases de datos y funcionalidades. Modelo freemium.                                              |
+| **Canales de distribución** | Sitio web, aplicación móvil, WhatsApp Business, redes sociales y pasarelas de pago integradas.                                                 | App móvil, sitio web, alertas por correo, apps musicales.                                                                    | Web y comunicación directa por correo con los artistas.                                                             | Sitio web adaptado a escritorio y web móvil.                                                                         |
+| **Fortalezas**        | Contratación confiable, automatización del proceso, visibilidad para nuevos talentos y soporte integral para el evento.                        | Base de usuarios extensa y convenios con plataformas musicales.                                                               | Amplia variedad de artistas para celebraciones sociales.                                                            | Recurso útil para bandas que hacen giras autogestionadas.                                                            |
+| **Debilidades**           | En fase de crecimiento. Requiere atraer una base sólida de usuarios y consolidar su reputación.                                                | No permite contratar artistas ni manejar su logística.                                                                       | Limitado al ámbito privado. Sin enfoque cultural o comunitario.                                                    | Sin automatización ni contratos o pagos seguros. Solo opera en EE. UU.                                               |
+| **Oportunidades**         | Ampliar presencia en más ciudades, alianzas estratégicas, sistema de recompensas por reseñas, integración con streaming.                       | Nuevas funciones sociales e integración con redes.                                                                           | Posible expansión global e incorporación de logística.                                                             | Evolución hacia IA y servicios contractuales y de pago.                                                              |
+| **Amenazas**              | Competidores establecidos, resistencia a la digitalización en ciertos entornos culturales, y dependencia de eventos piloto exitosos.          | Mercado saturado, cambios en algoritmos de redes.                                                                            | Dependencia de un nicho limitado, percepción de marca variable.                                                    | Competencia tecnológica y falta de diferenciación clara a largo plazo.                                               |
+
+####  2.1.2. Estrategias y tácticas frente a competidores.
+
+Para sobresalir en el competitivo mercado de la música y los eventos, TocaAquí necesita adoptar estrategias y acciones únicas que fortalezcan su propuesta de valor y atraigan tanto a artistas como a promotores y establecimientos. A continuación, se presentan algunas de las principales iniciativas propuestas.
+
+###### 1.**Desarrollar una Propuesta de Valor Única**
+
+-**Estrategia**: Poner en valor las principales ventajas de TocaAquí como solución completa para conectar y dar visibilidad al talento musical emergente.
+
+-**Táctica**: Destacar funciones como la firma digital de contratos, sistema de pagos protegidos (escrow), verificación del rider técnico y calendario colaborativo para reforzar la imagen de una plataforma profesional y confiable.
+
+###### 2. **Enfoque en la Experiencia del Usuario**
+
+-**Estrategia**: Brindar una experiencia fluida y eficiente para artistas y promotores a través de una interfaz amigable y bien estructurada.
+
+-**Táctica**: Perfeccionar constantemente la usabilidad del sistema, asegurando procesos sencillos para agendar eventos, monitorear pagos y coordinar aspectos técnicos.
+
+###### 3. **Ampliar la Base de Usuarios**
+
+-**Estrategia**: Expandir la base de usuarios para fortalecer el ecosistema de la plataforma y fomentar nuevas oportunidades de colaboración musical.
+
+-**Táctica**: Lanzar programas de referidos dirigidos a artistas y promotores, además de ofrecer incentivos como descuentos en la primera contratación y recompensas por uso recurrente.
+
+###### 4. **Marketing Digital Segmentado**
+
+-**Estrategia**: Dirigir los esfuerzos de comunicación digital hacia músicos independientes, agentes de booking y propietarios de espacios culturales.
+
+-**Táctica**: Realizar campañas segmentadas en redes sociales, utilizando contenido creativo (como videos de artistas y testimonios de experiencias de contratación) y promocionando en nichos específicos como festivales locales, ferias musicales y comunidades de emprendimiento artístico.
+
+###### 5. **Alianzas Estratégicas**
+
+-**Estrategia**: Establecer alianzas con instituciones culturales, asociaciones de músicos y marcas vinculadas con la música en vivo para potenciar la visibilidad y fortalecer la credibilidad.
+
+-**Táctica**: Formalizar acuerdos con bares, discotecas, escuelas de música y proveedores de sonido para ofrecer beneficios mutuos y garantizar una presencia continua en el entorno musical.
+
+### 2.2. Entrevistas
+#### 2.2.1. Diseño de entrevistas
 El diseño de las entrevistas ha sido elaborado cuidadosamente en función de los objetivos de la investigación y la información que buscamos obtener sobre las experiencias y necesidades de nuestros grupos objetivos. Para ello, se ha considerado el perfil de cada tipo de usuario, intereses y objetivos, lo que nos ha permitido formular preguntas específicas para cada segmento. Además, se han  garantizado que se aborden los aspectos más relevantes para el proyecto.
 
-### 1. Preguntas para Músicos Independientes
-#### 1.1 Información Demográfica
+#### 1. Preguntas para Músicos Independientes
+##### 1.1 Información Demográfica
 
 | **Categoría Demográfica**              | **Pregunta**                                                         |
 |----------------------------------------|----------------------------------------------------------------------|
@@ -12,7 +86,7 @@ El diseño de las entrevistas ha sido elaborado cuidadosamente en función de lo
 | **Ocupación**                          | ¿Cuál es tu ocupación dentro del ámbito musical?                     |
 | **Estado Civil**                       | ¿Cuál es tu estado civil?                                            |
 
-#### 1.2 Atributos Personales y Gustos
+##### 1.2 Atributos Personales y Gustos
 
 | **Categoría**                        | **Pregunta**                                                                                                                                        |
 |--------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -23,8 +97,8 @@ El diseño de las entrevistas ha sido elaborado cuidadosamente en función de lo
 | Gestión de la Logística              | ¿Cómo coordinas los aspectos logísticos de tus shows?                                                                                               |
 | Expectativas de una Plataforma       | ¿Qué funcionalidades considerarías esenciales en una plataforma digital para conectar con promotores y espacios culturales?                         |
 
-### 2. Preguntas para Promotores
-#### 2.1 Información Demográfica
+#### 2. Preguntas para Promotores
+##### 2.1 Información Demográfica
 
 | **Categoría Demográfica**              | **Pregunta**                                                                   |
 |----------------------------------------|--------------------------------------------------------------------------------|
@@ -33,7 +107,7 @@ El diseño de las entrevistas ha sido elaborado cuidadosamente en función de lo
 | **Ocupación**                          | ¿Cuál es tu ocupación actualmente  relacionada con la organización de eventos? |
 | **Estado Civil**                       | ¿Cuál es tu estado civil?                                                      |
 
-### 2.2 Atributos Personales y Gustos
+#### 2.2 Atributos Personales y Gustos
 
 | **Categoría**                        | **Pregunta**                                                                                                                                        |
 |--------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -43,8 +117,8 @@ El diseño de las entrevistas ha sido elaborado cuidadosamente en función de lo
 | Validación Técnica y Coordinación    | ¿Cómo validas los requerimientos técnicos de los artistas?                                                                                          |
 | Expectativas de una Plataforma       | ¿Qué funcionalidades tecnológicas considerarías esenciales en una plataforma que gestione todo el proceso?                                          |
 
-### 2.2.2 Registro de entrevistas 
-### Segmento : Músicos Independientes 
+#### 2.2.2 Registro de entrevistas 
+#### Segmento : Músicos Independientes 
 **Entrevista #1 – Datos del Entrevistado**
 
 | **Dato**                  | **Información**                          |
@@ -106,7 +180,7 @@ Bryan Huamán, guitarrista solista y compositor de 20 años, busca presentacione
 Mariel, una joven de 19 años, es integrante de una orquesta sinfónica y también colabora como corista en una iglesia. Su motivación principal es superarse musicalmente con el objetivo de ingresar a un conservatorio privado. Evalúa positivamente los eventos en los que participa, destacando la organización y el respeto hacia los músicos. Aunque no ha utilizado plataformas digitales para gestionar su carrera, menciona que sus experiencias de contratación han sido ordenadas y sin inconvenientes. Los principales desafíos que enfrenta para presentarse profesionalmente son la movilidad y la falta de claridad en las ubicaciones de los eventos. Considera esenciales en una plataforma digital la posibilidad de ver encuestas, folletos o fotos de los espacios, así como contar con canales de comunicación directa con los promotores.
 
 
-### Segmento : Promotores
+#### Segmento : Promotores
 **Entrevista #4 – Datos del Entrevistado**
 
 | **Dato**                  | **Información**                          |
@@ -166,7 +240,7 @@ David, un representante y organizador de eventos, busca crear espacios donde el 
 **Resumen de la entrevista:** <br>
 Ela Moreno, una joven organizadora de eventos de 25 años, encuentra en su trabajo una pasión que cultiva desde temprana edad, motivada por crear espacios donde los jóvenes puedan aprender y crecer a través de la música. Define el éxito de un evento por la experiencia del público, especialmente en aspectos como la escenografía y la facilidad de acceso a entradas. Aunque prioriza la comunicación con locales y bandas, reconoce que este aspecto suele fallar, y ha aprendido a establecer reglas claras y contratos firmes para evitar inconvenientes, como cancelaciones de último momento. Entre los retos más comunes, menciona la falta de profesionalismo de algunos locales y problemas de coordinación técnica. Valora brindar un servicio de calidad a los artistas en sonido y luces, y sugiere que una plataforma tecnológica ideal debería permitir conocer a fondo las necesidades de las bandas, facilitando así una organización más transparente y eficiente.
 
-### 2.2.2 Análisis de entrevistas 
+#### 2.2.2 Análisis de entrevistas 
 Se realizó un análisis detallado de las entrevistas con los usuarios, lo cual nos permitió comprender a fondo sus expectativas, necesidades y percepciones. Este proceso nos brindó información valiosa sobre cómo imaginan su producto ideal y qué aspectos consideran prioritarios. A partir de esta información, tomamos decisiones clave para orientar el diseño y funcionalidad de la solución. A continuación, se presentan algunas de las evidencias gráficas obtenidas durante este proceso de investigación. 
 
 **Segmento 1: Músicos Independientes** <br>
