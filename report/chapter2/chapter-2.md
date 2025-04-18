@@ -167,6 +167,13 @@ David, un representante y organizador de eventos, busca crear espacios donde el 
 Ela Moreno, una joven organizadora de eventos de 25 años, encuentra en su trabajo una pasión que cultiva desde temprana edad, motivada por crear espacios donde los jóvenes puedan aprender y crecer a través de la música. Define el éxito de un evento por la experiencia del público, especialmente en aspectos como la escenografía y la facilidad de acceso a entradas. Aunque prioriza la comunicación con locales y bandas, reconoce que este aspecto suele fallar, y ha aprendido a establecer reglas claras y contratos firmes para evitar inconvenientes, como cancelaciones de último momento. Entre los retos más comunes, menciona la falta de profesionalismo de algunos locales y problemas de coordinación técnica. Valora brindar un servicio de calidad a los artistas en sonido y luces, y sugiere que una plataforma tecnológica ideal debería permitir conocer a fondo las necesidades de las bandas, facilitando así una organización más transparente y eficiente.
 
 ### 2.2.2 Análisis de entrevistas 
-**Segmento 1: Músicos Independientes ** <br>
-<img src="/assets/graficoCircular1.1.png" alt="Grafico 1" width="500"></a>
-<img src="/assets/graficoCircular1.2.png" alt="Grafico 2" width="500"></a>
+Se realizó un análisis detallado de las entrevistas con los usuarios, lo cual nos permitió comprender a fondo sus expectativas, necesidades y percepciones. Este proceso nos brindó información valiosa sobre cómo imaginan su producto ideal y qué aspectos consideran prioritarios. A partir de esta información, tomamos decisiones clave para orientar el diseño y funcionalidad de la solución. A continuación, se presentan algunas de las evidencias gráficas obtenidas durante este proceso de investigación. 
+
+**Segmento 1: Músicos Independientes** <br>
+<img src="/assets/graficoCircular1.1.png" alt="Grafico 1" width="500"></a> <br>  
+<img src="/assets/graficoCircular1.2.png" alt="Grafico 2" width="500"></a> <br>
+<img src="/assets/graficoCircular1.3.png" alt="Grafico 3" width="500"></a> <br>
+
+**Segmento 2: Promotores** <br>
+<img src="/assets/graficoCircular2.1.png" alt="Grafico 4" width="500"></a> <br>  
+<img src="/assets/graficoCircular2.2.png" alt="Grafico 5" width="500"></a> <br>  
