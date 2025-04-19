@@ -252,6 +252,17 @@ Se realizó un análisis detallado de las entrevistas con los usuarios, lo cual 
 <img src="/assets/graficoCircular2.1.png" alt="Grafico 4" width="500"></a> <br>  
 <img src="/assets/graficoCircular2.2.png" alt="Grafico 5" width="500"></a> <br>  
 
+## 2.3. Needfinding
+
+### 2.3.1. User Personas
+
+<br> **- Segmento Objetivo 1: Músicos Independientes** <br>
+
+<img src="/assets/MarcoAltamirano_UserPersona_Segmento1.png" alt="UserPersonaSegmento1"></a> <br>
+
+<br> **- Segmento Objetivo 2: Promotores** <br>
+<br> <img src="/assets/RodrigoCampoverde_UserPersona_Segmento2.png" alt="UserPersonaSegmento2"></a> <br>
+
 ### 2.3.3  User Journey Mapping
 En esta sección, analizaremos el recorrido del usuario al utilizar nuestra plataforma TocaAqui
 
