@@ -279,7 +279,7 @@ Se realizó un análisis detallado de las entrevistas con los usuarios, lo cual 
 | Evaluar presentaciones y recibir feedbacks | Always | Medium |
 | Crear contenido para redes sociales | Always | Medium |
 
-<br>- **Marco Altamirano (Promotor):**
+<br>- **Rodrigo Campoverde (Promotor):**
 
 | **Tareas** | **Frecuencia** | **Importancia** |
 |--------| ---------- | ----------- |
@@ -298,16 +298,20 @@ Se realizó un análisis detallado de las entrevistas con los usuarios, lo cual 
 Las tareas que tienen mayor frecuencia son las realizadas por los músicos independientes, ya que deben gestionar constantemente su perfil artístico, postularse a eventos, coordinar ensayos, manejar redes sociales y realizar la promoción de sus presentaciones. Estas actividades son clave para mantenerse activos en la escena musical y generar ingresos. Por otro lado, los promotores se enfocan en tareas que son constantes y de alta importancia, ya que deben estar en constante supervisión para la realización de eventos artísticos como la selección de talentos, la gestión de fechas disponibles y la coordinación logística. Además, de tareas esporádicas como la evaluación de bandas y análisis de resultados post-evento. Ambos perfiles coinciden en tareas que les permitan optimizar la coordinación, la comunicación y la gestión de eventos.
 
 ### 2.3.3  User Journey Mapping
-En esta sección, analizaremos el recorrido del usuario al utilizar nuestra plataforma TocaAqui
+En esta sección, analizaremos el recorrido del usuario al utilizar nuestra plataforma TocaAqui.
 
 **Segmento 1: Músicos Independientes** <br>
-<img src="/assets/musicosjourneymap.png" alt="Musicos" ></a> <br>  
+<img src="/assets/musicosjourneymap.png" alt="Musicos" ></a> <br>
+
 **Segmento 2: Promotores** <br>
-<img src="/assets/PromotoresJourneymap.png" alt="Promotores" ></a> <br>  
+<img src="/assets/PromotoresJourneymap.png" alt="Promotores" ></a> <br> 
+
 ### 2.3.4  Empathy   Mapping
-En esta sección se presenta el Empathy Mapping, una herramienta para crear un perfil detallado de los user personas y desarrollar una comprensión profunda de su perspectiva y experiencia. Para cada user persona, se incluyen cinco elementos clave: lo que el usuario ve, lo que el usuario escucha, lo que el usuario dice, lo que el usuario hace y lo que el usuario siente.<br>
+En esta sección se presenta el Empathy Mapping, una herramienta para crear un perfil detallado de los user personas y desarrollar una comprensión profunda de su perspectiva y experiencia. Para cada user persona, se incluyen cinco elementos clave: lo que el usuario ve, lo que el usuario escucha, lo que el usuario dice, lo que el usuario hace y lo que el usuario siente.
+
 **Segmento 1: Músicos Independientes** <br>
-<img src="/assets/musicosEmp.png" alt="Musicos" ></a> <br>  
+<img src="/assets/musicosEmp.png" alt="Musicos" ></a> <br>
+
 **Segmento 2: Promotores** <br>
 <img src="/assets/musicosEmpathy.png" alt="Promotores" ></a> <br>  
 
