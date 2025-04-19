@@ -263,6 +263,40 @@ Se realizó un análisis detallado de las entrevistas con los usuarios, lo cual 
 <br> **- Segmento Objetivo 2: Promotores** <br>
 <br> <img src="/assets/RodrigoCampoverde_UserPersona_Segmento2.png" alt="UserPersonaSegmento2"></a> <br>
 
+### 2.3.2. User Task Matrix
+
+<br>- **Marco Altamirano (Músico Independiente):**
+  
+| **Tareas** | **Frecuencia** | **Importancia** |
+|--------| ---------- | ----------- |
+| Búsqueda de escenarios | Always | High |
+| Postularse a eventos musicales | Always | High |
+| Firma de contratos con espacios | Sometimes | High |
+| Coordinación de horarios y ensayos | Sometimes | High |
+| Gestión de pagos por acuerdo | Sometimes | Medium |
+| Mantener perfil artístico constantemente | Sometimes | High |
+| Promocionar eventos en redes sociales  | Sometimes | High |
+| Evaluar presentaciones y recibir feedbacks | Always | Medium |
+| Crear contenido para redes sociales | Always | Medium |
+
+<br>- **Marco Altamirano (Promotor):**
+
+| **Tareas** | **Frecuencia** | **Importancia** |
+|--------| ---------- | ----------- |
+| Gestionar y publicar horarios disponibles para eventos  | Always | High |
+| Recibir postulaciones de artistas | Always | High |
+| Coordinación de logística con artistas y técnicos  | Sometimes | High |
+| Coordinación de horarios y ensayos | Sometimes | High |
+| Firmar contratos con artistas | Sometimes | Medium |
+| Gestionar inventario técnico y recursos | Sometimes | Medium |
+| Realizar pago a artistas y técnicos | Sometimes | High |
+| Validar requisitos técnicos | Always | High |
+| Promocionar eventos en redes sociales | Sometimes | High |
+| Evaluar artistas después del evento | Always | Medium |
+| Controlar asistentencia del público | Always | High |
+
+Las tareas que tienen mayor frecuencia son las realizadas por los músicos independientes, ya que deben gestionar constantemente su perfil artístico, postularse a eventos, coordinar ensayos, manejar redes sociales y realizar la promoción de sus presentaciones. Estas actividades son clave para mantenerse activos en la escena musical y generar ingresos. Por otro lado, los promotores se enfocan en tareas que son constantes y de alta importancia, ya que deben estar en constante supervisión para la realización de eventos artísticos como la selección de talentos, la gestión de fechas disponibles y la coordinación logística. Además, de tareas esporádicas como la evaluación de bandas y análisis de resultados post-evento. Ambos perfiles coinciden en tareas que les permitan optimizar la coordinación, la comunicación y la gestión de eventos.
+
 ### 2.3.3  User Journey Mapping
 En esta sección, analizaremos el recorrido del usuario al utilizar nuestra plataforma TocaAqui
 
