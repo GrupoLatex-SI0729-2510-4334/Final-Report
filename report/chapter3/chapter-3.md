@@ -5,7 +5,7 @@
 ### 3.2. User Stories
 
 ### 3.3. Impact Mapping
-<br><img src="assets/Impact Mapping - Toca Aqui-open source.png"><br>
+<br><img src="/assets/Impact Mapping - Toca Aqui-open source.png"><br>
 
 ### 3.4. Product Backlog
 | Orden | User Story Id | Título                                             | Descripción                                                                                             | Story Points |
