@@ -58,28 +58,40 @@
 | **User**           | password                 | Contraseña cifrada del usuario                                                  | String                   |
 | **User**           | role                     | Tipo de usuario (artist, promoter, admin)                                       | Enum                     |
 | **User**           | registration_date        | Fecha de creación de la cuenta                                                  | DateTime                 |
+| **User**           |is_active	                | Indica si la cuenta está activa o desactivada	                                  | Boolean                  |
+| **User**           |	phone_number	          | Número telefónico como método de contacto alternativo	                          | String                   |
 | **ArtistProfile**  | profile_id               | Identificador único del perfil artístico                                        | UUID / Integer           |
 | **ArtistProfile**  | stage_name               | Nombre artístico o de la banda                                                  | String                   |
 | **ArtistProfile**  | music_genre              | Género musical principal                                                        | String                   |
 | **ArtistProfile**  | biography                | Breve presentación del artista                                                  | String                   |
 | **ArtistProfile**  | multimedia_links         | Enlaces a redes sociales o muestras                                             | Array[String]            |
 | **ArtistProfile**  | average_rating           | Puntaje promedio otorgado por locales                                           | Float                    |
+| **ArtistProfile**  |	profile_picture         |	Imagen destacada del artista o banda	                                          | String / URL             |
+| **ArtistProfile**  |	location                |	Ciudad o distrito donde suelen presentarse                                      |	String                   |
+| **ArtistProfile**  |	tags	                  | Palabras clave para facilitar la búsqueda del artista	                          | Array[String]            |
 | **PromoterProfile**| promoter_profile_id      | Identificador del perfil de promotor                                            | UUID / Integer           |
 | **PromoterProfile**| venue_name               | Nombre del local o espacio cultural                                             | String                   |
 | **PromoterProfile**| address                  | Dirección del local                                                             | String                   |
 | **PromoterProfile**| description              | Descripción del espacio y sus características                                   | String                   |
 | **PromoterProfile**| capacity                 | Capacidad máxima del espacio                                                    | Integer                  |
 | **PromoterProfile**| average_rating           | Puntaje promedio otorgado por artistas                                          | Float                    |
+| **PromoterProfile**|	social_links	          | Enlaces a redes sociales del local                                              |	Array[String]            |
+| **PromoterProfile**|	photo_gallery	          | Imágenes del local para mostrarlo mejor en la plataforma                        |	Array[URL]               |
+| **PromoterProfile**|	location                |	Ubicación geográfica del local (distrito, ciudad, país)                         |	String                   |
 | **Event**          | event_id                 | Identificador único del evento                                                  | UUID / Integer           |
 | **Event**          | title                    | Nombre del evento                                                               | String                   |
 | **Event**          | description              | Detalles del evento                                                             | String                   |
 | **Event**          | event_date               | Fecha y hora de realización                                                     | DateTime                 |
 | **Event**          | preferred_genre          | Género musical preferido para la presentación                                   | String                   |
 | **Event**          | status                   | Estado del evento (published, with applications, confirmed, completed)          | Enum                     |
+| **Event**          |	tickets_link            |	Enlace a plataforma externa de venta de entradas	                              | String                   |
+| **Event**          |	rehearsal_required	    | Indica si se requiere ensayo previo                                             |	Boolean                  |
 | **Postulation**    | postulation_id           | Identificador de la postulación                                                 | UUID / Integer           |
 | **Postulation**    | message                  | Mensaje del artista al promotor                                                 | String                   |
 | **Postulation**    | status                   | Estado de la postulación (pending, accepted, rejected)                          | Enum                     |
 | **Postulation**    | postulation_date         | Fecha de envío de la postulación                                                | DateTime                 |
+| **Postulation**    |	rehearsal_confirmed	    | Indica si se ha confirmado un ensayo previo                                     |	Boolean                  |
+| **Postulation**    |	feedback                |	Comentarios del promotor hacia el artista                                       |	String                   |
 | **Contract**       | contract_id              | Identificador del contrato digital                                              | UUID / Integer           |
 | **Contract**       | pdf_file                 | Ruta o enlace al documento del contrato firmado                                 | String                   |
 | **Contract**       | signed_by_artist         | Estado de firma por el artista                                                  | Boolean                  |
@@ -89,10 +101,14 @@
 | **TechRider**      | requirements             | Lista de requerimientos técnicos                                                | String                   |
 | **TechRider**      | approved                 | Estado de aprobación por parte del promotor                                     | Boolean                  |
 | **TechRider**      | observations             | Comentarios del promotor                                                        | String                   |
+| **TechRider**      |	uploaded_files          |	Archivos técnicos cargados (planos, documentos, etc.)                           |	Array[URL]               |
+| **TechRider**      |	status_updated_at       |	Fecha de última actualización del rider	                                        |DateTime                  |
 | **Payment**        | payment_id               | Identificador único del pago                                                    | UUID / Integer           |
 | **Payment**        | amount                   | Monto acordado para el artista                                                  | Decimal                  |
 | **Payment**        | status                   | Estado del pago (pending, escrow, released)                                     | Enum                     |
 | **Payment**        | payment_date             | Fecha en que se realizó el pago                                                 | DateTime                 |
+| **Payment**        |	payment_method          |	Método de pago utilizado (yape, plin, tarjeta, transferencia, etc.)	            | Enum                     |
+| **Payment**        |	invoice_file	          | Enlace o ruta del comprobante de pago (boleta/factura)	                        | String / URL             |
 
 ### 4.8. Database Design
 
