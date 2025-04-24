@@ -2,9 +2,41 @@
 
 ### 4.1. Style Guidelines
 
+Un **Style Guideline** es un conjunto de reglas y recomendaciones que definen cómo deben mostrarse de forma uniforme los elementos visuales y textuales dentro de un proyecto. Abarca aspectos como la tipografía, la paleta de colores, el espaciado, el tono comunicativo, entre otros, con el fin de asegurar una presentación coherente en todo el desarrollo del proyecto.
+
 #### 4.1.1. General Style Guidelines
 
+Para el diseño del logotipo de nuestro producto **TocaAquí**, se eligió una propuesta visual moderna y llamativa que represente fielmente la misión y visión de la plataforma. El logo combina una tipografía estilizada y minimalista con un ícono que simboliza la conexión entre músicos y promotores. La palabra "TocaAquí" se presenta con una fuente legible y creativa, que evoca dinamismo y cercanía. La paleta de colores, compuesta por tonos cálidos y vibrantes, transmite energía y creatividad, características propias del ámbito musical y del entretenimiento. Los colores naranja y dorado refuerzan esta vitalidad, mientras que los matices en gris y blanco aportan un equilibrio sofisticado y actual.
+
+<img src="/assets/toca.jpeg">
+
+**Typography**
+
+Para la identidad tipográfica de TocaAquí, se han escogido fuentes modernas y funcionales que complementan la estética profesional y enérgica del proyecto. La fuente principal es Montserrat, una sans-serif clara y contemporánea que garantiza una lectura cómoda en formatos digitales. Esta tipografía se emplea principalmente en los textos de cuerpo y elementos informativos, aportando orden y claridad visual.
+
+En cuanto a los encabezados y títulos, se ha elegido Roboto, una fuente con mayor presencia y dinamismo, perfecta para resaltar secciones clave y captar la atención del usuario de forma inmediata.
+
+A continuación, se detallan las tipografías seleccionadas para el proyecto TocaAquí:
+
+<img src="/assets/typo.png">
+
+**Colors**
+
+La paleta cromática de TocaAquí ha sido cuidadosamente seleccionada para reflejar creatividad, vitalidad y confianza, en sintonía con la esencia dinámica del proyecto. Los colores elegidos evocan la pasión musical y refuerzan la idea de vínculo entre artistas y espacios culturales, ofreciendo una experiencia visual armoniosa, cautivadora y coherente con la identidad de la plataforma.
+
+<img src="/assets/color.png">
+
+**Spacing**
+
+El espaciado en TocaAquí ha sido meticulosamente pensado para garantizar una interfaz clara, intuitiva y amigable. Se ha priorizado una distribución equilibrada de los elementos, brindando suficiente aire entre ellos para mejorar la legibilidad y favorecer la interacción del usuario. El uso consistente del espaciado a lo largo del diseño contribuye a una estructura visual limpia y organizada, evitando la sobrecarga visual y facilitando la navegación en la plataforma.
+
 #### 4.1.2. Web Style Guidelines
+
+En TocaAquí, estamos construyendo una plataforma web responsiva, diseñada para adaptarse fluidamente a diferentes dispositivos, incluyendo laptops, tablets y smartphones. Esta decisión responde al objetivo de ofrecer una experiencia accesible y cómoda para músicos, promotores y usuarios, sin importar desde dónde accedan.
+
+Hemos optado por implementar el patrón de diseño en forma de Z, una estructura visual que sigue el recorrido natural de la mirada, facilitando la navegación y destacando los elementos clave. Este enfoque permite que los usuarios retengan mejor la información y se involucren más fácilmente con el contenido.
+
+Bajo este patrón, el logotipo de TocaAquí se posiciona en la esquina superior izquierda para asegurar su reconocimiento inmediato. En la esquina superior derecha se encuentra la barra de navegación, acompañada de un botón de acción prominente como “Publicar Evento” o “Unirse como Músico”, incentivando así la interacción activa desde el primer momento.
 
 ### 4.2. Information Architecture
 
@@ -22,15 +54,177 @@
 
 #### 4.3.1. Landing Page Wireframe
 
+A continuación, presentamos el Wireframe del Landing Page de la aplicación TocaAquí.
+
+<img src="/assets/landing-1.png">
+
 #### 4.3.2. Landing Page Mock-up
+
+Vamos a presentar el mock-up de la página de inicio de la aplicación.
+
+<img src="/assets/landing-2.png">
 
 ### 4.4. Web Applications UX/UI Design
 
 #### 4.4.1. Web Applications Wireframes.
 
+En esta sección se presentan los wireframes desarrollados para nuestra aplicación web.
+
+Login
+
+<img src="/assets/Login.png">
+
+Panel de control del artista
+
+<img src="/assets/Artisit Dashboard.png">
+
+Perfil del artista
+
+<img src="/assets/Artist Profile.png">
+
+Perfil del productor
+
+<img src="/assets/Productor Profile.png">
+
+Agenda
+
+<img src="/assets/Agenda.png">
+
+Postulaciones
+
+<img src="/assets/Postulaciones.png">
+
+Panel de control del productor
+
+<img src="/assets/Productor Dashboar.png">
+
+Evaluación del evento - Promotor
+
+<img src="/assets/Evaluación  post evento Promotor.png">
+<img src="/assets/Evaluación  post evento Promotor (1).png">
+
+Evaluación del evento - Artista
+
+<img src="/assets/Evaluación  post evento Músico.png">
+<img src="/assets/Evaluación  post evento Músico(1).png">
+<img src="/assets/Evaluación  post evento Músico(2).png">
+<img src="/assets/Evaluación  post evento Músico(3).png">
+
+Promoción del evento
+
+<img src="/assets/Promocion del evento y entradas.png">
+<img src="/assets/Promocion del evento y entradas (1).png">
+<img src="/assets/Promocion del evento y entradas (2).png">
+<img src="/assets/Promocion del evento y entradas (3).png">
+<img src="/assets/Promocion del evento y entradas (4).png">
+<img src="/assets/Promocion del evento y entradas (5).png">
+<img src="/assets/Promocion del evento y entradas (6).png">
+
+Pagos promotor
+
+<img src="/assets/Pagos promotor.png">
+<img src="/assets/Pagos promotor (1).png">
+
+Pagos artista
+
+<img src="/assets/Pagos artista.png">
+<img src="/assets/Pagos artista (1).png">
+
+Contrato digital
+
+<img src="/assets/Contrato Digital.png">
+<img src="/assets/Contrato Digital (1).png">
+<img src="/assets/Contrato Digital (2).png">
+
+Rider técnico/logístico
+
+<img src="/assets/Logistico.png">
+<img src="/assets/Logistico(1).png">
+<img src="/assets/Logistico(2).png">
+<img src="/assets/Logistico(3).png">
+
 #### 4.4.2. Web Applications Wireflow Diagrams
 
+Los Wireflows se emplean principalmente en el diseño de UX (experiencia de usuario), y son especialmente útiles en aplicaciones que presentan flujos de trabajo e interacciones complejas.
+
+<img src="/assets/Diagramaflujo.png">
+
 #### 4.4.3. Web Applications Mock-ups
+
+En esta sección se presentan los mock-ups creados para nuestra aplicación web.
+
+Login
+
+<img src="/assets/Login_Mock.png">
+
+Panel de control del artista
+
+<img src="/assets/Artisit Dashboard Mock.png">
+
+Perfil del artista
+
+<img src="/assets/Artist Profile Mock.png">
+
+Perfil del productor
+
+<img src="/assets/Productor Profile Mock.png">
+
+Agenda
+
+<img src="/assets/Agenda Mock.png">
+
+Postulaciones
+
+<img src="/assets/Postulaciones Mock.png">
+
+Panel de control del productor
+
+<img src="/assets/Productor Dashboard Mock.png">
+
+Evaluación del evento - Promotor
+
+<img src="/assets/Evaluación  post evento Promotor Mock.png">
+<img src="/assets/Evaluación  post evento Promotor Mock (1).png">
+
+Evaluación del evento - Artista
+
+<img src="/assets/Evaluación  post evento Musico Mock.png">
+<img src="/assets/Evaluación  post evento Musico Mock (1).png">
+<img src="/assets/Evaluación  post evento Músico Mock (2).png">
+<img src="/assets/Evaluación  post evento Músico Mock (3).png">
+
+Promoción del evento
+
+<img src="/assets/Promocion del evento y entradas Mock.png">
+<img src="/assets/Promocion del evento y entradas Mock (1).png">
+<img src="/assets/Promocion del evento y entradas Mock (2).png">
+<img src="/assets/Promocion del evento y entradas Mock (3).png">
+<img src="/assets/Promocion del evento y entradas Mock(4).png">
+<img src="/assets/Promocion del evento y entradas Mock (5).png">
+<img src="/assets/Promocion del evento y entradas Mock (6).png">
+
+Pagos promotor
+
+<img src="/assets/Pagos promotor Mock.png">
+<img src="/assets/Pagos promotor Mock (1).png">
+
+Pagos artista
+
+<img src="/assets/Pagos Artista Mock.png">
+<img src="/assets/Pagos Artista Mock (1).png">
+
+Contrato digital
+
+<img src="/assets/Contrato Digital Mock.png">
+<img src="/assets/Contrato Digital Mock (1).png">
+<img src="/assets/Contrato Digital Mock (2).png">
+
+Rider técnico/logísticoç
+
+<img src="/assets/Logistico Mock.png">
+<img src="/assets/Logistico Mock (1).png">
+<img src="/assets/Logistico Mock (2).png">
+<img src="/assets/Logistico Mock (3).png">
 
 #### 4.4.4. Web Applications User Flow Diagrams
 
