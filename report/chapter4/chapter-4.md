@@ -104,7 +104,7 @@
 | **Payment**        | amount                   | Monto acordado para el artista                                                  | Decimal                  |
 | **Payment**        | payment_date             | Fecha en que se realizó el pago                                                 | DateTime                 |
 | **Payment**        |	invoice_file	          | Enlace o ruta del comprobante de pago (boleta/factura)	                        | String / URL             |
-| **User_role**        | role_id               | Identificador del rol de usuario	                                                    | Integer           |
+| **UserRole**        | role_id               | Identificador del rol de usuario	                                                    | Integer           |
 | **UserRole**        | role_name	                  | Nombre del rol (artist, promoter, admin)	                                                  | String                  |
 | **EventStatus**        | status_id	             | Identificador del estado del evento	                                                 | DateTime                 |
 | **EventStatus**        |	status_name		          | Estado del evento (published, with confirmed, etc.)                        | String             |
