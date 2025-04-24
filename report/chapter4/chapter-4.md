@@ -106,13 +106,13 @@
 | **Payment**        |	invoice_file	          | Enlace o ruta del comprobante de pago (boleta/factura)	                        | String / URL             |
 | **UserRole**        | role_id               | Identificador del rol de usuario	                                                    | Integer           |
 | **UserRole**        | role_name	                  | Nombre del rol (artist, promoter, admin)	                                                  | String                  |
-| **EventStatus**        | status_id	             | Identificador del estado del evento	                                                 | DateTime                 |
+| **EventStatus**        | status_id	             | Identificador del estado del evento	                                                 | Integer                 |
 | **EventStatus**        |	status_name		          | Estado del evento (published, with confirmed, etc.)                        | String             |
-| **PostulationStatus**        | status_id	             | Identificador del estado de la postulación	                                                 | DateTime                 |
+| **PostulationStatus**        | status_id	             | Identificador del estado de la postulación	                                                 | Integer                 |
 | **PostulationStatus**        |	status_name			          | Estado de la postulación (pending, accepted, rejected)	                        | String             |
-| **PaymentStatus**        | status_id	             | Identificador del estado del pago	                                                 | DateTime                 |
+| **PaymentStatus**        | status_id	             | Identificador del estado del pago	                                                 | Integer                 |
 | **PaymentStatus**        |	status_name			          | Estado del pago (pending, escrow, released)		                        | String             |
-| **PaymentMethod**        | method_id	             | Identificador del método de pago	                                                 | DateTime                 |
+| **PaymentMethod**        | method_id	             | Identificador del método de pago	                                                 | Integer                 |
 | **PaymentMethod**        |	method_name			          | Método (yape, plin, tarjeta, transferencia, etc.)		                        | String             |
 ### 4.8. Database Design
 
