@@ -98,7 +98,7 @@
 | **TechRider**      | requirements             | Lista de requerimientos técnicos                                                | String                   |
 | **TechRider**      | approved                 | Estado de aprobación por parte del promotor                                     | Boolean                  |
 | **TechRider**      | observations             | Comentarios del promotor                                                        | String                   |
-| **TechRider**      |	uploaded_files          |	Archivos técnicos cargados (planos, documentos, etc.)                           |	Array[URL]               |
+| **TechRider**      |	uploaded_files          |	Archivos técnicos cargados (planos, documentos, etc.)                           |	Array[text]               |
 | **TechRider**      |	status_updated_at       |	Fecha de última actualización del rider	                                        |DateTime                  |
 | **Payment**        | payment_id               | Identificador único del pago                                                    | Integer           |
 | **Payment**        | amount                   | Monto acordado para el artista                                                  | Decimal                  |
