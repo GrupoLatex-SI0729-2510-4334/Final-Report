@@ -114,6 +114,10 @@
 | **PaymentStatus**        |	status_name			          | Estado del pago (pending, escrow, released)		                        | String             |
 | **PaymentMethod**        | method_id	             | Identificador del método de pago	                                                 | Integer                 |
 | **PaymentMethod**        |	method_name			          | Método (yape, plin, tarjeta, transferencia, etc.)		                        | String             |
+| **EventPromoter**    | event_promoter_id      | Identificador único de la relación entre evento y promotor          | UUID / Integer      |
+| **EventPromoter**    | role_in_event          | Rol o tipo de participación del promotor (opcional)                 | String       |
+| **EventPromoter**    | joined_at              | Fecha en la que el promotor se unió a la organización del evento    | DateTime            |
+
 ### 4.8. Database Design
 
 #### 4.8.1. Database Diagram
