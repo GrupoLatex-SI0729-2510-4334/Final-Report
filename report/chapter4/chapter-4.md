@@ -40,16 +40,65 @@ Bajo este patrón, el logotipo de TocaAquí se posiciona en la esquina superior 
 
 ### 4.2. Information Architecture
 
-#### 4.2.1. Organization Systems
+#### 4.2.1. Organization System
+
+**Segmento Músicos**<br>
+Perfil Profesional del Músico: Permite a los músicos mantener actualizado su perfil con biografía, géneros musicales, redes sociales y material audiovisual, facilitando la visibilidad y promoción de su trabajo.
+
+Gestión de Fechas Disponibles: Los músicos pueden marcar fechas disponibles o bloqueadas en un calendario interactivo, lo cual agiliza la programación de eventos.
+
+Historial de Contrataciones: Registro de todos los eventos en los que ha participado el músico, incluyendo pagos, contratantes y valoraciones recibidas.
+
+Gestión de Tarifas y Servicios: Los músicos pueden definir sus tarifas por tipo de presentación, duración, y servicios extra (sonido, transporte, etc.).
+
+**Segmento Promotores** 
+
+Gestión de Eventos: Permite a los promotores crear, editar y administrar múltiples eventos, incluyendo información sobre locación, fechas, horarios, y necesidades técnicas.
+
+Base de Datos de Músicos: Acceso a un catálogo con perfiles de músicos disponibles filtrados por género, ubicación, tarifa, etc., para facilitar la contratación adecuada.
+
+Historial de Contrataciones y Valoraciones: Registro de músicos previamente contratados, comentarios sobre su desempeño y seguimiento de pagos realizados.
+
+Panel de Coordinación Técnica: Espacio donde se definen requerimientos técnicos para cada presentación, incluyendo riders técnicos y logísticas acordadas con el artista.
 
 #### 4.2.2. Labeling Systems
+
+**Segmento Músicos**<br>
+<br>Etiqueta de Disponibilidad: Indica fechas disponibles, reservadas o en negociación para facilitar la agenda del músico.
+
+Etiqueta de Evento: Muestra el estado de los eventos agendados (confirmado, pendiente, cancelado) y la información relevante como locación y promotor.
+
+Etiqueta de Pagos: Indica si un pago está pendiente, procesado o retrasado, brindando transparencia financiera al músico.<br>
+
+**Segmento Promotores**<br>
+Etiqueta de Músico: Incluye detalles clave como disponibilidad, tarifa, género musical y reputación basada en valoraciones anteriores.
+
+Etiqueta de Estado de Evento: Visualiza rápidamente si el evento está en planeación, confirmado, o ya ejecutado, ayudando en la gestión de múltiples proyectos.
+
+Etiqueta de Logística: Marca los elementos logísticos cubiertos (transporte, hospedaje, sonido) y los pendientes para cada evento.
 
 #### 4.2.3. SEO Tags and Meta Tags
 
 #### 4.2.4. Searching Systems
+**Segmento Músicos**
+<br>Búsqueda por Oportunidades de Eventos: El músico puede encontrar eventos relevantes filtrando por ubicación, fecha, estilo musical, y tipo de presentación.
 
+Búsqueda por Promotores: Permite explorar promotores con historial en la plataforma y contactar a quienes más se alineen con su estilo profesional.
+
+**Segmento Promotores**
+<br>Búsqueda por Músicos: Filtros avanzados para encontrar músicos por género, ubicación, precio, experiencia, e idioma, asegurando una búsqueda precisa.
+
+Búsqueda por Historial de Eventos: Acceso rápido a eventos anteriores para reutilizar configuraciones o volver a contratar músicos previos.
 #### 4.2.5. Navigation Systems
+**Segmento Músicos***
+Menú Principal Personalizado: Acceso directo a calendario, historial de eventos, mensajes con promotores y configuración de perfil.
 
+Panel de Actividad Reciente: Vista rápida de nuevas solicitudes de eventos, cambios de estado o pagos realizados.
+
+**Segmento Promotores**
+<br>Menú de Navegación por Eventos: Permite alternar entre distintos eventos en planificación, acceso a músicos contratados y logística.
+
+Dashboard de Gestión: Visualización centralizada de los eventos próximos, contrataciones pendientes, pagos y tareas logísticas.
 ### 4.3. Landing Page UI Design
 
 #### 4.3.1. Landing Page Wireframe
