@@ -56,7 +56,6 @@
 | **User**           | name                     | Nombre completo del usuario                                                     | String                   |
 | **User**           | email                    | Dirección de correo electrónico única                                           | String (Email)           |
 | **User**           | password                 | Contraseña cifrada del usuario                                                  | String                   |
-| **User**           | role                     | Tipo de usuario (artist, promoter, admin)                                       | Enum                     |
 | **User**           | registration_date        | Fecha de creación de la cuenta                                                  | DateTime                 |
 | **User**           |is_active	                | Indica si la cuenta está activa o desactivada	                                  | Boolean                  |
 | **User**           |	phone_number	          | Número telefónico como método de contacto alternativo	                          | String                   |
@@ -83,12 +82,10 @@
 | **Event**          | description              | Detalles del evento                                                             | String                   |
 | **Event**          | event_date               | Fecha y hora de realización                                                     | DateTime                 |
 | **Event**          | preferred_genre          | Género musical preferido para la presentación                                   | String                   |
-| **Event**          | status                   | Estado del evento (published, with applications, confirmed, completed)          | Enum                     |
 | **Event**          |	tickets_link            |	Enlace a plataforma externa de venta de entradas	                              | String                   |
 | **Event**          |	rehearsal_required	    | Indica si se requiere ensayo previo                                             |	Boolean                  |
 | **Postulation**    | postulation_id           | Identificador de la postulación                                                 | Integer           |
 | **Postulation**    | message                  | Mensaje del artista al promotor                                                 | String                   |
-| **Postulation**    | status                   | Estado de la postulación (pending, accepted, rejected)                          | Enum                     |
 | **Postulation**    | postulation_date         | Fecha de envío de la postulación                                                | DateTime                 |
 | **Postulation**    |	rehearsal_confirmed	    | Indica si se ha confirmado un ensayo previo                                     |	Boolean                  |
 | **Postulation**    |	feedback                |	Comentarios del promotor hacia el artista                                       |	String                   |
@@ -105,11 +102,18 @@
 | **TechRider**      |	status_updated_at       |	Fecha de última actualización del rider	                                        |DateTime                  |
 | **Payment**        | payment_id               | Identificador único del pago                                                    | Integer           |
 | **Payment**        | amount                   | Monto acordado para el artista                                                  | Decimal                  |
-| **Payment**        | status                   | Estado del pago (pending, escrow, released)                                     | Enum                     |
 | **Payment**        | payment_date             | Fecha en que se realizó el pago                                                 | DateTime                 |
-| **Payment**        |	payment_method          |	Método de pago utilizado (yape, plin, tarjeta, transferencia, etc.)	            | Enum                     |
 | **Payment**        |	invoice_file	          | Enlace o ruta del comprobante de pago (boleta/factura)	                        | String / URL             |
-
+| **User_role**        | role_id               | Identificador del rol de usuario	                                                    | Integer           |
+| **UserRole**        | role_name	                  | Nombre del rol (artist, promoter, admin)	                                                  | String                  |
+| **EventStatus**        | status_id	             | Identificador del estado del evento	                                                 | DateTime                 |
+| **EventStatus**        |	status_name		          | Estado del evento (published, with confirmed, etc.)                        | String             |
+| **PostulationStatus**        | status_id	             | Identificador del estado de la postulación	                                                 | DateTime                 |
+| **PostulationStatus**        |	status_name			          | Estado de la postulación (pending, accepted, rejected)	                        | String             |
+| **PaymentStatus**        | status_id	             | Identificador del estado del pago	                                                 | DateTime                 |
+| **PaymentStatus**        |	status_name			          | Estado del pago (pending, escrow, released)		                        | String             |
+| **PaymentMethod**        | method_id	             | Identificador del método de pago	                                                 | DateTime                 |
+| **PaymentMethod**        |	method_name			          | Método (yape, plin, tarjeta, transferencia, etc.)		                        | String             |
 ### 4.8. Database Design
 
 #### 4.8.1. Database Diagram
