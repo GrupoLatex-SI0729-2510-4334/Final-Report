@@ -292,7 +292,7 @@ El sistema TocaAquí se basa en un diseño orientado a objetos y una base de dat
 
 #### 4.7.1. Class Diagrams
 
-![Class Diagram](assets/Clase UML-TocaAqui.png)
+<img src="/assets/Clase UML-TocaAqui.jpeg">
 
 #### 4.7.2. Class Dictionary
 
