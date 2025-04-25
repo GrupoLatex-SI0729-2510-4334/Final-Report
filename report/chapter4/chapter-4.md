@@ -288,6 +288,7 @@ Rider técnico/logísticoç
 #### 4.6.3. Software Architecture Components Diagrams
 
 ### 4.7. Software Object-Oriented Design
+El sistema TocaAquí se basa en un diseño orientado a objetos y una base de datos relacional para gestionar de manera eficiente y segura los datos de artistas, promotores, eventos y transacciones.
 
 #### 4.7.1. Class Diagrams
 
