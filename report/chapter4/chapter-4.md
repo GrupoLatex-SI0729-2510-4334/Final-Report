@@ -363,5 +363,9 @@ El sistema TocaAquí se basa en un diseño orientado a objetos y una base de dat
 | **EventPromoter**    | joined_at              | Fecha en la que el promotor se unió a la organización del evento    | DateTime            |
 
 ### 4.8. Database Design
+ * La base de datos relacional asegura integridad referencial mediante claves primarias y foráneas, y optimiza el rendimiento con índices en atributos frecuentemente consultados.
+ * El esquema de la base de datos representa fielmente el modelo del sistema, con tablas para usuarios, perfiles de artistas y promotores, eventos, postulaciones, contratos y pagos.
+ * Se han considerado mecanismos de seguridad como autenticación, cifrado de contraseñas y controles de acceso a nivel de usuario para proteger los datos.
+
 
 #### 4.8.1. Database Diagram
