@@ -245,7 +245,7 @@ Se realizó un análisis detallado de las entrevistas con los usuarios, lo cual 
 
 **Segmento 1: Músicos Independientes** <br>
 <img src="/assets/graficoCircular1.1.png" alt="Grafico 1" width="500"></a> <br>  
-<img src="/assets/graficoCircular1.2.png" alt="Grafico 2" width="500"></a> <br>
+<img src="/assets/graficocircular1.2.png" alt="Grafico 2" width="500"></a> <br>
 <img src="/assets/graficoCircular1.3.png" alt="Grafico 3" width="500"></a> <br>
 
 **Segmento 2: Promotores** <br>
