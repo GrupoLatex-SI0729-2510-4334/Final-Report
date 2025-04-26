@@ -29,7 +29,7 @@ Datos del Entrevistado:
 - Ciudad de residencia
 - Dispositivo utilizado (smartphone, tablet, laptop)
 
-* Preguntas principales:
+* Preguntas principales:<br>
 -¿Qué te pareció la apariencia general de la landing page de TocaAquí? ¿Te transmitió confianza y profesionalismo como músico independiente?
 
 - ¿Captaste rápidamente la propuesta de valor de TocaAquí? ¿Te quedó claro desde el inicio cómo puede ayudarte a conseguir más presentaciones?
@@ -68,7 +68,7 @@ Datos del Entrevistado:
 - Ciudad de residencia
 - Dispositivo utilizado (smartphone, tablet, laptop)
 
-* Preguntas principales:
+* Preguntas principales:<br>
 - ¿La Landing Page de TocaAquí transmite confianza para que un promotor como tú publique sus eventos? ¿Qué mejorarías?
 
 - ¿La navegación de la plataforma te pareció intuitiva para iniciar la publicación de un nuevo evento?
