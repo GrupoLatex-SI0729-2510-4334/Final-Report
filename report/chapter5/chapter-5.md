@@ -26,7 +26,7 @@ Validar la usabilidad y efectividad de la landing page de TocaAquí y de los flu
 - Nombre y apellidos
 - Edad
 - Ciudad de residencia
-- Dispositivo utilizado (smartphone, tablet, laptop)
+- Dispositivo utilizado (laptop)
 
 -*Preguntas principales:* <br>
 - ¿Qué te pareció la apariencia general de la landing page de TocaAquí? ¿Te transmitió confianza y profesionalismo como músico independiente?
