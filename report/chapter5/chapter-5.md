@@ -8,29 +8,28 @@ Validar la usabilidad y efectividad de la landing page de TocaAquí y de los flu
 **Segmento: Músicos Independientes**
 
 **Objetivo:Evaluar si el diseño, el flujo de registro, las herramientas de gestión musical y la claridad en la propuesta de valor ayudan al músico a comprender y usar la plataforma eficientemente..**
-* Explicación de los alcances de la demostración
+-*Explicación de los alcances de la demostración*
 - Landing Page
--Prinipales tareas en la aplicación
+- *Prinipales tareas en la aplicación*
 
-* Navegacion a través de la plataforma web
-* Flujos de usuario (user flows):
+-*Navegacion a través de la plataforma web*
+-*Flujos de usuario (user flows):*
 1. El usuario ingresa a landing page 
 2. Registro y creación de perfil musical.
 3. Visualización de fechas disponibles y postulación a eventos.
 4. Firma de contratos digitales y gestión de pagos mediante escrow.
 5. Gestión logística del evento desde su cuenta.
 6. Revisión de evaluaciones post-evento.
-   
-* Formato de Registro de la Entrevista
-Datos del Entrevistado:
 
+-*Formato de Registro de la Entrevista*
+*Datos del Entrevistado:
 - Nombre y apellidos
 - Edad
 - Ciudad de residencia
 - Dispositivo utilizado (smartphone, tablet, laptop)
 
-* Preguntas principales:<br>
--¿Qué te pareció la apariencia general de la landing page de TocaAquí? ¿Te transmitió confianza y profesionalismo como músico independiente?
+-*Preguntas principales:* <br>
+- ¿Qué te pareció la apariencia general de la landing page de TocaAquí? ¿Te transmitió confianza y profesionalismo como músico independiente?
 
 - ¿Captaste rápidamente la propuesta de valor de TocaAquí? ¿Te quedó claro desde el inicio cómo puede ayudarte a conseguir más presentaciones?
 
@@ -48,27 +47,27 @@ Datos del Entrevistado:
 
 **Objetivo: Determinar si los promotores encuentran la plataforma útil y eficiente para publicar eventos, recibir postulaciones, gestionar aspectos técnicos y tomar decisiones informadas sobre artistas..**
 
-* Explicación de los alcances de la demostración
+-*Explicación de los alcances de la demostración*
 - Landing Page
--Prinipales tareas en la aplicación
+-  Prinipales tareas en la aplicación
 
-* Navegacion a través de la plataforma web
-* Flujos de usuario (user flows):
+-*Navegacion a través de la plataforma web*
+-*Flujos de usuario (user flows):*
 1. El usuario ingresa a landing page 
 2. Registro y configuración de perfil como promotor.
 3. Publicación de fechas disponibles para eventos.
 4. Revisión y selección de postulaciones de artistas.
 5.Validación de requerimientos técnicos de los artistas.
 6. Evaluación de artistas post-evento.
-*Formato de Registro de la Entrevista
-Datos del Entrevistado:
+-*Formato de Registro de la Entrevista*
+-*Datos del Entrevistado:*
 
 - Nombre y apellidos
 - Edad
 - Ciudad de residencia
 - Dispositivo utilizado (smartphone, tablet, laptop)
 
-* Preguntas principales:<br>
+-*Preguntas principales:* <br>
 - ¿La Landing Page de TocaAquí transmite confianza para que un promotor como tú publique sus eventos? ¿Qué mejorarías?
 
 - ¿La navegación de la plataforma te pareció intuitiva para iniciar la publicación de un nuevo evento?
