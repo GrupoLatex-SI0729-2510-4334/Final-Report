@@ -1,6 +1,18 @@
 ## Capítulo III: Requirements Specification
 
 ### 3.1. To-Be Scenario Mapping
+**Segmento Musico**
+
+| Fase             | Acciones futuras con TocaAquí                                  | Pensamientos                                      | Emociones                 | Ganancias (Gains)                                          |
+|------------------|-----------------------------------------------------------------|----------------------------------------------------|---------------------------|------------------------------------------------------------|
+| Descubrimiento   | Ver oportunidades de eventos en una plataforma centralizada      | ¡Aquí puedo encontrar eventos adecuados para mí!   | Entusiasmo, motivación    | Acceso fácil y organizado a múltiples oportunidades       |
+| Evaluación       | Ver perfiles verificados de promotores y condiciones claras    | ¿Cuál me conviene más?                             | Seguridad                 | Transparencia de términos y antecedentes                   |
+| Postulación      | Aplicar a eventos con un clic, enviando su perfil profesional | Envíe mi propuesta fácilmente                     | Confianza                 | Simplificación y profesionalización de su aplicación        |
+| Contratación     | Aceptar contratos digitales con términos claros                 | Ya tengo todo por escrito                         | Tranquilidad              | Seguridad jurídica y financiera                            |
+| Ejecución        | Acceder a checklists, riders técnicos, y detalles del evento   | Sé exactamente qué esperar                         | Preparación, control      | Reducción de imprevistos logísticos y técnicos             |
+| Post-evento      | Recibir pagos automáticos y recolectar feedback estructurado    | ¡Cerré un evento exitosamente!                     | Satisfacción, orgullo     | Consolidación de reputación y generación de más ofertas |
+
+**Segmento Promotor**
 
 ### 3.2. User Stories
 
