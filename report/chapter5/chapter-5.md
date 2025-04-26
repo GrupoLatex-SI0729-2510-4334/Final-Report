@@ -99,7 +99,7 @@ A continuación presentamos los resultados de las entrevistas de validación rea
 
 **SITE o APP A EVALUAR**: TocaAquí 
 
-## TAREAS A EVALUAR
+**TAREAS A EVALUAR**
 
 1. Visualización de beneficios y funcionalidades de la plataforma
 2. Acceso a la sección de contacto
@@ -110,7 +110,7 @@ A continuación presentamos los resultados de las entrevistas de validación rea
 
 
 
-## EVALUACIÓN SEGÚN HEURÍSTICAS
+**EVALUACIÓN SEGÚN HEURÍSTICAS**
 
 | # | Heurística | Observación | Severidad (0-4) | Recomendación |
 |---|------------|-------------|----------------|---------------|
@@ -124,7 +124,7 @@ A continuación presentamos los resultados de las entrevistas de validación rea
 | 8 | Ayuda y documentación | No hay sección de ayuda visible o guía para nuevos usuarios. | 2 | Incluir una sección tipo “¿Cómo funciona?” con pasos o video explicativo. |
 
 
-## Evaluación adicional: Inclusive Design
+**Evaluación adicional: Inclusive Design**
 
 | Aspecto | Observación | Recomendación |
 |---------|-------------|---------------|
