@@ -1,12 +1,12 @@
 **Diseño de Entrevistas**
 
-####Objetivo de la entrevista:
+**Objetivo de la entrevista:**
 
 Validar la usabilidad y efectividad de la landing page y de los flujos de usuario de FoodSuit, asegurando que cada flujo sea intuitivo, claro y funcional para los usuarios y su interaccion con la plataforma.
 
-####Segmento: Músicos Independientes
+**Segmento: Músicos Independientes**
 
-#####Objetivo: Validar la claridad del diseño, el flujo de registro, postulación a eventos, y funcionalidades que apoyen su visibilidad y gestión musical.
+**Objetivo: Validar la claridad del diseño, el flujo de registro, postulación a eventos, y funcionalidades que apoyen su visibilidad y gestión musical.**
 
 ¿Qué te pareció la apariencia general de la landing page de TocaAquí? ¿Te transmitió confianza y profesionalismo como músico independiente?
 
@@ -22,9 +22,9 @@ Validar la usabilidad y efectividad de la landing page y de los flujos de usuari
 
 ¿Te sentiste motivado a registrarte en la plataforma después de leer la landing page? ¿Qué te animaría aún más a hacerlo?
 
-#####Segmento: Promotores
+**Segmento: Promotores**
 
-#####Objetivo: Validar la facilidad para publicar eventos, recibir postulaciones, gestionar aspectos técnicos y tomar decisiones informadas sobre artistas.
+**Objetivo: Validar la facilidad para publicar eventos, recibir postulaciones, gestionar aspectos técnicos y tomar decisiones informadas sobre artistas.**
 
 ¿La Landing Page de TocaAquí transmite confianza para que un promotor como tú publique sus eventos? ¿Qué mejorarías?
 
