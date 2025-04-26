@@ -377,3 +377,5 @@ El sistema TocaAquí se basa en un diseño orientado a objetos y una base de dat
 
 
 #### 4.8.1. Database Diagram
+<img src="/assets/databaseDiagram.png">
+
