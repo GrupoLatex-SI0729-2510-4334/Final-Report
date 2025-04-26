@@ -283,9 +283,15 @@ Rider técnico/logísticoç
 
 #### 4.6.1. Software Architecture Context Diagrams
 
+<img src="/assets/ContextDiagram_TocaAqui.png">
+
 #### 4.6.2. Software Architecture Container Diagrams
 
+<img src="/assets/ContainerDiagram_TocaAqui.png">
+
 #### 4.6.3. Software Architecture Components Diagrams
+
+<img src="/assets/ComponentsDiagram_TocaAqui.png">
 
 ### 4.7. Software Object-Oriented Design
 El sistema TocaAquí se basa en un diseño orientado a objetos y una base de datos relacional para gestionar de manera eficiente y segura los datos de artistas, promotores, eventos y transacciones.
