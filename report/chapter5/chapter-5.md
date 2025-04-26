@@ -85,7 +85,51 @@ Validar la usabilidad y efectividad de la landing page de TocaAquí y de los flu
   ### 5.3.2. Registro de Entrevistas.
   
 A continuación presentamos los resultados de las entrevistas de validación realizadas a los musicos independientes y promotores, nuestros segmentos objetivos.
+  ### 5.3.3. Evaluaciones según herurísticas.
 
-## Segmento Obejtivo: Músicos Independientes
+**UX Heuristics & Principles Evaluation**
+**Usability – Inclusive Design – Information Architecture**
+
+**CARRERA**: Ingeniería de Software  
+**CURSO**: Desarrollo de Aplicaciones Open Source  
+**SECCIÓN**: [4334]  
+**PROFESORES**: Todos  
+**AUDITOR**: Grupo TocaAquí  
+**CLIENTE(S)**: Todos
+
+**SITE o APP A EVALUAR**: TocaAquí 
+
+## TAREAS A EVALUAR
+
+1. Visualización de beneficios y funcionalidades de la plataforma
+2. Acceso a la sección de contacto
+3. Navegación desde el menú
+4. Acceso a los botones de registro por tipo de usuario
+5. Cambio de idioma
+6. Visualización de testimonios u opiniones
+
+
+
+## EVALUACIÓN SEGÚN HEURÍSTICAS
+
+| # | Heurística | Observación | Severidad (0-4) | Recomendación |
+|---|------------|-------------|----------------|---------------|
+| 1 | Visibilidad del estado del sistema | No hay indicador visual que confirme que se ha accedido a una sección distinta (por ejemplo, About o Contacto). | 2 | Añadir efectos de scroll o resaltado del menú activo. |
+| 2 | Correspondencia entre el sistema y el mundo real | El lenguaje utilizado en botones es claro y amigable ("Únete como artista/promotor"). | 0 | Ninguna. Excelente elección de lenguaje. |
+| 3 | Control y libertad del usuario | No hay opción para retroceder fácilmente a la parte superior desde secciones inferiores. | 1 | Añadir un botón “Volver arriba” o scroll automático al hacer clic en el logo. |
+| 4 | Consistencia y estándares | Buen uso de íconos y colores consistentes en toda la página. | 0 | Ninguna. |
+| 5 | Reconocimiento antes que recuerdo | Secciones como “Equipo” y “Beneficios” están claramente rotuladas. | 0 | Ninguna. |
+| 6 | Flexibilidad y eficiencia de uso | El sitio está adaptado a dispositivos móviles (responsive). | 1 | Optimizar el menú para que sea tipo "hamburguesa" en móvil. |
+| 7 | Diseño estético y minimalista | El diseño es limpio y moderno, no sobrecarga al usuario. | 0 | Ninguna. |
+| 8 | Ayuda y documentación | No hay sección de ayuda visible o guía para nuevos usuarios. | 2 | Incluir una sección tipo “¿Cómo funciona?” con pasos o video explicativo. |
+
+
+## Evaluación adicional: Inclusive Design
+
+| Aspecto | Observación | Recomendación |
+|---------|-------------|---------------|
+| Contraste de colores | El contraste entre texto blanco y fondo es legible, pero el fondo de algunos botones puede mejorar. | Asegurar un contraste mínimo de 4.5:1 en todos los elementos. |
+| Tamaño de fuente | Tamaño adecuado en la mayoría de elementos, pero puede ser pequeño en móvil. | Aumentar ligeramente el tamaño en dispositivos pequeños. |
+| Inclusión de íconos con texto | Los botones y secciones se entienden sin necesidad de íconos. | Considerar incluir íconos para facilitar el reconocimiento visual. |
 
 
