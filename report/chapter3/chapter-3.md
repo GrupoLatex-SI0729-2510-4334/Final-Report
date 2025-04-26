@@ -13,7 +13,14 @@
 | Post-evento      | Recibir pagos automáticos y recolectar feedback estructurado    | ¡Cerré un evento exitosamente!                     | Satisfacción, orgullo     | Consolidación de reputación y generación de más ofertas |
 
 **Segmento Promotor**
-
+| Fase                 | Acciones futuras con TocaAquí                                     | Pensamientos                                          | Emociones             | Ganancias (Gains)                                             |
+|----------------------|--------------------------------------------------------------------|--------------------------------------------------------|-----------------------|---------------------------------------------------------------|
+| Planeación del evento | Publicar evento y recibir postulaciones filtradas y calificadas    | Encuentro músicos que encajan perfectamente          | Confianza, alivio     | Ahorro de tiempo en búsqueda y selección                     |
+| Evaluación           | Revisar perfiles profesionales estandarizados y referencias       | Puedo comparar fácil y elegir lo mejor                | Claridad              | Decisiones más rápidas y mejor informadas                    |
+| Negociación          | Formalizar acuerdos con contratos digitales integrados            | Todo queda claro para ambas partes                    | Seguridad jurídica    | Disminución de conflictos o malentendidos                   |
+| Organización técnica | Compartir riders técnicos, cronogramas y necesidades en la plataforma | Todo el equipo está alineado                          | Organización          | Optimización de logística y reducción de errores              |
+| Día del evento       | Confirmar asistencia y resolver incidencias menores a través de la app | Estoy tranquilo, tengo control del evento             | Control, confianza    | Mejor ejecución general del evento                           |
+| Evaluación final     | Recibir feedback automático de asistentes y músicos              | ¿Cómo mejorar para el siguiente evento?                | Mejora continua       | Métricas claras para mejorar la calidad de futuros eventos |
 ### 3.2. User Stories
 
 | Epic ID | Título | Descripción |
