@@ -83,5 +83,9 @@ Validar la usabilidad y efectividad de la landing page de TocaAquí y de los flu
 - ¿Qué aspecto de la plataforma crees que podría hacerle mejoras para los próximos eventos?
 
   ### 5.3.2. Registro de Entrevistas.
+  
+A continuación presentamos los resultados de las entrevistas de validación realizadas a los musicos independientes y promotores, nuestros segmentos objetivos.
+
+## Segmento Obejtivo: Músicos Independientes
 
 
