@@ -86,102 +86,126 @@ Validar la usabilidad y efectividad de la landing page de TocaAquí y de los flu
   
 A continuación presentamos los resultados de las entrevistas de validación realizadas a los musicos independientes y promotores, nuestros segmentos objetivos.
 
-<table border="1">
+### Segmento : Músicos Independientes
+**Entrevista 1    
+<table border="1" cellspacing="0" cellpadding="8">
   <thead>
     <tr>
-      <th>Segmento : Músicos Independientes</th>
-      <th>Datos</th>
+      <th><strong>Dato</strong></th>
+      <th><strong>Información</strong></th>
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td rowspan="8">Entrevista 1</td>
-      <td rowspan="8">Músicos Independientes</td>
-      <td><strong>Entrevistado:</strong> Alexander Gabriel Montoya Torres</td>
-    </tr>
-    <tr><td><strong>Edad:</strong> 19 años</td></tr>
-    <tr><td><strong>Distrito:</strong> San Miguel</td></tr>
-    <tr><td><strong>Inicio de entrevista:</strong> 00:00</td></tr>
-    <tr><td><strong>Duración de la entrevista:</strong> 06:40</td></tr>
-    <tr><td><strong>Foto captura:</strong> <img src="/assets/AlexanderValidacion.png" alt="Alexander captura"></td></tr>
-    <tr><td><strong>Visualización de la Landing Page:</strong> Le gustó mucho el diseño general, resaltando los colores negro, amarillo y blanco. Considera que transmite confianza y profesionalismo. La información está organizada de forma clara y entendible.</td></tr>
-    <tr><td><strong>Exploración de funcionalidades clave:</strong> Considera práctico el calendario de fechas para organizar presentaciones y valora la facilidad de comunicación con promotores. Sugiere mostrar ejemplos de bandas que ya usaron la plataforma.</td></tr>
-    <tr><td><strong>Flujos de registro y navegación inicial:</strong> Positiva. Se siente motivado a registrarse. Sugiere mejorar el perfil de usuario agregando más detalles para hacerlo más completo.</td></tr>
-    <tr><td><strong>Publicación de eventos y postulación:</strong> Valoró la funcionalidad de la agenda de shows y la posibilidad de gestionar fechas y logística de forma sencilla.</td></tr>
-    <tr><td><strong>Planes y diferencias de servicios:</strong> Entiende las diferencias entre los planes, pero sugiere que funcionalidades como escrow automático y automatización logística también estén en el plan medio.</td></tr>
-
-    <tr>
-      <td rowspan="8">Entrevista 2</td>
-      <td rowspan="8">Músicos Independientes</td>
-      <td><strong>Entrevistado:</strong> Bryan Dennis Huamán Salas</td>
-    </tr>
-    <tr><td><strong>Edad:</strong> 20 años</td></tr>
-    <tr><td><strong>Distrito:</strong> Surco</td></tr>
-    <tr><td><strong>Inicio de entrevista:</strong> 06:40</td></tr>
-    <tr><td><strong>Duración de la entrevista:</strong> 06:00</td></tr>
-    <tr><td><strong>Foto captura:</strong> <img src="/assets/BryanValidacion.png" alt="Bryan captura"></td></tr>
-    <tr><td><strong>Visualización de la Landing Page:</strong> La apariencia le transmitió confianza y profesionalismo, pero comentó que el fondo dificultaba la lectura por el exceso de brillo. Sugiere ajustar el color o contraste.</td></tr>
-    <tr><td><strong>Exploración de funcionalidades clave:</strong> Percibe que la plataforma ofrece opciones interesantes como contacto con locales y fechas disponibles, aunque desea ver más herramientas visuales asociadas a la música.</td></tr>
-    <tr><td><strong>Flujos de registro y navegación inicial:</strong> Entendió bien los accesos iniciales y considera que podría gestionar sus shows sin mayores complicaciones.</td></tr>
-    <tr><td><strong>Publicación de eventos y postulación:</strong> Aprecia que haya formas claras de contacto y postulación, aunque no profundizó mucho en esta parte inicial.</td></tr>
-    <tr><td><strong>Planes y diferencias de servicios:</strong> Entiende las diferencias entre Básico, Medio y Premium, pero sugiere agregar más beneficios para hacerlo más atractivo.</td></tr>
-
-    <tr>
-      <td rowspan="8">Entrevista 3</td>
-      <td rowspan="8">Músicos Independientes</td>
-      <td><strong>Entrevistado:</strong> Benjamín (Alexander Gabriel Montoya Torres)</td>
-    </tr>
-    <tr><td><strong>Edad:</strong> 18 años</td></tr>
-    <tr><td><strong>Distrito:</strong> Breña</td></tr>
-    <tr><td><strong>Inicio de entrevista:</strong> 00:00</td></tr>
-    <tr><td><strong>Duración de la entrevista:</strong> 06:40</td></tr>
-    <tr><td><strong>Foto captura:</strong> <img src="/assets/BenjaminValidacion.png" alt="Benjamín captura"></td></tr>
-    <tr><td><strong>Visualización de la Landing Page:</strong> La landing page le pareció llamativa, especialmente por el uso de colores, y le transmitió confianza y profesionalismo.</td></tr>
-    <tr><td><strong>Exploración de funcionalidades clave:</strong> Entendió rápidamente la propuesta de valor: músicos se presentan y promotores los descubren de manera clara y directa.</td></tr>
-    <tr><td><strong>Flujos de registro y navegación inicial:</strong> Se mostró motivado a registrarse tras explorar la landing page. Consideró que la sección "Sobre nosotros" y ver los desarrolladores aumentó su confianza. Sugiere mostrar ejemplos de usuarios anteriores para reforzar la confianza.</td></tr>
-    <tr><td><strong>Publicación de eventos y postulación:</strong> No observó claramente cómo gestionar fechas disponibles, pero entendió que la plataforma facilita encontrar oportunidades para tocar.</td></tr>
-    <tr><td><strong>Planes y diferencias de servicios:</strong> Valoró positivamente los diferentes planes (básico, medio y premium) y consideró que los precios son adecuados en comparación al mercado.</td></tr>
+    <tr><td>Nombre completo</td><td>Alexander Gabriel Montoya Torres</td></tr>
+    <tr><td>Edad</td><td>19 años</td></tr>
+    <tr><td>Distrito</td><td>San Miguel</td></tr>
+    <tr><td>Inicio de la entrevista</td><td>00:00</td></tr>
+    <tr><td>Duración de la entrevista</td><td>06:40</td></tr>
+    <tr><td>Foto captura</td><td><img src="/assets/AlexanderValidacion.png" alt="Alexander captura"></td></tr>
+    <tr><td>Visualización de la Landing Page</td><td>Le gustó mucho el diseño general, resaltando los colores negro, amarillo y blanco. Considera que transmite confianza y profesionalismo. La información está organizada de forma clara y entendible.</td></tr>
+    <tr><td>Exploración de funcionalidades clave</td><td>Considera práctico el calendario de fechas para organizar presentaciones y valora la facilidad de comunicación con promotores. Sugiere mostrar ejemplos de bandas que ya usaron la plataforma.</td></tr>
+    <tr><td>Flujos de registro y navegación inicial</td><td>Positiva. Se siente motivado a registrarse. Sugiere mejorar el perfil de usuario agregando más detalles para hacerlo más completo.</td></tr>
+    <tr><td>Publicación de eventos y postulación</td><td>Valoró la funcionalidad de la agenda de shows y la posibilidad de gestionar fechas y logística de forma sencilla.</td></tr>
+    <tr><td>Planes y diferencias de servicios</td><td>Entiende las diferencias entre los planes, pero sugiere que funcionalidades como escrow automático y automatización logística también estén en el plan medio.</td></tr>
   </tbody>
 </table>
 
+**Entrevista 2
+<table border="1" cellspacing="0" cellpadding="8">
+  <thead>
+    <tr>
+      <th><strong>Dato</strong></th>
+      <th><strong>Información</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>Nombre completo</td><td>Bryan Dennis Huamán Salas</td></tr>
+    <tr><td>Edad</td><td>20 años</td></tr>
+    <tr><td>Distrito</td><td>Surco</td></tr>
+    <tr><td>Inicio de la entrevista</td><td>06:40</td></tr>
+    <tr><td>Duración de la entrevista</td><td>06:00</td></tr>
+    <tr><td>Foto captura</td><td><img src="/assets/BryanValidacion.png" alt="Bryan captura"></td></tr>
+    <tr><td>Visualización de la Landing Page</td><td>La apariencia le transmitió confianza y profesionalismo, pero comentó que el fondo dificultaba la lectura por el exceso de brillo. Sugiere ajustar el color o contraste.</td></tr>
+    <tr><td>Exploración de funcionalidades clave</td><td>Percibe que la plataforma ofrece opciones interesantes como contacto con locales y fechas disponibles, aunque desea ver más herramientas visuales asociadas a la música.</td></tr>
+    <tr><td>Flujos de registro y navegación inicial</td><td>Entendió bien los accesos iniciales y considera que podría gestionar sus shows sin mayores complicaciones.</td></tr>
+    <tr><td>Publicación de eventos y postulación</td><td>Aprecia que haya formas claras de contacto y postulación, aunque no profundizó mucho en esta parte inicial.</td></tr>
+    <tr><td>Planes y diferencias de servicios</td><td>Entiende las diferencias entre Básico, Medio y Premium, pero sugiere agregar más beneficios para hacerlo más atractivo.</td></tr>
+  </tbody>
+</table>
+
+**Entrevista 3
+<table border="1" cellspacing="0" cellpadding="8">
+  <thead>
+    <tr>
+      <th><strong>Dato</strong></th>
+      <th><strong>Información</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>Nombre completo</td><td>Benjamín Peraltilla Herrera </td></tr>
+    <tr><td>Edad</td><td>18 años</td></tr>
+    <tr><td>Distrito</td><td>Breña</td></tr>
+    <tr><td>Inicio de la entrevista</td><td>00:00</td></tr>
+    <tr><td>Duración de la entrevista</td><td>06:40</td></tr>
+    <tr><td>Foto captura</td><td><img src="/assets/BenjaminValidacion.png" alt="Benjamín captura"></td></tr>
+    <tr><td>Visualización de la Landing Page</td><td>La landing page le pareció llamativa, especialmente por el uso de colores, y le transmitió confianza y profesionalismo.</td></tr>
+    <tr><td>Exploración de funcionalidades clave</td><td>Entendió rápidamente la propuesta de valor: músicos se presentan y promotores los descubren de manera clara y directa.</td></tr>
+    <tr><td>Flujos de registro y navegación inicial</td><td>Se mostró motivado a registrarse tras explorar la landing page. Consideró que la sección "Sobre nosotros" y ver los desarrolladores aumentó su confianza. Sugiere mostrar ejemplos de usuarios anteriores para reforzar la confianza.</td></tr>
+    <tr><td>Publicación de eventos y postulación</td><td>No observó claramente cómo gestionar fechas disponibles, pero entendió que la plataforma facilita encontrar oportunidades para tocar.</td></tr>
+    <tr><td>Planes y diferencias de servicios</td><td>Valoró positivamente los diferentes planes (básico, medio y premium) y consideró que los precios son adecuados en comparación al mercado.</td></tr>
+  </tbody>
+</table>
 
 ### Segmento : Promotores
 
+**Entrevista 1 
 
+<table border="1" cellspacing="0" cellpadding="8">
+  <thead>
+    <tr>
+      <th><strong>Dato</strong></th>
+      <th><strong>Información</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>Nombre completo</td><td>William Agustín Ventura Saldaña</td></tr>
+    <tr><td>Edad</td><td>27 años</td></tr>
+    <tr><td>Distrito</td><td>Surco</td></tr>
+    <tr><td>Inicio de la entrevista</td><td>00:00</td></tr>
+    <tr><td>Duración de la entrevista</td><td>06:40</td></tr>
+    <tr><td>Foto captura</td><td><img src="/assets/AgustinValidacion.png" alt="Agustín captura"></td></tr>
+    <tr><td>Visualización de la Landing Page</td><td>Indicó que la landing page es llamativa y vistosa, transmitiendo confianza especialmente para eventos grandes. Sin embargo, comentó que para personas que buscan algo más discreto podría no ser tan atractiva.</td></tr>
+    <tr><td>Exploración de funcionalidades clave</td><td>Comentó que el sistema de validación de requerimientos técnicos de cada artista es útil y genera confianza. También mencionó que el sistema de contratos digitales y pagos protegidos refuerza esta sensación.</td></tr>
+    <tr><td>Flujos de registro y navegación inicial</td><td>Opinó que la navegación para iniciar la publicación de un evento es bastante intuitiva y fácil de comprender.</td></tr>
+    <tr><td>Publicación de eventos y postulación</td><td>Indicó que la plataforma incluye la mayoría de la información necesaria, como planes y datos de contacto, lo que genera confianza para la gestión de eventos.</td></tr>
+    <tr><td>Planes y diferencias de servicios</td><td>Se mostró conforme con las diferencias entre los planes y necesidades, que proporciona."</td></tr>
+  </tbody>
+</table>
 
-| Entrevista 1                             | Promotores                                                                                                                     |                                                                                                                                                                                                                                                                       
-|------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
-| Entrevistado                             | William Agustín Ventura Saldaña                                                                                                |                                                                
-| Edad                                     | 27 años                                                                                                                        |                                                                
-| Distrito                                 | Surco                                                                                                                          |                                                                
-| Inicio de entrevista                     | 00:00                                                                                                                          |
-| Duración de la entrevista                | 06:40                                                                                                                          |
-| Foto captura                             | <img src="/assets/AgustinValidacion.png">                                                                                      |                                                                | Visualización de la Landing Page	       | Indico landing page es llamativa y vistosa, transmite confianza especialmente para eventos grandes. Sin embargo, para          |
-|                                          | personas que buscan algo más discreto podría no ser tan atractiva.                                                             |
-| Exploración de funcionalidades clave	   | Comento que el sistema de validación de requerimientos técnicos de cada artista es útil y genera confianza                     |                                                                |                                          | Menciono que sistema de contratos digitales y pagos protegidos también genera alta confianza.                                  |
-| Flujos de registro y navegación inicial  | Opina que navegación para iniciar la publicación de un evento es bastante intuitiva.                                           |                                              
-| Publicación de eventos y postulación	   | Incluye que la mayoría de la información necesaria: planes, datos de contacto, generan confianza en la gestión del evento.     |
-| Planes y diferencias de servicios        |                                                                                                                                |
-                 
-| Entrevista 3                             | Promotores                                                                                                                     |                                                                                                                                                                                                                                                                       
-|------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
-| Entrevistado                             | Ela Moreno                                                                                                                     |                                                                
-| Edad                                     | 25 años                                                                                                                        |                                                                
-| Distrito                                 | Molino                                                                                                                         |
-| Inicio de entrevista                     | 06:40                                                                                                                          |
-| Duración de la entrevista                | 06:00                                                                                                                          |
-| Foto captura                             | <img src="/assets/ElaValidacion.png">                                                                                          |                                                                
-| Visualización de la Landing Page	       | Le transmitió confianza y profesionalismo. Destacó que el diseño es atractivo, fácil de manejar y la idea de la plataforma le  |
-|                                          | pareció innovadora.                                                                                                            |
-| Exploración de funcionalidades clave     | Consideró muy útiles las herramientas como el calendario, contratos digitales, validación técnica y gestor de logística.       |
-|                                          | Mencionó que ayudan a ahorrar mucho tiempo.                                                                                    |
-| Flujos de registro y navegación inicial  | Opinó que la navegación y el flujo son intuitivos y fáciles de entender. No presentó dificultades al comprender cómo           |
-|                                          | registrarse o postular a eventos.                                                                                              |
-| Publicación de eventos y postulación     | Consideró que el flujo de publicación contiene toda la información necesaria para gestionar un evento y que el sistema         |
-|                                          | facilita la comunicación entre músicos y promotores.                                                                           |
-| Planes y diferencias de servicios        | Mencionó que los planes le parecieron buenos y claros. Notó las diferencias y valoró positivamente la existencia de            |
-|                                          | diferentes opciones para distintos tipos de usuarios.                                                                          |
-|Sugerencias de mejora                     | Sugirió que podría detallarse más información sobre los organizadores de los eventos para generar aún más postulantes.         |  
+**Entrevista 3
+<table border="1" cellspacing="0" cellpadding="8">
+  <thead>
+    <tr>
+      <th><strong>Dato</strong></th>
+      <th><strong>Información</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>Nombre completo</td><td>Ela Moreno</td></tr>
+    <tr><td>Edad</td><td>25 años</td></tr>
+    <tr><td>Distrito</td><td>Molino</td></tr>
+    <tr><td>Inicio de la entrevista</td><td>06:40</td></tr>
+    <tr><td>Duración de la entrevista</td><td>06:00</td></tr>
+    <tr><td>Foto captura</td><td><img src="/assets/ElaValidacion.png" alt="Ela captura"></td></tr>
+    <tr><td>Visualización de la Landing Page</td><td>Le transmitió confianza y profesionalismo. Destacó que el diseño es atractivo, fácil de manejar y que la idea de la plataforma le pareció innovadora.</td></tr>
+    <tr><td>Exploración de funcionalidades clave</td><td>Consideró muy útiles las herramientas como el calendario, contratos digitales, validación técnica y gestor de logística. Mencionó que ayudan a ahorrar mucho tiempo.</td></tr>
+    <tr><td>Flujos de registro y navegación inicial</td><td>Opinó que la navegación y el flujo son intuitivos y fáciles de entender. No presentó dificultades al comprender cómo registrarse o postular a eventos.</td></tr>
+    <tr><td>Publicación de eventos y postulación</td><td>Consideró que el flujo de publicación contiene toda la información necesaria para gestionar un evento y que el sistema facilita la comunicación entre músicos y promotores.</td></tr>
+    <tr><td>Planes y diferencias de servicios</td><td>Mencionó que los planes le parecieron buenos y claros. Notó las diferencias y valoró positivamente la existencia de diferentes opciones para distintos tipos de usuarios.</td></tr>
+    <tr><td>Sugerencias de mejora</td><td>Sugirió que podría detallarse más información sobre los organizadores de los eventos para generar aún más confianza en los postulantes.</td></tr>
+  </tbody>
+</table>
+
 
 
   ### 5.3.3. Evaluaciones según herurísticas.
