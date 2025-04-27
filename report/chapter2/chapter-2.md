@@ -248,25 +248,25 @@ Ela Moreno, una joven organizadora de eventos de 25 años, encuentra en su traba
 Se realizó un análisis detallado de las entrevistas con los usuarios, lo cual nos permitió comprender a fondo sus expectativas, necesidades y percepciones. Este proceso nos brindó información valiosa sobre cómo imaginan su producto ideal y qué aspectos consideran prioritarios. A partir de esta información, tomamos decisiones clave para orientar el diseño y funcionalidad de la solución. A continuación, se presentan algunas de las evidencias gráficas obtenidas durante este proceso de investigación. 
 
 **Segmento 1: Músicos Independientes** <br>
-<img src="/assets/graficoCircular1.1.png" alt="Grafico 1" width="500"></a> <br>  
-<img src="/assets/graficocircular1.2.png" alt="Grafico 2" width="500"></a> <br>
-<img src="/assets/graficoCircular1.3.png" alt="Grafico 3" width="500"></a> <br>
+![Grafico1](/assets/graficoCircular1.1.png "Grafico 1")
+![Grafico2](/assets/graficocircular1.2.png "Grafico 2")
+![Grafico3](/assets/graficoCircular1.3.png "Grafico 3")
 
 **Segmento 2: Promotores** <br>
-<img src="/assets/graficoCircular2.1.png" alt="Grafico 4" width="500"></a> <br>  
-<img src="/assets/graficoCircular2.2.png" alt="Grafico 5" width="500"></a> <br>  
+![Grafico4](/assets/graficoCircular2.1.png "Grafico 4")
+![Grafico5](/assets/graficoCircular2.1.png "Grafico 5")
 
 ## 2.3. Needfinding
 
 ### 2.3.1. User Personas
 
 <br> **- Segmento Objetivo 1: Músicos Independientes** <br>
-
-<img src="/assets/MarcoAltamirano_UserPersona_Segmento1.png" alt="UserPersonaSegmento1"></a> <br>
+![UserPersonaSegmento1](/assets/MarcoAltamirano_UserPersona_Segmento1.png "User Persona Segmento 1")
+ <br>
 
 <br> **- Segmento Objetivo 2: Promotores** <br>
-<br> <img src="/assets/RodrigoCampoverde_UserPersona_Segmento2.png" alt="UserPersonaSegmento2"></a> <br>
-
+![UserPersonaSegmento2](/assets/RodrigoCampoverde_UserPersona_Segmento2.png "User Persona Segmento 2")
+<br>
 ### 2.3.2. User Task Matrix
 
 <br>- **Marco Altamirano (Músico Independiente):**
