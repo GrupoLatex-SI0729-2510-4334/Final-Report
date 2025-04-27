@@ -179,9 +179,9 @@ Pagos artista
 
 Contrato digital
 
-<img src="/assets/Contrato Digital.png">
-<img src="/assets/Contrato Digital (1).png">
-<img src="/assets/Contrato Digital (2).png">
+![ContratoDigital](/assets/ContratoDigital.png "Contrato Digital")
+![ContratoDigital1](/assets/ContratoDigital1.png "Contrato Digital 1")
+![ContratoDigital2](/assets/ContratoDigital2.png "Contrato Digital 2")
 
 Rider técnico/logístico
 ![Logistico](/assets/Logistico.png "Logistico")
@@ -263,9 +263,9 @@ Pagos artista
 
 Contrato digital
 
-<img src="/assets/Contrato Digital Mock.png">
-<img src="/assets/Contrato Digital Mock (1).png">
-<img src="/assets/Contrato Digital Mock (2).png">
+![ContratoMockup](/assets/ContratoDigitalMock.png "Contrato Mockup")
+![ContratoMockup1](/assets/ContratoDigitalMock1.png "Contrato Mockup 1")
+![ContratoMockup2](/assets/ContratoDigitalMock2.png "Contrato Mockup 2")
 
 Rider técnico/logísticoç
 
