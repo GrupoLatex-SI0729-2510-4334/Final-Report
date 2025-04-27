@@ -48,7 +48,7 @@ Para nuestra estrategia de gestión de versiones con Git, nos hemos inspirado en
 
 **Flujo de trabajo GitFlow:**
 <br>
-![Flujo de Trabajo](/assets/FlujoDeTrabajo_Gitflow.png "Flujo de Trabajo")
+![Flujo de Trabajo](../../assets/FlujoDeTrabajo_Gitflow.png "Flujo de Trabajo")
 
 **Estructura de Ramas (Branches):**
 
@@ -201,17 +201,17 @@ A continuación, se presentan las User Stories correspondientes que fueron reali
 **Propósito de la Plataforma**
 El diseño general de la landing page transmite de manera clara y directa el propósito de TocaAquí, permitiendo al visitante entender rápidamente la misión de la plataforma y lo que ofrece.
 
-<img src="/assets/image1.png">
+<img src="../../assets/image1.png">
 
 **Planes Disponibles**
 Se visualizan claramente las suscripciones disponibles para artistas y locales, con una estructura fácil de entender y botones de acción visibles para facilitar la interacción de los usuarios.
 
-<img src="/assets/image2.png">
+<img src="../../assets/image2.png">
 
 **Nuestro Equipo**
 La sección "Sobre Nosotros" presenta al equipo de desarrollo de TocaAquí, mostrando perfiles y contribuyendo a la transparencia del proyecto, lo que fortalece la confianza en la plataforma.
 
-<img src="/assets/image3.png">
+<img src="../../assets/image3.png">
 
 **Acceso Rápido al Registro**
 Los botones de llamada a la acción (CTA) en la landing page permiten un acceso rápido y fácil al formulario de registro, asegurando que los usuarios puedan unirse a la plataforma sin complicaciones.
@@ -232,7 +232,7 @@ Durante el Sprint 1, se realizó el despliegue de la landing page del proyecto u
 
 El sitio fue configurado y publicado correctamente, permitiendo acceso público a las secciones: Inicio, Sobre Nosotros, Planes y Contactanos.
 
-![Landing_page](/assets/landing-2.png)
+![Landing_page](../../assets/landing-2.png)
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
@@ -248,10 +248,10 @@ En la realización del Sprint 1, se observó una participación activa y equitat
 
 
 **Commits:**
-![Commits](/assets/commits.png)
+![Commits](../../assets/commits.png)
 
 **Analiticas de Colaboración:** <br>
-![Contributors](/assets/contributors.png)
+![Contributors](../../assets/contributors.png)
 
 ### 5.3 Validation Interviews
 #### 5.3.1 Diseño de entrevistas
@@ -356,7 +356,7 @@ A continuación presentamos los resultados de las entrevistas de validación rea
     <tr><td>Distrito</td><td>San Miguel</td></tr>
     <tr><td>Inicio de la entrevista</td><td>00:00</td></tr>
     <tr><td>Duración de la entrevista</td><td>06:40</td></tr>
-    <tr><td>Foto captura</td><td><img src="/assets/AlexanderValidacion.png" alt="Alexander captura"></td></tr>
+    <tr><td>Foto captura</td><td><img src="../../assets/AlexanderValidacion.png" alt="Alexander captura"></td></tr>
     <tr><td>Visualización de la Landing Page</td><td>Le gustó mucho el diseño general, resaltando los colores negro, amarillo y blanco. Considera que transmite confianza y profesionalismo. La información está organizada de forma clara y entendible.</td></tr>
     <tr><td>Exploración de funcionalidades clave</td><td>Considera práctico el calendario de fechas para organizar presentaciones y valora la facilidad de comunicación con promotores. Sugiere mostrar ejemplos de bandas que ya usaron la plataforma.</td></tr>
     <tr><td>Flujos de registro y navegación inicial</td><td>Positiva. Se siente motivado a registrarse. Sugiere mejorar el perfil de usuario agregando más detalles para hacerlo más completo.</td></tr>
@@ -380,7 +380,7 @@ A continuación presentamos los resultados de las entrevistas de validación rea
     <tr><td>Distrito</td><td>Surco</td></tr>
     <tr><td>Inicio de la entrevista</td><td>06:40</td></tr>
     <tr><td>Duración de la entrevista</td><td>06:00</td></tr>
-    <tr><td>Foto captura</td><td><img src="/assets/BryanValidacion.png" alt="Bryan captura"></td></tr>
+    <tr><td>Foto captura</td><td><img src="../../assets/BryanValidacion.png" alt="Bryan captura"></td></tr>
     <tr><td>Visualización de la Landing Page</td><td>La apariencia le transmitió confianza y profesionalismo, pero comentó que el fondo dificultaba la lectura por el exceso de brillo. Sugiere ajustar el color o contraste.</td></tr>
     <tr><td>Exploración de funcionalidades clave</td><td>Percibe que la plataforma ofrece opciones interesantes como contacto con locales y fechas disponibles, aunque desea ver más herramientas visuales asociadas a la música.</td></tr>
     <tr><td>Flujos de registro y navegación inicial</td><td>Entendió bien los accesos iniciales y considera que podría gestionar sus shows sin mayores complicaciones.</td></tr>
@@ -404,7 +404,7 @@ A continuación presentamos los resultados de las entrevistas de validación rea
     <tr><td>Distrito</td><td>Breña</td></tr>
     <tr><td>Inicio de la entrevista</td><td>00:00</td></tr>
     <tr><td>Duración de la entrevista</td><td>06:40</td></tr>
-    <tr><td>Foto captura</td><td><img src="/assets/BenjaminValidacion.png" alt="Benjamín captura"></td></tr>
+    <tr><td>Foto captura</td><td><img src="../../assets/BenjaminValidacion.png" alt="Benjamín captura"></td></tr>
     <tr><td>Visualización de la Landing Page</td><td>La landing page le pareció llamativa, especialmente por el uso de colores, y le transmitió confianza y profesionalismo.</td></tr>
     <tr><td>Exploración de funcionalidades clave</td><td>Entendió rápidamente la propuesta de valor: músicos se presentan y promotores los descubren de manera clara y directa.</td></tr>
     <tr><td>Flujos de registro y navegación inicial</td><td>Se mostró motivado a registrarse tras explorar la landing page. Consideró que la sección "Sobre nosotros" y ver los desarrolladores aumentó su confianza. Sugiere mostrar ejemplos de usuarios anteriores para reforzar la confianza.</td></tr>
@@ -431,7 +431,7 @@ A continuación presentamos los resultados de las entrevistas de validación rea
     <tr><td>Distrito</td><td>Surco</td></tr>
     <tr><td>Inicio de la entrevista</td><td>00:00</td></tr>
     <tr><td>Duración de la entrevista</td><td>06:40</td></tr>
-    <tr><td>Foto captura</td><td><img src="/assets/AgustinValidacion.png" alt="Agustín captura"></td></tr>
+    <tr><td>Foto captura</td><td><img src="../../assets/AgustinValidacion.png" alt="Agustín captura"></td></tr>
     <tr><td>Visualización de la Landing Page</td><td>Indicó que la landing page es llamativa y vistosa, transmitiendo confianza especialmente para eventos grandes. Sin embargo, comentó que para personas que buscan algo más discreto podría no ser tan atractiva.</td></tr>
     <tr><td>Exploración de funcionalidades clave</td><td>Comentó que el sistema de validación de requerimientos técnicos de cada artista es útil y genera confianza. También mencionó que el sistema de contratos digitales y pagos protegidos refuerza esta sensación.</td></tr>
     <tr><td>Flujos de registro y navegación inicial</td><td>Opinó que la navegación para iniciar la publicación de un evento es bastante intuitiva y fácil de comprender.</td></tr>
@@ -455,7 +455,7 @@ A continuación presentamos los resultados de las entrevistas de validación rea
     <tr><td>Distrito</td><td>Los Olivos</td></tr>
     <tr><td>Inicio de la entrevista</td><td>00:00</td></tr>
     <tr><td>Duración de la entrevista</td><td>06:40</td></tr>
-    <tr><td>Foto captura</td><td><img src="/assets/DavidValidacion.png" alt="David captura"></td></tr>
+    <tr><td>Foto captura</td><td><img src="../../assets/DavidValidacion.png" alt="David captura"></td></tr>
     <tr><td>Visualización de la Landing Page</td><td>Genera alta confianza. La landing page es vista como una herramienta de apoyo fundamental para los promotores. Transmite seriedad y permite sentirse respaldado al momento de agendar o publicar eventos rápidamente.</td></tr>
     <tr><td>Exploración de funcionalidades clave</td><td>Se percibe como didáctica, intuitiva y muy llamativa. Las funcionalidades como la publicación de eventos, la selección en calendario, y el detalle de beneficios son claros y accesibles, facilitando el trabajo del promotor.</td></tr>
     <tr><td>Flujos de registro y navegación inicial</td><td>Flujo intuitivo y funcional. La navegación inicial permite empezar de forma rápida la programación de eventos, seleccionar fechas, lugares y condiciones fácilmente. Además, la validación de requerimientos técnicos por artista mejora la experiencia.</td></tr>
@@ -479,7 +479,7 @@ A continuación presentamos los resultados de las entrevistas de validación rea
     <tr><td>Distrito</td><td>Molino</td></tr>
     <tr><td>Inicio de la entrevista</td><td>06:40</td></tr>
     <tr><td>Duración de la entrevista</td><td>06:00</td></tr>
-    <tr><td>Foto captura</td><td><img src="/assets/ElaValidacion.png" alt="Ela captura"></td></tr>
+    <tr><td>Foto captura</td><td><img src="../../assets/ElaValidacion.png" alt="Ela captura"></td></tr>
     <tr><td>Visualización de la Landing Page</td><td>Le transmitió confianza y profesionalismo. Destacó que el diseño es atractivo, fácil de manejar y que la idea de la plataforma le pareció innovadora.</td></tr>
     <tr><td>Exploración de funcionalidades clave</td><td>Consideró muy útiles las herramientas como el calendario, contratos digitales, validación técnica y gestor de logística. Mencionó que ayudan a ahorrar mucho tiempo.</td></tr>
     <tr><td>Flujos de registro y navegación inicial</td><td>Opinó que la navegación y el flujo son intuitivos y fáciles de entender. No presentó dificultades al comprender cómo registrarse o postular a eventos.</td></tr>
