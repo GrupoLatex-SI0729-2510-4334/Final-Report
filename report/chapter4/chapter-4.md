@@ -131,10 +131,10 @@ Perfil del artista
 
 Perfil del productor
 
-<img src="/assets/Productor Profile.png">
+<img src="../../assets/Productor Profile.png">
 
 Agenda
-![Agenda](../../assets/Agenda.png "Agenda")
+![Agenda](../../assets/Agenda.png )
 
 
 Postulaciones
