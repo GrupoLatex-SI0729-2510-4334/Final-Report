@@ -275,6 +275,18 @@ Rider técnico/logísticoç
 <img src="../../assets/Logistico Mock (3).png">
 
 #### 4.4.4. Web Applications User Flow Diagrams
+<img src="../../assets/Revision.png">
+<img src="../../assets/Rea.png">
+<img src="../../assets/Rea2.png">
+<img src="../../assets/Rea3.png">
+<img src="../../assets/Rea4.png">
+<img src="../../assets/Rea5.png">
+<img src="../../assets/Rea6.png">
+<img src="../../assets/Rea7.png">
+<img src="../../assets/Rea8.png">
+<img src="../../assets/Rea9.png">
+
+
 
 ### 4.5. Web Applications Prototyping
 
