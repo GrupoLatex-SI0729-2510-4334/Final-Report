@@ -290,6 +290,9 @@ Rider técnico/logísticoç
 
 ### 4.5. Web Applications Prototyping
 
+![DesktopPrototyping](../../assets/DesktopPrototyping.PNG "Desktop Prototyping")
+<br> ![MobilePrototyping](../../assets/MobilePrototyping.PNG "Mobile Prototyping")
+
 ### 4.6. Domain-Driven Software Architecture
 
 #### 4.6.1. Software Architecture Context Diagrams
