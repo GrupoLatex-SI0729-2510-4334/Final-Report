@@ -321,3 +321,18 @@ A continuación presentamos los resultados de las entrevistas de validación rea
 | Inclusión de íconos con texto | Los botones y secciones se entienden sin necesidad de íconos. | Considerar incluir íconos para facilitar el reconocimiento visual. |
 
 
+# Conclusiones
+- TocaAquí responde a una necesidad real en la industria musical independiente, es decir, el proyecto surge como solución a los problemas de informalidad, falta de oportunidades y desorganización que afectan a músicos emergentes y promotores de eventos. Esta plataforma propone profesionalizar el vínculo entre artistas y espacios culturales mediante tecnología segura, accesible y eficiente.
+
+- A través de entrevistas y análisis de segmentos objetivos, se identificó que tanto músicos como promotores demandan herramientas que faciliten la contratación directa, la coordinación logística y el aseguramiento de pagos, confirmando la pertinencia de la solución planteada.
+
+- Aplicando el proceso de Lean UX se establecieron hipótesis, problemas y soluciones que priorizan una experiencia sencilla, intuitiva y confiable. Esto garantiza que la plataforma no solo resuelva problemas técnicos, sino también genere valor emocional y profesional a sus usuarios.
+
+- A diferencia de plataformas existentes que solo ofrecen contactos o promoción de eventos, TocaAquí integra contratación formal, pagos vía escrow, validación técnica y promoción colaborativa, construyendo un ecosistema confiable para el desarrollo de la escena musical emergente.
+
+- La implementación exitosa de TocaAquí no solo beneficiará a músicos y promotores, sino que también contribuirá a dinamizar el circuito cultural independiente, impulsando la profesionalizació
+# Bibliografía
+
+- Asociación Peruana de Managers Musicales. (2020). Encuesta sobre el impacto de la pandemia en músicos independientes. Cocktail. https://cocktail.pe/mas-del-80-de-musicos-independientes-padecen-economicamente-durante-la-pandemia/
+- Ramos Espinoza, M. A. (2021). Música independiente en Lima: mapeo de un circuito cultural desde las lógicas de sus agentes (Tesis de licenciatura, Pontificia Universidad Católica del Perú). PUCP. https://tesis.pucp.edu.pe/items/ab79feff-9493-4f8e-9aa8-81d3e50ec57d/full
+- Soriano, P. D. (2020). Eventos musicales para contribuir a la oferta cultural en el Centro Histórico de Lima. Universidad de San Martín de Porres. https://repositorio.usmp.edu.pe/bitstream/handle/20.500.12727/7073/SORIANO_PD.pdf?sequence=1
