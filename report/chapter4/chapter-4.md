@@ -17,6 +17,7 @@ En cuanto a los encabezados y títulos, se ha elegido Roboto, una fuente con may
 <br>
 
 A continuación, se detallan las tipografías seleccionadas para el proyecto TocaAquí:
+<br>
 ![Typography](/assets/typo.png "Typography")
 
 
@@ -373,5 +374,5 @@ El sistema TocaAquí se basa en un diseño orientado a objetos y una base de dat
 
 
 #### 4.8.1. Database Diagram
-![DatabaseDiagram](/assets/databaseDiagram..png "DatabaseDiagram")
+![DatabaseDiagram](/assets/databaseDiagram.png "DatabaseDiagram")
 
