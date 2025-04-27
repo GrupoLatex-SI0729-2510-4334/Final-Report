@@ -281,6 +281,7 @@ A continuación presentamos los resultados de las entrevistas de validación rea
     <tr><td>Planes y diferencias de servicios</td><td>Entiende las diferencias entre los planes, pero sugiere que funcionalidades como escrow automático y automatización logística también estén en el plan medio.</td></tr>
   </tbody>
 </table>
+[URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/ESDM8thHRehIhtIRW0xccVkBOmuRNRItcUYWGiqwzNCL4Q?e=76Uw2x)
 
 **Entrevista 2**
 <table border="1" cellspacing="0" cellpadding="8">
@@ -304,7 +305,7 @@ A continuación presentamos los resultados de las entrevistas de validación rea
     <tr><td>Planes y diferencias de servicios</td><td>Entiende las diferencias entre Básico, Medio y Premium, pero sugiere agregar más beneficios para hacerlo más atractivo.</td></tr>
   </tbody>
 </table>
-
+[URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/ESDM8thHRehIhtIRW0xccVkBOmuRNRItcUYWGiqwzNCL4Q?e=76Uw2x)
 **Entrevista 3**
 <table border="1" cellspacing="0" cellpadding="8">
   <thead>
@@ -327,6 +328,7 @@ A continuación presentamos los resultados de las entrevistas de validación rea
     <tr><td>Planes y diferencias de servicios</td><td>Valoró positivamente los diferentes planes (básico, medio y premium) y consideró que los precios son adecuados en comparación al mercado.</td></tr>
   </tbody>
 </table>
+[URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/ESDM8thHRehIhtIRW0xccVkBOmuRNRItcUYWGiqwzNCL4Q?e=76Uw2x)
 
 ### Segmento : Promotores
 
@@ -353,6 +355,7 @@ A continuación presentamos los resultados de las entrevistas de validación rea
     <tr><td>Planes y diferencias de servicios</td><td>Se mostró conforme con las diferencias entre los planes y necesidades, que proporciona."</td></tr>
   </tbody>
 </table>
+[URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/ESDM8thHRehIhtIRW0xccVkBOmuRNRItcUYWGiqwzNCL4Q?e=76Uw2x)
 
 **Entrevista 2**
 <table border="1" cellspacing="0" cellpadding="8">
@@ -376,6 +379,7 @@ A continuación presentamos los resultados de las entrevistas de validación rea
     <tr><td>Planes y diferencias de servicios</td><td>Aunque actualmente la plataforma es satisfactoria, el entrevistado sugiere mejorar ofreciendo beneficios tipo "Premium" y alianzas estratégicas, que otorguen ventajas tanto a nivel nacional como internacional para promotores frecuentes.</td></tr>
   </tbody>
 </table>
+[URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/ESDM8thHRehIhtIRW0xccVkBOmuRNRItcUYWGiqwzNCL4Q?e=76Uw2x)
 
 **Entrevista 3**
 <table border="1" cellspacing="0" cellpadding="8">
@@ -400,6 +404,7 @@ A continuación presentamos los resultados de las entrevistas de validación rea
     <tr><td>Sugerencias de mejora</td><td>Sugirió que podría detallarse más información sobre los organizadores de los eventos para generar aún más confianza en los postulantes.</td></tr>
   </tbody>
 </table>
+[URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/ESDM8thHRehIhtIRW0xccVkBOmuRNRItcUYWGiqwzNCL4Q?e=76Uw2x)
 
 
 
