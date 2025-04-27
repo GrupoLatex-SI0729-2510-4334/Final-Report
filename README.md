@@ -127,6 +127,7 @@ del ABET – EAC - Student Outcome 5.</p>
           <li>Diego Ivan Cabrera Buitron: <br> Asistencia a reuniones de equipo, apertura de ayuda a otros miembros del equipo y cumplimiento de la creación estructural de la carátula, registro de versiones, project report collaborations insights, contenido del informe y el student outcome.</li>
           <li>Andrea Elizabeth Santur Tello: <br> ACA COLOCAN EL TEXTO</li>
           <li>Nanfuñay Liza Pedro Jesús: <br> Asistí de manera activa a las reuniones del equipo, donde establecí metas claras. Ello me permitió organizar y trabajar en conjunto con el equipo de manera efectiva para alcanar los objetivos establecidos.</li>
+                <li>NPedraza Maldonado Joaquin: <br> Asisti a las reuniones pactadas por mi grupo y ayude a que mis compañeros realicen efectivamente sus partes  asignadas y cumpli  a tiempo mis actividades asignadas mediante la elaboración de la TB1.</li>
         </ul>
       </td>
       <td><p><strong>TB1</strong></p><p align="justify">Cada miembro de nuestro equipo mostró disposición y estableció un entorno colaborativo a través de medios de comunicación efectivos, se establecieron reuniones, llamadas, entregas tempranas y constantes revisiones de cada capítulo de nuestro proyecto. Nos reunimos en periodos continuos para opinar y colaborar en cada proceso del desarrollo de nuestro producto y su documentación. Nos establecimos metas tempranas con la planificación de tareas y las mejoramos conjuntamente con la revisión de la calidad del proceso culminado.</p>
