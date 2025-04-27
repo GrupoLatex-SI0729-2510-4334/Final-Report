@@ -132,7 +132,7 @@ El diseño de las entrevistas ha sido elaborado cuidadosamente en función de lo
 | Duración de la entrevista |   06:40                                  |
 
 **Detalles de la entrevista:** <br>
-![Entrevista Alexander](/assets/AlexanderEntrevista1.png "Entrevista 1")
+![Entrevista Alexander](./assets/AlexanderEntrevista1.png "Entrevista 1")
 <br>
 [URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/EWnvCRctvWtNnWC_5f9lcN0BhU8OvDz-oYj8QhkF3xSBDw?e=IJe6js&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
