@@ -72,6 +72,66 @@ Para nuestra estrategia de gestión de versiones con Git, nos hemos inspirado en
 <br>Para los mensajes de los commits realizados, se utilizará la especificación Conventional Commits basada en Angular Commit Guidelines. La estructura a seguir será la siguiente:
 <br> `git commit -m "<type>[optional scope]:<title>" -m"<description">`
 
+### 5.1.3. Source Code Style Guide & Coding Conventions
+Para el correcto uso de lenguajes de programación, se adaptarán buenas prácticas respecto a las convenciones estándares para coding que garantizarán el correcto desarrollo de la solución.
+
+**HTML:**
+
+- A pesar que HTML permite mezclar letras mayúsculas y minúsculas en los nombres de los elementos, se recomienda usar nombres de elementos en minúsculas.
+- Todos los elementos deben estar correctamente cerrados.
+  <br> `<p>This is a paragraph.</p>`
+- Los nombres de etiquetas y atributos deben ir en minúscula.
+  <br> `href`
+- Se recomienda entrecomillar los valores de los atributos.
+  <br> `<table class="striped">`
+
+**CSS:**
+
+- Los nombres de clases deben seguir la convención kebab-case. Ejemplo: `.ads-sample`
+- Los selectores deben ser claros y específicos.
+- Se debe mantener una estructura ordenada con propiedades agrupadas por tipo (layout, tipografía, colores, etc.).
+- Se recomienda separar los selectores y declaraciones en líneas independientes.
+
+**Gherkin:**
+
+- Los escenarios deben escribirse en lenguaje natural estructurado: Given, When, Then.
+- Los nombres de los escenarios deben ser claros, concisos y expresivos del comportamiento esperado.
+- Se deben evitar detalles técnicos en las descripciones.
+- La escritura debe orientarse a la colaboración entre roles técnicos y no técnicos.
+
+**Angular:**
+
+- Convenciones de estructura de archivos `hero.component.ts|html|css|spec`
+- Aplicar el método Principio de responsabilidad única (SRP)a todos los componentes, servicios y otros símbolos, garantiza que la aplicación sea más limpia, más fácil de leer y mantener, y más comprobable.
+- Se deben separar los nombres de archivos con puntos y guiones.
+- La nomenclatura de servicios debe estar acopmañado del sufijo: `.service.ts`
+
+**Java:**
+
+- Nombres de clases en PascalCase `UserService`.
+- Métodos y atributos en camelCase `getUserData()`.
+- Uso de anotaciones como `@RestController`, `@Service`, `@Repository` para definir roles.
+- Estructura clara del proyecto basada en paquetes por capas.
+  
+**JavaScript:**
+
+- Los nombres de clases deben escribirse usando camelCase. Suelen ser sustantivos o frases nominales. Ejemplo: `Character`
+- Los nombres de funciones y variables deben seguir lowerCamelCase. Suelen ser verbos o frases verbales. Ejemplo: `sendMessage`
+- Cada declaración de variable (de campo o local) declara solo una variable. Ejemplo: `int a`
+
+**TypeScript:**
+
+- Los literales de cadena ordinarios se delimitan con comillas simples ('').
+- Organización del código en módulos y componentes reutilizables.
+- Los nombres de clases deben seguir PascalCase y los métodos camelCase.
+- Se pueden crear instancias de errores mediante `throw new Error('')`.
+
+**Spring Boot:**
+
+- Definición de componentes siguiendo los principios de Spring: `@RestController`, `@Service`, `@Repository`, `@Entity`.
+- Aplicar la convención de configuración mínima: principios de "convention over configuration".
+- Organización de proyectos en módulos claramente separados (API, Services, Repository, Config).
+
 ### 5.3 Validation Interviews
 #### 5.3.1 Diseño de entrevistas
 
