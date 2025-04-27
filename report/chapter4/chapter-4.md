@@ -237,10 +237,10 @@ Evaluación del evento - Promotor
 
 Evaluación del evento - Artista
 
-<img src="/assets/Evaluación  post evento Musico Mock.png">
-<img src="/assets/Evaluación  post evento Musico Mock (1).png">
-<img src="/assets/Evaluación  post evento Músico Mock (2).png">
-<img src="/assets/Evaluación  post evento Músico Mock (3).png">
+<img src="/assets/EvaluaciónposteventoMusicoMock.png">
+<img src="/assets/EvaluaciónposteventoMusicoMock (1).png">
+<img src="/assets/EvaluaciónposteventMúsicoMock (2).png">
+<img src="/assets/EvaluaciónposteventoMúsicoMock (3).png">
 
 Promoción del evento
 
