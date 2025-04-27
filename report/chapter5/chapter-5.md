@@ -38,7 +38,7 @@
 
 - **Github Pages:** Plataforma que facilita el despliegue sencillo de páginas web directamente desde repositorios de GitHub. Ruta de referencia: https://pages.github.com/
 
-### 5.1.1. Source Code Management
+### 5.1.2. Source Code Management
 
 **Repositorio de Github:** https://github.com/GrupoLatex-SI0729-2510-4334/Final-Report
 
@@ -56,12 +56,21 @@ Para nuestra estrategia de gestión de versiones con Git, nos hemos inspirado en
 
 - **Develop branch (Rama de desarrollo):** Rama que sirve como espacio de trabajo colaborativo donde se integran las actualizaciones y cambios realizados por el equipo. Aquí se mantiene el código en constante evolución antes de ser lanzadas.
 
-- **Release branches (Ramas de lanzamiento):** Se utilizan para facilitar la preparación de nuevas versiones del producto. Estas ramas parten de develop y permiten realizar ajustes finales. Las versiones se nombran siguiendo el esquema de versionado semántico (release/vX.Y.Z).
+- **Release branches (Ramas de lanzamiento):** Se utilizan para facilitar la preparación de nuevas versiones del producto. Estas ramas parten de develop y permiten realizar ajustes finales. Las versiones se nombran siguiendo el esquema de versionado semántico (Semantic Versioning 2.0.0): release/vX.Y.Z.
 
 - **Feature branches (Ramas de funcionalidad):** Se utiliza para desarollar nuevas funcionalidades o mejoras específicas en su propia rama independiente, separada de la rama principal de desarrollo. Una vez completada, se integrará a develop. Estas ramas seguirán una convención de nombres del tipo: feature/nombre-de-la-funcionalidad.
 
 - **Hotfix branches (Ramas de corrección):** Creadas para resolver errores urgentes detectados que pueden afectar en la experiencia de usuario. Permiten la implementación de soluciones rápidas directamente sobre la rama principal. Se sigue la siguiente nomenclatura: hotfix/nombre-del-problema.
 
+**Versionamiento Semántico:** 
+<br>Para nombrar las Releases, se aplicará el sistema de versionamiento semántico (Semantic Versioning 2.0.0), donde:
+- **X:** Versión principal, se incrementa cuando se realizan cambios significativos en la funcionalidad del software que podrían afectar su estructura.
+- **Y:** Versión secundaria, se ajusta para la adición o eliminación de características sin modificar la estructura principal del software.
+- **Z:** Versión de parche, se usa para pequeñas correcciones y mejoras que no afectan la funcionalidad principal.
+
+**Convenciones de Commits:** 
+<br>Para los mensajes de los commits realizados, se utilizará la especificación Conventional Commits basada en Angular Commit Guidelines. La estructura a seguir será la siguiente:
+<br> `git commit -m "<type>[optional scope]:<title>" -m"<description">`
 
 ### 5.3 Validation Interviews
 #### 5.3.1 Diseño de entrevistas
