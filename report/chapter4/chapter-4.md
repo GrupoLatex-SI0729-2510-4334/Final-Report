@@ -152,10 +152,10 @@ Evaluación del evento - Promotor
 
 Evaluación del evento - Artista
 
-<img src="/assets/EvaluaciónposteventoMúsico.png">
-<img src="/assets/Evaluaciónpostevento Músico(1).png">
-<img src="/assets/Evaluaciónpostevento Músico(2).png">
-<img src="/assets/Evaluaciónpostevento Músico(3).png">
+<img src="../../assets/EvaluaciónposteventoMúsico.png">
+<img src="../../assets/Evaluaciónpostevento Músico(1).png">
+<img src="../../assets/Evaluaciónpostevento Músico(2).png">
+<img src="../../assets/Evaluaciónpostevento Músico(3).png">
 
 Promoción del evento
 
@@ -263,8 +263,8 @@ Pagos artista
 
 Contrato digital
 
-![ContratoMockup](/assets/ContratoDigitalMock.png "Contrato Mockup")
-![ContratoMockup1](/assets/ContratoDigitalMock1.png "Contrato Mockup 1")
+![ContratoMockup](../../assets/ContratoDigitalMock.png "Contrato Mockup")
+![ContratoMockup1](../../assets/ContratoDigitalMock1.png "Contrato Mockup 1")
 ![ContratoMockup2](../../assets/ContratoDigitalMock2.png "Contrato Mockup 2")
 
 Rider técnico/logísticoç
