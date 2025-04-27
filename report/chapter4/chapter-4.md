@@ -7,24 +7,24 @@ Un **Style Guideline** es un conjunto de reglas y recomendaciones que definen c�
 #### 4.1.1. General Style Guidelines
 
 Para el diseño del logotipo de nuestro producto **TocaAquí**, se eligió una propuesta visual moderna y llamativa que represente fielmente la misión y visión de la plataforma. El logo combina una tipografía estilizada y minimalista con un ícono que simboliza la conexión entre músicos y promotores. La palabra "TocaAquí" se presenta con una fuente legible y creativa, que evoca dinamismo y cercanía. La paleta de colores, compuesta por tonos cálidos y vibrantes, transmite energía y creatividad, características propias del ámbito musical y del entretenimiento. Los colores naranja y dorado refuerzan esta vitalidad, mientras que los matices en gris y blanco aportan un equilibrio sofisticado y actual.
-
-<img src="/assets/toca.jpeg">
+![Logo de TocaAqui](/assets/toca.jpeg "Logo de Toca Aqui")
 
 **Typography**
 
 Para la identidad tipográfica de TocaAquí, se han escogido fuentes modernas y funcionales que complementan la estética profesional y enérgica del proyecto. La fuente principal es Montserrat, una sans-serif clara y contemporánea que garantiza una lectura cómoda en formatos digitales. Esta tipografía se emplea principalmente en los textos de cuerpo y elementos informativos, aportando orden y claridad visual.
 
 En cuanto a los encabezados y títulos, se ha elegido Roboto, una fuente con mayor presencia y dinamismo, perfecta para resaltar secciones clave y captar la atención del usuario de forma inmediata.
+<br>
 
 A continuación, se detallan las tipografías seleccionadas para el proyecto TocaAquí:
+![Typography](/assets/typo.png "Typography")
 
-<img src="/assets/typo.png">
 
 **Colors**
 
 La paleta cromática de TocaAquí ha sido cuidadosamente seleccionada para reflejar creatividad, vitalidad y confianza, en sintonía con la esencia dinámica del proyecto. Los colores elegidos evocan la pasión musical y refuerzan la idea de vínculo entre artistas y espacios culturales, ofreciendo una experiencia visual armoniosa, cautivadora y coherente con la identidad de la plataforma.
+![Color](/assets/color.png "Color")
 
-<img src="/assets/color.png">
 
 **Spacing**
 
@@ -104,14 +104,12 @@ Dashboard de Gestión: Visualización centralizada de los eventos próximos, con
 #### 4.3.1. Landing Page Wireframe
 
 A continuación, presentamos el Wireframe del Landing Page de la aplicación TocaAquí.
-
-<img src="/assets/landing-1.png">
+![Landing 1](/assets/landing-1.png "Landing 1")
 
 #### 4.3.2. Landing Page Mock-up
 
 Vamos a presentar el mock-up de la página de inicio de la aplicación.
-
-<img src="/assets/landing-2.png">
+![Landing 2](/assets/landing-2.png "Landing 2")
 
 ### 4.4. Web Applications UX/UI Design
 
@@ -120,8 +118,7 @@ Vamos a presentar el mock-up de la página de inicio de la aplicación.
 En esta sección se presentan los wireframes desarrollados para nuestra aplicación web.
 
 Login
-
-<img src="/assets/Login.png">
+![LogIn](/assets/Login.png "Login")
 
 Panel de control del artista
 
@@ -136,12 +133,12 @@ Perfil del productor
 <img src="/assets/Productor Profile.png">
 
 Agenda
+![Agenda](/assets/Agenda.png "Agenda")
 
-<img src="/assets/Agenda.png">
 
 Postulaciones
+![Postulaciones](/assets/Postulaciones.png "Postulaciones")
 
-<img src="/assets/Postulaciones.png">
 
 Panel de control del productor
 
@@ -186,23 +183,24 @@ Contrato digital
 <img src="/assets/Contrato Digital (2).png">
 
 Rider técnico/logístico
+![Logistico](/assets/Logistico.png "Logistico")
+![Logistico1](/assets/Logistico(1).png "Logistico1")
+![Logistico2](/assets/Logistico(2).png "Logistico2")
+![Logistico3](/assets/Logistico(3).png "Logistico3")
 
-<img src="/assets/Logistico.png">
-<img src="/assets/Logistico(1).png">
-<img src="/assets/Logistico(2).png">
-<img src="/assets/Logistico(3).png">
 
 #### 4.4.2. Web Applications Wireflow Diagrams
 
 Los Wireflows se emplean principalmente en el diseño de UX (experiencia de usuario), y son especialmente útiles en aplicaciones que presentan flujos de trabajo e interacciones complejas.
-
-<img src="/assets/Diagramaflujo.png">
+<br>
+![Diagramaflujo](/assets/Diagramaflujo.png "Diagramaflujo")
 
 #### 4.4.3. Web Applications Mock-ups
 
 En esta sección se presentan los mock-ups creados para nuestra aplicación web.
 
 Login
+![Login Mock](/assets/Login_Mock.png "Login Mock")
 
 <img src="/assets/Login_Mock.png">
 
@@ -282,16 +280,14 @@ Rider técnico/logísticoç
 ### 4.6. Domain-Driven Software Architecture
 
 #### 4.6.1. Software Architecture Context Diagrams
-
-<img src="/assets/ContextDiagram_TocaAqui.png">
+![ContextDiagram](/assets/ContextDiagram_TocaAqui.png "ContextDiagram")
 
 #### 4.6.2. Software Architecture Container Diagrams
-
-<img src="/assets/ContainerDiagram_TocaAqui.png">
+![ContainerDiagram](/assets/ContainerDiagram_TocaAqui.png "ContainerDiagram")
 
 #### 4.6.3. Software Architecture Components Diagrams
+![ComponentsDiagram](/assets/ComponentsDiagram_TocaAqui.png "ComponentsDiagram")
 
-<img src="/assets/ComponentsDiagram_TocaAqui.png">
 
 ### 4.7. Software Object-Oriented Design
 El sistema TocaAquí se basa en un diseño orientado a objetos y una base de datos relacional para gestionar de manera eficiente y segura los datos de artistas, promotores, eventos y transacciones.
@@ -377,5 +373,5 @@ El sistema TocaAquí se basa en un diseño orientado a objetos y una base de dat
 
 
 #### 4.8.1. Database Diagram
-<img src="/assets/databaseDiagram.png">
+![DatabaseDiagram](/assets/databaseDiagram..png "DatabaseDiagram")
 
