@@ -132,8 +132,8 @@ El diseño de las entrevistas ha sido elaborado cuidadosamente en función de lo
 | Duración de la entrevista |   06:40                                  |
 
 **Detalles de la entrevista:** <br>
-<img src="/assets/AlexanderEntrevista1.png" alt="Entrevista 1" width="500">
-</a>
+![Entrevista Alexander](/assets/AlexanderEntrevista1.png "Entrevista 1")
+<br>
 [URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/EWnvCRctvWtNnWC_5f9lcN0BhU8OvDz-oYj8QhkF3xSBDw?e=IJe6js&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 **Resumen de la entrevista:** <br>
@@ -152,8 +152,8 @@ Gabriel Montoya, baterista de 19 años, busca presentaciones en vivo para expres
 | Duración de la entrevista |   07:50                                  |
 
 **Detalles de la entrevista:** <br>
-<img src="/assets/BryanEntrevista2.png" alt="Entrevista 2" width="500">
-</a>
+![Entrevista Bryan](/assets/BryanEntrevista2.png "Entrevista 2")
+<br>
 [URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/EWnvCRctvWtNnWC_5f9lcN0BhU8OvDz-oYj8QhkF3xSBDw?e=IJe6js&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 **Resumen de la entrevista:** <br>
@@ -172,8 +172,9 @@ Bryan Huamán, guitarrista solista y compositor de 20 años, busca presentacione
 | Duración de la entrevista |   02:38                                  |
 
 **Detalles de la entrevista:** <br>
-<img src="/assets/IovanellaEntrevista3.png" alt="Entrevista 3" width="500">
-</a>
+
+![Entrevista Iovanella](/assets/IovanellaEntrevista3.png "Entrevista 3")
+<br>
 [URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/EWnvCRctvWtNnWC_5f9lcN0BhU8OvDz-oYj8QhkF3xSBDw?e=IJe6js&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 **Resumen de la entrevista:** <br>
@@ -194,7 +195,8 @@ Mariel, una joven de 19 años, es integrante de una orquesta sinfónica y tambi�
 | Duración de la entrevista |   06:04                                  |
 
 **Detalles de la entrevista:** <br>
-<img src="/assets/AgustinEntrevista4.png" alt="Entrevista 4" width="500"></a>
+![Entrevista Iovanella](/assets/AgustinEntrevista4.png "Entrevista 4")
+<br>
 [URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/EWnvCRctvWtNnWC_5f9lcN0BhU8OvDz-oYj8QhkF3xSBDw?e=IJe6js&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 **Resumen de la entrevista:** <br>
@@ -214,7 +216,8 @@ Agustín Ventura, de 27 años, trabaja como programador, promotor y agente de ev
 | Duración de la entrevista |   09:08                                  |
 
 **Detalles de la entrevista:** <br>
-<img src="/assets/DavidEntrevista5.png" alt="Entrevista 5" width="500"></a>
+![Entrevista Iovanella](/assets/DavidEntrevista5.png "Entrevista 5")
+<br>
 [URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/EWnvCRctvWtNnWC_5f9lcN0BhU8OvDz-oYj8QhkF3xSBDw?e=IJe6js&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 **Resumen de la entrevista:** <br>
@@ -234,7 +237,8 @@ David, un representante y organizador de eventos, busca crear espacios donde el 
 | Duración de la entrevista |   06:32                                  |
 
 **Detalles de la entrevista:** <br>
-<img src="/assets/ElaEntrevista6.png" alt="Entrevista 6" width="500"></a>
+![Entrevista Iovanella](/assets/ElaEntrevista6.png "Entrevista 6")
+<br>
 [URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/EWnvCRctvWtNnWC_5f9lcN0BhU8OvDz-oYj8QhkF3xSBDw?e=IJe6js&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 **Resumen de la entrevista:** <br>
