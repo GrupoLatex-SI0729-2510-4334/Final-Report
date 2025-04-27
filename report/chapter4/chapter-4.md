@@ -7,7 +7,7 @@ Un **Style Guideline** es un conjunto de reglas y recomendaciones que definen c�
 #### 4.1.1. General Style Guidelines
 
 Para el diseño del logotipo de nuestro producto **TocaAquí**, se eligió una propuesta visual moderna y llamativa que represente fielmente la misión y visión de la plataforma. El logo combina una tipografía estilizada y minimalista con un ícono que simboliza la conexión entre músicos y promotores. La palabra "TocaAquí" se presenta con una fuente legible y creativa, que evoca dinamismo y cercanía. La paleta de colores, compuesta por tonos cálidos y vibrantes, transmite energía y creatividad, características propias del ámbito musical y del entretenimiento. Los colores naranja y dorado refuerzan esta vitalidad, mientras que los matices en gris y blanco aportan un equilibrio sofisticado y actual.
-![Logo de TocaAqui](../../assets/toca.jpg "Logo de Toca Aqui")
+![Logo de TocaAqui](../../assets/toca.jpeg "Logo de Toca Aqui")
 
 **Typography**
 
