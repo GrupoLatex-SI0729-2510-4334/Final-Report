@@ -154,30 +154,30 @@ Evaluación del evento - Promotor
 
 Evaluación del evento - Artista
 
-<img src="/assets/EvaluaciónPosteventoMúsico.png">
+<img src="/assets/Evaluación postevento Músico.png">
 <img src="/assets/EvaluaciónPosteventoMúsico(1).png">
-<img src="/assets/EvaluaciónPosteventoMúsico(2).png">
+<img src="/assets/Evaluación postevento Músico(2).png">
 <img src="/assets/EvaluaciónPosteventoMúsico(3).png">
 
 Promoción del evento
 
-<img src="/assets/Promociondeleventoyentradas.png">
-<img src="/assets/Promociondeleventoyentradas (1).png">
-<img src="/assets/Promociondeleventoyentradas (2).png">
-<img src="/assets/Promociondeleventoyentradas (3).png">
-<img src="/assets/Promociondeleventoyentradas (4).png">
-<img src="/assets/Promociondeleventoyentradas (5).png">
-<img src="/assets/Promociondeleventoyentradas (6).png">
+<img src="/assets/Promocion del evento y entradas.png">
+<img src="/assets/Promocion del evento y entradas (1).png">
+<img src="/assets/Promocion deleventoyentradas (2).png">
+<img src="/assets/Promocion del evento y entradas (3).png">
+<img src="/assets/Promocion del evento y entradas (4).png">
+<img src="/assets/Promocion del evento y entradas (5).png">
+<img src="/assets/Promocion del evento y entradas (6).png">
 
 Pagos promotor
 
-<img src="/assets/Pagospromotor.png">
-<img src="/assets/Pagospromotor (1).png">
+<img src="/assets/Pagos promotor.png">
+<img src="/assets/Pagos promotor (1).png">
 
 Pagos artista
 
-<img src="/assets/Pagosartista.png">
-<img src="/assets/Pagosartista (1).png">
+<img src="/assets/Pagos artista.png">
+<img src="/assets/Pagos artista (1).png">
 
 Contrato digital
 
