@@ -1,3 +1,44 @@
+# Capítulo V: Product Implementation, Validation & Deployment
+
+## 5.1. Software Configuration Management
+
+### 5.1.1. Software Development Environment Configuration
+
+**Software Documentation and Project Management:**
+- **Github:** Plataforma de control de versiones que facilitará la colaboración y revisión de cambios de cada miembro del equipo. Ruta de referencia: https://github.com/
+
+**Requirements Management:**
+
+- **Trello:** Herramienta utilizada para gestionar el flujo de trabajo de proyectos principalmente basados en marcos de trabajos ágiles. Será empleado para visualizar y actualizar el estado actual de las tareas e historias de usuario pertenecientes al sprint a desarrollar. Ruta de referencia: https://trello.com/es
+
+**Product UX/UI Design:**
+
+- **Figma:** Plataforma de elaboración de diseño de interfaces y elaboración de prototipos interactivos para las versiones de Landing Page, Desktop y Mobile Web Application. Ruta de referencia: https://www.figma.com/login
+
+- **UX Pressia:** Diseño de User Personas, Empathy Maps, Journey Maps e Impact Mapping. Ruta de referencia: https://uxpressia.com/
+
+- **Miro:** Empleado para el diseño de los As-Is y To-Be Scenario Maps. Ruta de referencia: 
+
+- **Lucidchart:** Aplicación para diagramar flujos. Empleado para el diseño de Wireflows, User-Flows y el Diagrama de
+  Clases asociado a la aplicación. Ruta de referencia: https://www.lucidchart.com/pages/es
+
+- **Structurizr DSL:** Empleado para la creación de diagramas de software, utilizando el modelo C4. Ruta de referencia: https://structurizr.com/
+
+**Software Development:**
+
+- **Visual Studio Code:** Entorno de desarrollo integrado elegido para la elaboración de la Landing Page: https://code.visualstudio.com/
+  
+- **HTML:** Lenguaje de etiquetado para páginas web. Será empleado para el desarrollo de la presentación de la landing Page. Ruta de referencia: https://www.w3schools.com/html/html5_syntax.asp 
+  
+- **CSS:** Tecnología para dar estilo a las páginas web, permitiendo el diseño visual. Ruta de referencia: https://google.github.io/styleguide/htmlcssguide.html
+  
+- **JavaScript:** Lenguaje de programación orientado a objetos utilizado para implementar funcionalidades en la Landing Page. Ruta de referencia: https://developer.mozilla.org/es/docs/Web/JavaScript
+
+**Software Deployment:**
+
+- **Github Pages:** Plataforma que facilita el despliegue sencillo de páginas web directamente desde repositorios de GitHub. Ruta de referencia: https://pages.github.com/
+
+
 ### 5.3 Validation Interviews
 #### 5.3.1 Diseño de entrevistas
 
