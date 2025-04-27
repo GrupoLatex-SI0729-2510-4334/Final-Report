@@ -7,7 +7,7 @@ Un **Style Guideline** es un conjunto de reglas y recomendaciones que definen c�
 #### 4.1.1. General Style Guidelines
 
 Para el diseño del logotipo de nuestro producto **TocaAquí**, se eligió una propuesta visual moderna y llamativa que represente fielmente la misión y visión de la plataforma. El logo combina una tipografía estilizada y minimalista con un ícono que simboliza la conexión entre músicos y promotores. La palabra "TocaAquí" se presenta con una fuente legible y creativa, que evoca dinamismo y cercanía. La paleta de colores, compuesta por tonos cálidos y vibrantes, transmite energía y creatividad, características propias del ámbito musical y del entretenimiento. Los colores naranja y dorado refuerzan esta vitalidad, mientras que los matices en gris y blanco aportan un equilibrio sofisticado y actual.
-![Logo de TocaAqui](/assets/toca.jpeg "Logo de Toca Aqui")
+![Logo de TocaAqui](../../assets/toca.jpg "Logo de Toca Aqui")
 
 **Typography**
 
@@ -18,13 +18,13 @@ En cuanto a los encabezados y títulos, se ha elegido Roboto, una fuente con may
 
 A continuación, se detallan las tipografías seleccionadas para el proyecto TocaAquí:
 <br>
-![Typography](/assets/typo.png "Typography")
+![Typography](../../assets/typo.png "Typography")
 
 
 **Colors**
 
 La paleta cromática de TocaAquí ha sido cuidadosamente seleccionada para reflejar creatividad, vitalidad y confianza, en sintonía con la esencia dinámica del proyecto. Los colores elegidos evocan la pasión musical y refuerzan la idea de vínculo entre artistas y espacios culturales, ofreciendo una experiencia visual armoniosa, cautivadora y coherente con la identidad de la plataforma.
-![Color](/assets/color.png "Color")
+![Color](../../assets/color.png "Color")
 
 
 **Spacing**
@@ -105,12 +105,12 @@ Dashboard de Gestión: Visualización centralizada de los eventos próximos, con
 #### 4.3.1. Landing Page Wireframe
 
 A continuación, presentamos el Wireframe del Landing Page de la aplicación TocaAquí.
-![Landing 1](/assets/landing-1.png "Landing 1")
+![Landing 1](../../assets/landing-1.png "Landing 1")
 
 #### 4.3.2. Landing Page Mock-up
 
 Vamos a presentar el mock-up de la página de inicio de la aplicación.
-![Landing 2](/assets/landing-2.png "Landing 2")
+![Landing 2](../../assets/landing-2.png "Landing 2")
 
 ### 4.4. Web Applications UX/UI Design
 
@@ -119,36 +119,36 @@ Vamos a presentar el mock-up de la página de inicio de la aplicación.
 En esta sección se presentan los wireframes desarrollados para nuestra aplicación web.
 
 Login
-![LogIn](/assets/Login.png "Login")
+![LogIn](../../assets/Login.png "Login")
 
 Panel de control del artista
 
-<img src="/assets/Artisit Dashboard.png">
+<img src="../../assets/Artisit Dashboard.png">
 
 Perfil del artista
 
-<img src="/assets/Artist Profile.png">
+<img src="../../assets/Artist Profile.png">
 
 Perfil del productor
 
 <img src="/assets/Productor Profile.png">
 
 Agenda
-![Agenda](/assets/Agenda.png "Agenda")
+![Agenda](../../assets/Agenda.png "Agenda")
 
 
 Postulaciones
-![Postulaciones](/assets/Postulaciones.png "Postulaciones")
+![Postulaciones](../../assets/Postulaciones.png "Postulaciones")
 
 
 Panel de control del productor
 
-<img src="/assets/Productor Dashboar.png">
+<img src="../../assets/Productor Dashboar.png">
 
 Evaluación del evento - Promotor
 
-<img src="/assets/EvaluaciónposteventoPromotor.png">
-<img src="/assets/Evaluaciónpostevento Promotor (1).png">
+<img src="../../assets/EvaluaciónposteventoPromotor.png">
+<img src="../../assets/Evaluaciónpostevento Promotor (1).png">
 
 Evaluación del evento - Artista
 
@@ -159,63 +159,63 @@ Evaluación del evento - Artista
 
 Promoción del evento
 
-<img src="/assets/Promocion del evento y entradas.png">
-<img src="/assets/Promocion del evento y entradas (1).png">
-<img src="/assets/Promocion del evento y entradas (2).png">
-<img src="/assets/Promocion del evento y entradas (3).png">
-<img src="/assets/Promocion del evento y entradas (4).png">
-<img src="/assets/Promocion del evento y entradas (5).png">
-<img src="/assets/Promocion del evento y entradas (6).png">
+<img src="../../assets/Promocion del evento y entradas.png">
+<img src="../../assets/Promocion del evento y entradas (1).png">
+<img src="../../assets/Promocion del evento y entradas (2).png">
+<img src="../../assets/Promocion del evento y entradas (3).png">
+<img src="../../assets/Promocion del evento y entradas (4).png">
+<img src="../../assets/Promocion del evento y entradas (5).png">
+<img src="../../assets/Promocion del evento y entradas (6).png">
 
 Pagos promotor
 
-<img src="/assets/Pagos promotor.png">
-<img src="/assets/Pagos promotor (1).png">
+<img src="../../assets/Pagos promotor.png">
+<img src="../../assets/Pagos promotor (1).png">
 
 Pagos artista
 
-<img src="/assets/Pagos artista.png">
-<img src="/assets/Pagos artista (1).png">
+<img src="../../assets/Pagos artista.png">
+<img src="../../assets/Pagos artista (1).png">
 
 Contrato digital
 
-![ContratoDigital](/assets/ContratoDigital.png "Contrato Digital")
+![ContratoDigital](../../assets/ContratoDigital.png "Contrato Digital")
 ![ContratoDigital1](/assets/ContratoDigital1.png "Contrato Digital 1")
 ![ContratoDigital2](/assets/ContratoDigital2.png "Contrato Digital 2")
 
 Rider técnico/logístico
-![Logistico](/assets/Logistico.png "Logistico")
-![Logistico1](/assets/Logistico(1).png "Logistico1")
-![Logistico2](/assets/Logistico(2).png "Logistico2")
-![Logistico3](/assets/Logistico(3).png "Logistico3")
+![Logistico](../../assets/Logistico.png "Logistico")
+![Logistico1](../../assets/Logistico(1).png "Logistico1")
+![Logistico2](../../assets/Logistico(2).png "Logistico2")
+![Logistico3](../../assets/Logistico(3).png "Logistico3")
 
 
 #### 4.4.2. Web Applications Wireflow Diagrams
 
 Los Wireflows se emplean principalmente en el diseño de UX (experiencia de usuario), y son especialmente útiles en aplicaciones que presentan flujos de trabajo e interacciones complejas.
 <br>
-![Diagramaflujo](/assets/Diagramaflujo.png "Diagramaflujo")
+![Diagramaflujo](../../assets/Diagramaflujo.png "Diagramaflujo")
 
 #### 4.4.3. Web Applications Mock-ups
 
 En esta sección se presentan los mock-ups creados para nuestra aplicación web.
 
 Login
-![Login Mock](/assets/Login_Mock.png "Login Mock")
+![Login Mock](../../assets/Login_Mock.png "Login Mock")
 
-<img src="/assets/Login_Mock.png">
+<img src="../../assets/Login_Mock.png">
 
 Panel de control del artista
 
-<img src="/assets/Artisit Dashboard Mock.png">
+<img src="../../assets/Artisit Dashboard Mock.png">
 
 Perfil del artista
 
-<img src="/assets/Artist Profile Mock.png">
+<img src="../../assets/Artist Profile Mock.png">
 
 Perfil del productor
 
-<img src="/assets/Productor Profile Mock.png">
+<img src="../../assets/Productor Profile Mock.png">
 
 Agenda
 
