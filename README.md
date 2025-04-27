@@ -113,6 +113,7 @@ del ABET – EAC - Student Outcome 5.</p>
           <p><strong>TB1</strong></p>
           <li>Diego Ivan Cabrera Buitron: <br> Participe activamente en las reuniones de equipo, completé mi parte del trabajo dentro de los plazos establecidos, colaboré en la revisión del código de mis compañeros y proporcioné retroalimentación constructiva.</li>
           <li>Andrea Elizabeth Santur Tello: <br> ACA COLOCAN EL TEXTO.</li>
+           <li>Alessandra Nicole Becerra Tejeda: <br> Participé de manera activa en las reuniones del equipo, cumplí con las tareas bajo mi responsabilidad y dentro de los plazos establecidos, además brindé una buena disposición para lograr un buen trabajo en equipo.  </li>
           <li>Nanfuñay Liza Pedro Jesús: <br> Mostré participación activa en las reuniones del equipo, contribuyendo de manera constante al desarrollo del informe y la landing page. Demostré responsabilidad en el cumplimiento de tareas dentro de los plazos establecidos y colaboré de forma efectiva en retroalimentaciones para mejorar el trabajo en equipo.</li>
           li>Pedraza Maldonado Joaquin: <br> Contribuí activamente en reuniones, entregué mi trabajo a tiempo y apoyé en la revisión y mejora del código del equipo..</li>
         </ul> 
