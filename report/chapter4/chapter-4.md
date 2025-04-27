@@ -147,15 +147,15 @@ Panel de control del productor
 
 Evaluación del evento - Promotor
 
-<img src="/assets/Evaluación  post evento Promotor.png">
-<img src="/assets/Evaluación  post evento Promotor (1).png">
+<img src="/assets/EvaluaciónposteventoPromotor.png">
+<img src="/assets/Evaluaciónpostevento Promotor (1).png">
 
 Evaluación del evento - Artista
 
-<img src="/assets/Evaluación  post evento Músico.png">
-<img src="/assets/Evaluación  post evento Músico(1).png">
-<img src="/assets/Evaluación  post evento Músico(2).png">
-<img src="/assets/Evaluación  post evento Músico(3).png">
+<img src="/assets/EvaluaciónposteventoMúsico.png">
+<img src="/assets/Evaluaciónpostevento Músico(1).png">
+<img src="/assets/Evaluaciónpostevento Músico(2).png">
+<img src="/assets/Evaluaciónpostevento Músico(3).png">
 
 Promoción del evento
 
@@ -236,15 +236,15 @@ Evaluación del evento - Promotor
 
 Evaluación del evento - Artista
 
-<img src="/assets/Evaluación  post evento Musico Mock.png">
-<img src="/assets/Evaluación  post evento Musico Mock (1).png">
-<img src="/assets/Evaluación  post evento Músico Mock (2).png">
-<img src="/assets/Evaluación  post evento Músico Mock (3).png">
+<img src="/assets/Evaluaciónpost evento Musico Mock.png">
+<img src="/assets/Evaluaciónpost evento Musico Mock (1).png">
+<img src="/assets/Evaluaciónpost evento Músico Mock (2).png">
+<img src="/assets/Evaluaciónpost evento Músico Mock (3).png">
 
 Promoción del evento
 
-<img src="/assets/Promocion del evento y entradas Mock.png">
-<img src="/assets/Promocion del evento y entradas Mock (1).png">
+<img src="/assets/Promociondel eventoyentradas Mock.png">
+<img src="/assets/Promocion del eventoyentradas Mock (1).png">
 <img src="/assets/Promocion del evento y entradas Mock (2).png">
 <img src="/assets/Promocion del evento y entradas Mock (3).png">
 <img src="/assets/Promocion del evento y entradas Mock(4).png">
@@ -253,8 +253,8 @@ Promoción del evento
 
 Pagos promotor
 
-<img src="/assets/Pagos promotor Mock.png">
-<img src="/assets/Pagos promotor Mock (1).png">
+<img src="/assets/PagospromotorMock.png">
+<img src="/assets/PagospromotorMock(1).png">
 
 Pagos artista
 
