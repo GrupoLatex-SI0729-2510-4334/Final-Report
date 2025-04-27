@@ -219,11 +219,11 @@ Perfil del productor
 
 Agenda
 
-<img src="/assets/Agenda Mock.png">
+<img src="../../assets/Agenda Mock.png">
 
 Postulaciones
 
-<img src="/assets/Postulaciones Mock.png">
+<img src="../../assets/Postulaciones Mock.png">
 
 Panel de control del productor
 
@@ -231,48 +231,48 @@ Panel de control del productor
 
 Evaluación del evento - Promotor
 
-<img src="/assets/Evaluación  post evento Promotor Mock.png">
-<img src="/assets/Evaluación  post evento Promotor Mock (1).png">
+<img src="../../assets/Evaluación  post evento Promotor Mock.png">
+<img src="../../assets/Evaluación  post evento Promotor Mock (1).png">
 
 Evaluación del evento - Artista
 
-<img src="/assets/Evaluaciónpost evento Musico Mock.png">
-<img src="/assets/Evaluaciónpost evento Musico Mock (1).png">
-<img src="/assets/Evaluaciónpost evento Músico Mock (2).png">
-<img src="/assets/Evaluaciónpost evento Músico Mock (3).png">
+<img src="../../assets/Evaluaciónpost evento Musico Mock.png">
+<img src="../../assets/Evaluaciónpost evento Musico Mock (1).png">
+<img src="../../assets/Evaluaciónpost evento Músico Mock (2).png">
+<img src="../../assets/Evaluaciónpost evento Músico Mock (3).png">
 
 Promoción del evento
 
-<img src="/assets/Promociondel eventoyentradas Mock.png">
-<img src="/assets/Promocion del eventoyentradas Mock (1).png">
-<img src="/assets/Promocion del evento y entradas Mock (2).png">
-<img src="/assets/Promocion del evento y entradas Mock (3).png">
-<img src="/assets/Promocion del evento y entradas Mock(4).png">
-<img src="/assets/Promocion del evento y entradas Mock (5).png">
-<img src="/assets/Promocion del evento y entradas Mock (6).png">
+<img src="../../assets/Promociondel eventoyentradas Mock.png">
+<img src="../../assets/Promocion del eventoyentradas Mock (1).png">
+<img src="../../assets/Promocion del evento y entradas Mock (2).png">
+<img src="../../assets/Promocion del evento y entradas Mock (3).png">
+<img src="../../assets/Promocion del evento y entradas Mock(4).png">
+<img src="../../assets/Promocion del evento y entradas Mock (5).png">
+<img src="../../assets/Promocion del evento y entradas Mock (6).png">
 
 Pagos promotor
 
-<img src="/assets/PagospromotorMock.png">
-<img src="/assets/PagospromotorMock(1).png">
+<img src="../../assets/PagospromotorMock.png">
+<img src="../../assets/PagospromotorMock(1).png">
 
 Pagos artista
 
-<img src="/assets/Pagos Artista Mock.png">
-<img src="/assets/Pagos Artista Mock (1).png">
+<img src="../../assets/Pagos Artista Mock.png">
+<img src="../../assets/Pagos Artista Mock (1).png">
 
 Contrato digital
 
 ![ContratoMockup](/assets/ContratoDigitalMock.png "Contrato Mockup")
 ![ContratoMockup1](/assets/ContratoDigitalMock1.png "Contrato Mockup 1")
-![ContratoMockup2](/assets/ContratoDigitalMock2.png "Contrato Mockup 2")
+![ContratoMockup2](../../assets/ContratoDigitalMock2.png "Contrato Mockup 2")
 
 Rider técnico/logísticoç
 
-<img src="/assets/Logistico Mock.png">
-<img src="/assets/Logistico Mock (1).png">
-<img src="/assets/Logistico Mock (2).png">
-<img src="/assets/Logistico Mock (3).png">
+<img src="../../assets/Logistico Mock.png">
+<img src="../../assets/Logistico Mock (1).png">
+<img src="../../assets/Logistico Mock (2).png">
+<img src="../../assets/Logistico Mock (3).png">
 
 #### 4.4.4. Web Applications User Flow Diagrams
 
@@ -281,13 +281,13 @@ Rider técnico/logísticoç
 ### 4.6. Domain-Driven Software Architecture
 
 #### 4.6.1. Software Architecture Context Diagrams
-![ContextDiagram](/assets/ContextDiagram_TocaAqui.png "ContextDiagram")
+![ContextDiagram](../../assets/ContextDiagram_TocaAqui.png "ContextDiagram")
 
 #### 4.6.2. Software Architecture Container Diagrams
-![ContainerDiagram](/assets/ContainerDiagram_TocaAqui.png "ContainerDiagram")
+![ContainerDiagram](../../assets/ContainerDiagram_TocaAqui.png "ContainerDiagram")
 
 #### 4.6.3. Software Architecture Components Diagrams
-![ComponentsDiagram](/assets/ComponentsDiagram_TocaAqui.png "ComponentsDiagram")
+![ComponentsDiagram](../../assets/ComponentsDiagram_TocaAqui.png "ComponentsDiagram")
 
 
 ### 4.7. Software Object-Oriented Design
@@ -295,7 +295,7 @@ El sistema TocaAquí se basa en un diseño orientado a objetos y una base de dat
 
 #### 4.7.1. Class Diagrams
 
-<img src="/assets/Clase UML-TocaAqui.png">
+<img src="../../assets/Clase UML-TocaAqui.png">
 
 #### 4.7.2. Class Dictionary
 
@@ -374,5 +374,5 @@ El sistema TocaAquí se basa en un diseño orientado a objetos y una base de dat
 
 
 #### 4.8.1. Database Diagram
-![DatabaseDiagram](/assets/databaseDiagram.png "DatabaseDiagram")
+![DatabaseDiagram](../../assets/databaseDiagram.png "DatabaseDiagram")
 
