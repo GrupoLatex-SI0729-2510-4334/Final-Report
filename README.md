@@ -85,7 +85,7 @@ Abril 2025
 
 URL Project Report (Github): [https://github.com/GrupoLatex-SI0729-2510-4334/Final-Report](https://github.com/GrupoLatex-SI0729-2510-4334/Final-Report)
 
-# **Student Outcome**
+# **Student Outcome**  
 <p align ="justify">
 <strong> ABET – EAC - Student Outcome 5 </strong> <br>
 Criterio: <em> La capacidad de funcionar efectivamente en un equipo cuyos miembros
@@ -125,7 +125,7 @@ del ABET – EAC - Student Outcome 5.</p>
         <ul>
           <p><strong>TB1</strong></p>
           <li>Diego Ivan Cabrera Buitron: <br> Asistencia a reuniones de equipo, apertura de ayuda a otros miembros del equipo y cumplimiento de la creación estructural de la carátula, registro de versiones, project report collaborations insights, contenido del informe y el student outcome.</li>
-          <li>Andrea Elizabeth Santur Tello: <br> Participación continua en las convocatorias del equipo, respuesta de llamado y convocatoria. Cumplimiento en los puntos del Impact Mapping, la parte de entrevistas, diseño y registro de entrevistas,Diagarama de clases,lo que corresponde del Student Outcome, así como también, serví de refuerzo en algunos puntos que me necesitaban.</li>
+          <li>Andrea Elizabeth Santur Tello: <br> Participación continua en las convocatorias del equipo, respuesta de llamado y convocatoria. Cumplimiento en los puntos del Impact Mapping, la parte de entrevistas, diseño y registro de entrevistas,Diagarama de clases ,lo que corresponde del Student Outcome, así como también, serví de refuerzo en algunos puntos que me necesitaban.</li>
           <li>Nanfuñay Liza Pedro Jesús: <br> Asistí de manera activa a las reuniones del equipo, donde establecí metas claras. Ello me permitió organizar y trabajar en conjunto con el equipo de manera efectiva para alcanar los objetivos establecidos.</li>
         </ul>
       </td>
