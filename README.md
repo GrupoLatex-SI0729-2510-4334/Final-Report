@@ -24,13 +24,13 @@ Informe de TB1
 
 Startup: GrupoLatex
 
-Producto: ???
+Producto: TocaAqui
 
 Grupo: 01
 
 |           Integrantes            |   Código    |
 |:--------------------------------:|:-----------:|
-| Diego Ivan Cabrera Buitron |  |
+| Diego Ivan Cabrera Buitron | u20211b293 |
 | Andrea Elizabeth Santur Tello |u202310988  |
 | Alessandra Nicole Becerra Tejeda | u202318947 |
 | Joaquin Andree Pedraza Maldonado | u202218514  | 
