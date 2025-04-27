@@ -306,6 +306,7 @@ A continuación presentamos los resultados de las entrevistas de validación rea
   </tbody>
 </table>
 [URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/ESDM8thHRehIhtIRW0xccVkBOmuRNRItcUYWGiqwzNCL4Q?e=76Uw2x)
+
 **Entrevista 3**
 <table border="1" cellspacing="0" cellpadding="8">
   <thead>
