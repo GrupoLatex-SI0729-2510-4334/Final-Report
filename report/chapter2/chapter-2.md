@@ -305,19 +305,19 @@ Las tareas que tienen mayor frecuencia son las realizadas por los músicos indep
 En esta sección, analizaremos el recorrido del usuario al utilizar nuestra plataforma TocaAqui.
 
 **Segmento 1: Músicos Independientes** <br>
-<img src="/assets/musicosjourneymap.png" alt="Musicos" ></a> <br>
+![JourneyMapMusicos](/assets/musicosjourneymap.png "Journey Map Segmento 1") <br>
 
 **Segmento 2: Promotores** <br>
-<img src="/assets/PromotoresJourneymap.png" alt="Promotores" ></a> <br> 
+![JourneyMapPromotores](/assets/PromotoresJourneymap.png "Journey Map Segmento 2") <br> 
 
 ### 2.3.4  Empathy   Mapping
 En esta sección se presenta el Empathy Mapping, una herramienta para crear un perfil detallado de los user personas y desarrollar una comprensión profunda de su perspectiva y experiencia. Para cada user persona, se incluyen cinco elementos clave: lo que el usuario ve, lo que el usuario escucha, lo que el usuario dice, lo que el usuario hace y lo que el usuario siente.
 
 **Segmento 1: Músicos Independientes** <br>
-<img src="/assets/musicosEmp.png" alt="Musicos" ></a> <br>
+![EmpathyMapMusicos](/assets/musicosEmp.png "Empathy Map Segmento 1")
 
 **Segmento 2: Promotores** <br>
-<img src="/assets/musicosEmpathy.png" alt="Promotores" ></a> <br>  
+![EmpathyMapPromotores](/assets/musicosEmpathy.png "Empathy Map Segmento 2") <br>  
 
 
 ### 2.3.5  As-is Scenario Mapping
@@ -326,32 +326,32 @@ En esta sección se presenta el Empathy Mapping, una herramienta para crear un p
 **Preparación de la actividad** <br>
 Preparamos el cuadro y lo dividimos en fases: Steps, Doing, Thinking y Feeling
 
-<img src="/assets/paso1-AsIs.png" alt="Paso1" width="700" ></a> <br>  
+![AsIsMusicos1](/assets/paso1-AsIs.png "As-Is Paso1 Segmento 1") <br>  
 
 **Brainstorming** <br>
 Se obtuvo el siguiente resultado en el proceso de la lluvia de ideas:
 
-<img src="/assets/paso2-AsIs1.png" alt="Paso2" width="700" ></a> <br>  
+![AsIsMusicos2](/assets/paso2-AsIs1.png "As-Is Paso2 Segmento 1") <br>  
 
 **As-Is Scenario Mapping Músicos Independientes** <br>
 Finalmente, luego de identificar las fases y organizar ideas, se obtuvo el siguiente resultado:
 
-<img src="/assets/paso3-AsIs1.png" alt="Paso2" width="700" ></a> <br>  
+![AsIsMusicos3](/assets/paso3-AsIs1.png "As-Is Paso3 Segmento 1") <br>  
 
 **As-Is Scenario Mapping Promotores** <br>
 
 **Preparación de la actividad** <br>
 Preparamos el cuadro y lo dividimos en fases: Steps, Doing, Thinking y Feeling
 
-<img src="/assets/paso1-AsIs.png" alt="Paso1" width="700" ></a> <br>  
+![AsIsPromotores1](/assets/paso1-AsIs.png "As-Is Paso1 Segmento 2") <br>  
 
 **Brainstorming** <br>
 Se obtuvo el siguiente resultado en el proceso de la lluvia de ideas:
 
-<img src="/assets/paso2-AsIs2.png" alt="Paso2" width="700" ></a> <br>  
+![AsIsPromotores2](/assets/paso2-AsIs2.png "As-Is Paso2 Segmento 2") <br>  
 
 **As-Is Scenario Mapping Músicos Independientes** <br>
 Finalmente, luego de identificar las fases y organizar ideas, se obtuvo el siguiente resultado:
 
-<img src="/assets/paso3-AsIs2.png" alt="Paso2" width="700" ></a> <br>  
+![AsIsPromotores3](/assets/paso3-AsIs2.png "As-Is Paso3 Segmento 2") <br>  
 
