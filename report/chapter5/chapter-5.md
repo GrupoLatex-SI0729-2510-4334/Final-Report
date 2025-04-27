@@ -38,6 +38,30 @@
 
 - **Github Pages:** Plataforma que facilita el despliegue sencillo de páginas web directamente desde repositorios de GitHub. Ruta de referencia: https://pages.github.com/
 
+### 5.1.1. Source Code Management
+
+**Repositorio de Github:** https://github.com/GrupoLatex-SI0729-2510-4334/Final-Report
+
+**Repositorio de Landing Page:** https://grupolatex-si0729-2510-4334.github.io/Landing-Page/
+
+Para nuestra estrategia de gestión de versiones con Git, nos hemos inspirado en el artículo "A successful Git branching model" de Vincent Driessen, adoptando el modelo de ramificación GitFlow. Este enfoque nos permite establecer claramente las convenciones de ramificación que aplicaremos en nuestro proyecto.
+
+**Flujo de trabajo GitFlow:**
+
+<img src="/assets/FlujoDeTrabajo_Gitflow.png">
+
+**Estructura de Ramas (Branches):**
+
+- **Main branch (Rama principal):** Rama base del proyecto donde se almacenan las versiones estables y listas para producción. Solo se integran cambios que hayan sido debidamente revisados y validados en otras ramas.
+
+- **Develop branch (Rama de desarrollo):** Rama que sirve como espacio de trabajo colaborativo donde se integran las actualizaciones y cambios realizados por el equipo. Aquí se mantiene el código en constante evolución antes de ser lanzadas.
+
+- **Release branches (Ramas de lanzamiento):** Se utilizan para facilitar la preparación de nuevas versiones del producto. Estas ramas parten de develop y permiten realizar ajustes finales. Las versiones se nombran siguiendo el esquema de versionado semántico (release/vX.Y.Z).
+
+- **Feature branches (Ramas de funcionalidad):** Se utiliza para desarollar nuevas funcionalidades o mejoras específicas en su propia rama independiente, separada de la rama principal de desarrollo. Una vez completada, se integrará a develop. Estas ramas seguirán una convención de nombres del tipo: feature/nombre-de-la-funcionalidad.
+
+- **Hotfix branches (Ramas de corrección):** Creadas para resolver errores urgentes detectados que pueden afectar en la experiencia de usuario. Permiten la implementación de soluciones rápidas directamente sobre la rama principal. Se sigue la siguiente nomenclatura: hotfix/nombre-del-problema.
+
 
 ### 5.3 Validation Interviews
 #### 5.3.1 Diseño de entrevistas
