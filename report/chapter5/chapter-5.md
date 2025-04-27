@@ -72,6 +72,104 @@ Para nuestra estrategia de gestión de versiones con Git, nos hemos inspirado en
 <br>Para los mensajes de los commits realizados, se utilizará la especificación Conventional Commits basada en Angular Commit Guidelines. La estructura a seguir será la siguiente:
 <br> `git commit -m "<type>[optional scope]:<title>" -m"<description">`
 
+### 5.1.3. Source Code Style Guide & Coding Conventions
+Para el correcto uso de lenguajes de programación, se adaptarán buenas prácticas respecto a las convenciones estándares para coding que garantizarán el correcto desarrollo de la solución.
+
+**HTML:**
+
+- A pesar que HTML permite mezclar letras mayúsculas y minúsculas en los nombres de los elementos, se recomienda usar nombres de elementos en minúsculas.
+- Todos los elementos deben estar correctamente cerrados.
+  <br> `<p>This is a paragraph.</p>`
+- Los nombres de etiquetas y atributos deben ir en minúscula.
+  <br> `href`
+- Se recomienda entrecomillar los valores de los atributos.
+  <br> `<table class="striped">`
+
+**CSS:**
+
+- Los nombres de clases deben seguir la convención kebab-case. Ejemplo: `.ads-sample`
+- Los selectores deben ser claros y específicos.
+- Se debe mantener una estructura ordenada con propiedades agrupadas por tipo (layout, tipografía, colores, etc.).
+- Se recomienda separar los selectores y declaraciones en líneas independientes.
+
+**Gherkin:**
+
+- Los escenarios deben escribirse en lenguaje natural estructurado: Given, When, Then.
+- Los nombres de los escenarios deben ser claros, concisos y expresivos del comportamiento esperado.
+- Se deben evitar detalles técnicos en las descripciones.
+- La escritura debe orientarse a la colaboración entre roles técnicos y no técnicos.
+
+**Angular:**
+
+- Convenciones de estructura de archivos `hero.component.ts|html|css|spec`
+- Aplicar el método Principio de responsabilidad única (SRP)a todos los componentes, servicios y otros símbolos, garantiza que la aplicación sea más limpia, más fácil de leer y mantener, y más comprobable.
+- Se deben separar los nombres de archivos con puntos y guiones.
+- La nomenclatura de servicios debe estar acopmañado del sufijo: `.service.ts`
+
+**Java:**
+
+- Nombres de clases en PascalCase `UserService`.
+- Métodos y atributos en camelCase `getUserData()`.
+- Uso de anotaciones como `@RestController`, `@Service`, `@Repository` para definir roles.
+- Estructura clara del proyecto basada en paquetes por capas.
+  
+**JavaScript:**
+
+- Los nombres de clases deben escribirse usando camelCase. Suelen ser sustantivos o frases nominales. Ejemplo: `Character`
+- Los nombres de funciones y variables deben seguir lowerCamelCase. Suelen ser verbos o frases verbales. Ejemplo: `sendMessage`
+- Cada declaración de variable (de campo o local) declara solo una variable. Ejemplo: `int a`
+
+**TypeScript:**
+
+- Los literales de cadena ordinarios se delimitan con comillas simples ('').
+- Organización del código en módulos y componentes reutilizables.
+- Los nombres de clases deben seguir PascalCase y los métodos camelCase.
+- Se pueden crear instancias de errores mediante `throw new Error('')`.
+
+**Spring Boot:**
+
+- Definición de componentes siguiendo los principios de Spring: `@RestController`, `@Service`, `@Repository`, `@Entity`.
+- Aplicar la convención de configuración mínima: principios de "convention over configuration".
+- Organización de proyectos en módulos claramente separados (API, Services, Repository, Config).
+
+### 5.2. Landing Page, Services & Applications Implementation
+#### 5.2.1. Sprint 1
+##### 5.2.1.1. Sprint Planning 1
+
+| **Sprint #**                      | **Sprint 1**                                                                 |
+|----------------------------------|------------------------------------------------------------------------------|
+| **Sprint Planning Background**   |                                                                              |
+| **Date**                         | 19/04/2025                                                                   |
+| **Time**                         | 09:00 PM                                                                     |
+| **Location**                     | Servidor de Discord del Equipo                                               |
+| **Prepared By**                  | Diego Cabrera                                                             |
+| **Attendees (to planning meeting)** | Diego Cabrera / Andrea Santur / Alessandra Becerra / Joaquin Pedraza / Pedro Nanfuñay |
+| **Sprint 1 Review Summary**      |   En este sprint, el equipo se enfocó en establecer la base del proyecto: se creó, diseñó y lanzó la primera versión operativa de la landing page, incorporando elementos esenciales como la descripción del servicio, los planes de suscripción, formularios de contacto y soporte multilenguaje. Además, se realizaron tareas de UX, como la elaboración de User Personas, Journey Maps y la definición de la arquitectura de información.     |
+| **Sprint 1 Retrospective Summary** |      Los miembros del equipo señalaron que la colaboración y el trabajo en conjunto fueron efectivos. Resaltaron logros en la integración de herramientas como UXPressia, Figma y en el diseño responsivo. Como oportunidad de mejora, se propuso optimizar la gestión del tiempo en las subtareas y definir criterios de aceptación más claros desde el comienzo.   |
+| **Sprint Goal & User Stories**   |        Finalizar la etapa de descubrimiento e investigación, validación de usuarios, análisis de la competencia, diseño de la arquitectura de la información y la estructura básica de la landing.      |
+| **Sprint 1 Goal**                |   El objetivo fue crear una landing page completa y alineada con la visión del proyecto “TocaAquí”, garantizando que fuera funcional, responsiva, accesible y visualmente atractiva para artistas y locales. Además, este sprint estableció las bases para la experiencia de usuario, con entregables como User Personas, Empathy Maps, Wireframes y Style Guides.       |
+| **Sprint 1 Velocity**            | 4 Velocity                                                                   |
+| **Sum of Story Points**          | 6 Story Points                                                               |
+
+##### 5.2.1.2. Aspect Leaders and Collaborators
+
+| Team Member              | GitHub Username     | Landing Page | Diseño UI/UX | HTML/CSS | JavaScript | Documentación |
+|--------------------------|---------------------|--------------|---------------|----------|-------------|----------------|
+| Andrea Santur           | andreli-star        | C            | C             | C        | L           | C              |
+| Diego Cabrera           | OscarAntayhuaCastillo | L            | C             | C        | C           | L              |
+| Alessandra Becerra           | aleeBecerra        | C            | C             | L        | C           | C              |
+| Joaquin Pedraza            | JoaquinPedraza1             | C            | C             | C        | L           | C              |
+| Pedro Nanfuñay          | PedroJ18        | C            | L             | C        | C           | C              |
+
+##### 5.2.1.3. Sprint Backlog 1
+
+| **User Story Id** | **User Story Title** | **Work-Item/Task Id** | **Work-Item/Task Title** | **Description** | **Estimation** | **Assigned To** | **Status** |
+|:-----------------:|:--------------------:|:---------------------:|:-----------------------:|:---------------:|:--------------:|:--------------:|:----------:|
+| US01 | Visualización clara del propósito de la plataforma	 | T01 | Diseño general de la landing page | Creación y redacción del propósito de nuestra plataforma | 5h | Diego Cabrera | Done |
+| US02 | Visualización de planes para artistas y locales | T02 | Visualización de las subscripciones | Creación de los planes de pago de TocaAquí | 3h | Andrea Santur | Done |
+| US03 | Visualización del equipo de desarrollo en la landing | T03 | Redacción de la sección de "Sobre Nosotros" | Creación de la sección de presentación del equipo | 2h | Joaquin Pedraza | Done |
+| US04 | 	Acceso rápido a registro desde botones CTA | T04 | Presentación del formulario | Creación del formulario a ser rellenado por el artista o por el promotor | 3h | Alessandra Becerra | Done |
+
 ### 5.3 Validation Interviews
 #### 5.3.1 Diseño de entrevistas
 
