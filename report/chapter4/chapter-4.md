@@ -147,13 +147,13 @@ Panel de control del productor
 
 Evaluación del evento - Promotor
 
-<img src="../../assets/Evaluaciónpostevento Promotor.png">
-<img src="../../assets/Evaluaciónpostevento Promotor (1).png">
+<img src="../../assets/Evaluaciónpost evento Promotor.png">
+<img src="../../assets/Evaluaciónpost evento Promotor (1).png">
 
 Evaluación del evento - Artista
 
-<img src="../../assets/Evaluaciónpostevento Músico.png">
-<img src="../../assets/Evaluaciónpostevento Músico(1).png">
+<img src="../../assets/EvaluaciónposteventoMúsico.png">
+<img src="../../assets/EvaluaciónposteventoMúsico(1).png">
 <img src="../../assets/Evaluaciónpostevento Músico(2).png">
 <img src="../../assets/Evaluaciónpostevento Músico(3).png">
 
