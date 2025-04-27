@@ -170,6 +170,89 @@ Para el correcto uso de lenguajes de programación, se adaptarán buenas prácti
 | US03 | Visualización del equipo de desarrollo en la landing | T03 | Redacción de la sección de "Sobre Nosotros" | Creación de la sección de presentación del equipo | 2h | Joaquin Pedraza | Done |
 | US04 | 	Acceso rápido a registro desde botones CTA | T04 | Presentación del formulario | Creación del formulario a ser rellenado por el artista o por el promotor | 3h | Alessandra Becerra | Done |
 
+#### 5.2.1.4. Development Evidence for Sprint Review
+
+| Repository   | Branch | Commit Id | Commit Message   | Commit Message Body (resumen) | Committed on  |
+|-|-|-|-|-|-|
+| Landing-Page  | main   | 237e8ed  | feat(index): fixed the name of the author. | Actualización de los nombres del autor | Apr 24, 2025 |
+| Landing-Page  | main   | f49a655  | feat(team): fixed some descriptions of the team section.  | Actualización de la descripción del equipo | Apr 23, 2025  |
+| Landing-Page  | main   | 7f7345c  | feat(landing) :added the profile picture. | Adición de las imágenes de los integrantes | Apr 23, 2025 |
+| Landing-Page  | main   | 3356279  | feat(team): fixed the name of the photo. | Acrualización de los nombres de las fotos de peril | Apr 22, 2025 |
+| Landing-Page  | main   | d6e0832  | feat(landing-page) add Andrea's profile. | Actualización del perfil del integrante | Apr 22, 2025 |
+| Landing-Page  | main   | 873345f  | feat(landing-page): add Alessandra's profile. | Actualización del perfil del integrante | Apr 22, 2025 |
+| Landing-Page  | main   | ea70218  | feat(landing-page): add Pedro Nanfuñay's profile. | Actualización del perfil del integrante | Apr 22, 2025 |
+| Landing-Page  | main   | a14593e  | feat(landing-page) adedd image Joaquin Pedraza. | Actualización del perfil del integrante | Apr 22, 2025 |
+| Landing-Page  | main   | 23146dc  | feat(hamburguer-menu): fxed the visual section of the hamburguer menu. | Actualización de la funcionalidad del menú hamburguesa | Apr 22, 2025 |
+| Landing-Page  | main   | b54d783  | feat(landing) Update styles css. | Actualización de los estilos de la landing page | Apr 20, 2025 |
+| Landing-Page  | main   | 9b54208  | feat(landing-page): added the general content of the landing page. | Adición de los archivos y el código de la landing page en general | Apr 19, 2025 |
+
+#### 5.2.1.5. Execution Evidence for Sprint Review
+En este primer Sprint, hemos creado la Landing Page del proyecto "TocaAquí". Gracias a esta, los usuarios pueden conocer de manera clara la propuesta de nuestra plataforma, que busca conectar a músicos independientes con locales de eventos, facilitando la contratación, coordinación y pagos seguros.
+
+A continuación, se presentan las User Stories correspondientes que fueron realizadas y reflejan el trabajo realizado:
+
+| **ID** | **User Story** | **Evidencia en Landing Page** |
+|:------:|:--------------:|:-----------------------------:|
+| US01 | Visualización clara del propósito de la plataforma	 |  Diseño general de la landing page |
+| US02 | Visualización de planes para artistas y locales |  Visualización de las subscripciones |
+| US03 | Visualización del equipo de desarrollo en la landing |  Redacción de la sección de "Sobre Nosotros" |
+| US04 | Acceso rápido a registro desde botones CTA | Presentación del formulario |
+
+**Propósito de la Plataforma**
+El diseño general de la landing page transmite de manera clara y directa el propósito de TocaAquí, permitiendo al visitante entender rápidamente la misión de la plataforma y lo que ofrece.
+
+<img src="/assets/image1.png">
+
+**Planes Disponibles**
+Se visualizan claramente las suscripciones disponibles para artistas y locales, con una estructura fácil de entender y botones de acción visibles para facilitar la interacción de los usuarios.
+
+<img src="/assets/image2.png">
+
+**Nuestro Equipo**
+La sección "Sobre Nosotros" presenta al equipo de desarrollo de TocaAquí, mostrando perfiles y contribuyendo a la transparencia del proyecto, lo que fortalece la confianza en la plataforma.
+
+<img src="/assets/image3.png">
+
+**Acceso Rápido al Registro**
+Los botones de llamada a la acción (CTA) en la landing page permiten un acceso rápido y fácil al formulario de registro, asegurando que los usuarios puedan unirse a la plataforma sin complicaciones.
+
+<img src="/assets/image4.png">
+
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+Durante el Sprint 1 no se trabajaron endpoints documentados, ya que el alcance se centró solamente en el desarrollo del Landing Page y de la documentación del proyecto. La documentación OpenAPI comenzará en el Sprint 2.
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+Durante el Sprint 1, se realizó el despliegue de la landing page del proyecto utilizando **GitHub Pages**.
+
+- **Repositorio:** [Landing Page](https://github.com/GrupoLatex-SI0729-2510-4334/Landing-Page)
+- **URL de producción:** [https://1asi0730-2510-4370-g1-tocaaqui.github.io/Landing-Page/](https://grupolatex-si0729-2510-4334.github.io/Landing-Page/)
+- **Branch desplegado:** `main`
+
+El sitio fue configurado y publicado correctamente, permitiendo acceso público a las secciones: Inicio, Sobre Nosotros, Planes y Contactanos.
+
+![Landing_page](/assets/landing-2.png)
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint
+
+En la realización del Sprint 1, se observó una participación activa y equitativa entre los miembros del equipo, lo que se reflejó tanto en la frecuencia de los commits como en las funcionalidades aportadas. En total, se realizaron 170 commits, provenientes de 5 autores diferentes, destacándose la colaboración en ramas específicas como feat/chapter1, feat/chapter2, feat/chapter3, feat/chapter4, feat/chapter5 y develop, todas integradas correctamente a través de pull requests.
+
+| Integrante | Commits | Líneas añadidas | Líneas eliminadas | Áreas de contribución principales  |
+|-|-|-|-|-|
+| andreli-star | 75  | 674   | 363  | chapter3, chapter4, chapter5 |
+| aleeBecerra | 46 | 356  | 65  | chapter1, chapter2, chapter4, chapter5 |
+| omele7 | 21  | 853 | 111 | all chapters |
+| PedroJ18 | 15 | 251  | 4  | chapter1, chapter2, chapter4, chapter5 |
+| JoaquinPedraza1 | 13  | 133  | 11   | all chapters  |
+
+
+**Commits:**
+![Commits](/assets/commits.png)
+
+**Analiticas de Colaboración:**
+![Contributors](/assets/contributors.png)
+
 ### 5.3 Validation Interviews
 #### 5.3.1 Diseño de entrevistas
 
