@@ -77,7 +77,7 @@
 
 
 ### 3.3. Impact Mapping
-<br><img src="/assets/Impact Mapping - Toca Aqui.png"><br>
+<br><img src="../../assets/Impact Mapping - Toca Aqui.png"><br>
 
 ### 3.4. Product Backlog
 | Orden | User Story Id | Título                                             | Descripción                                                                                             | Story Points |
