@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="/assets/upcLogo.png" alt="Logo de UPC" width="100%">
-</p>
+![Logo de UPC](./assets/upcLogo.png "Logo de la Universidad")
 
 <div align="center">
 
