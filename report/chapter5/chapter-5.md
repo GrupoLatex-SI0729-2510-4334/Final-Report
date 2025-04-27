@@ -47,7 +47,8 @@
 Para nuestra estrategia de gestión de versiones con Git, nos hemos inspirado en el artículo "A successful Git branching model" de Vincent Driessen, adoptando el modelo de ramificación GitFlow. Este enfoque nos permite establecer claramente las convenciones de ramificación que aplicaremos en nuestro proyecto.
 
 **Flujo de trabajo GitFlow:**
-![Flujo de Trabajo](./assets/FlujoDeTrabajo_Gitflow.png "Flujo de Trabajo")
+<br>
+![Flujo de Trabajo](/assets/FlujoDeTrabajo_Gitflow.png "Flujo de Trabajo")
 
 **Estructura de Ramas (Branches):**
 
@@ -249,7 +250,7 @@ En la realización del Sprint 1, se observó una participación activa y equitat
 **Commits:**
 ![Commits](/assets/commits.png)
 
-**Analiticas de Colaboración:**
+**Analiticas de Colaboración:** <br>
 ![Contributors](/assets/contributors.png)
 
 ### 5.3 Validation Interviews
