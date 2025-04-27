@@ -132,7 +132,7 @@ El diseño de las entrevistas ha sido elaborado cuidadosamente en función de lo
 | Duración de la entrevista |   06:40                                  |
 
 **Detalles de la entrevista:** <br>
-![Entrevista Alexander](../assets/AlexanderEntrevista1.png "Entrevista 1")
+![Entrevista Alexander](../../assets/AlexanderEntrevista1.png "Entrevista 1")
 <br>
 [URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/EWnvCRctvWtNnWC_5f9lcN0BhU8OvDz-oYj8QhkF3xSBDw?e=IJe6js&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
@@ -152,7 +152,7 @@ Gabriel Montoya, baterista de 19 años, busca presentaciones en vivo para expres
 | Duración de la entrevista |   07:50                                  |
 
 **Detalles de la entrevista:** <br>
-![Entrevista Bryan](/assets/BryanEntrevista2.png "Entrevista 2")
+![Entrevista Bryan](../../assets/BryanEntrevista2.png "Entrevista 2")
 <br>
 [URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/EWnvCRctvWtNnWC_5f9lcN0BhU8OvDz-oYj8QhkF3xSBDw?e=IJe6js&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
@@ -173,7 +173,7 @@ Bryan Huamán, guitarrista solista y compositor de 20 años, busca presentacione
 
 **Detalles de la entrevista:** <br>
 
-![Entrevista Iovanella](/assets/IovanellaEntrevista3.png "Entrevista 3")
+![Entrevista Iovanella](../../assets/IovanellaEntrevista3.png "Entrevista 3")
 <br>
 [URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/EWnvCRctvWtNnWC_5f9lcN0BhU8OvDz-oYj8QhkF3xSBDw?e=IJe6js&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
@@ -195,7 +195,7 @@ Mariel, una joven de 19 años, es integrante de una orquesta sinfónica y tambi�
 | Duración de la entrevista |   06:04                                  |
 
 **Detalles de la entrevista:** <br>
-![Entrevista Iovanella](/assets/AgustinEntrevista4.png "Entrevista 4")
+![Entrevista Iovanella](../../assets/AgustinEntrevista4.png "Entrevista 4")
 <br>
 [URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/EWnvCRctvWtNnWC_5f9lcN0BhU8OvDz-oYj8QhkF3xSBDw?e=IJe6js&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
@@ -216,7 +216,7 @@ Agustín Ventura, de 27 años, trabaja como programador, promotor y agente de ev
 | Duración de la entrevista |   09:08                                  |
 
 **Detalles de la entrevista:** <br>
-![Entrevista Iovanella](/assets/DavidEntrevista5.png "Entrevista 5")
+![Entrevista Iovanella](../../assets/DavidEntrevista5.png "Entrevista 5")
 <br>
 [URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/EWnvCRctvWtNnWC_5f9lcN0BhU8OvDz-oYj8QhkF3xSBDw?e=IJe6js&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
@@ -237,7 +237,7 @@ David, un representante y organizador de eventos, busca crear espacios donde el 
 | Duración de la entrevista |   06:32                                  |
 
 **Detalles de la entrevista:** <br>
-![Entrevista Iovanella](/assets/ElaEntrevista6.png "Entrevista 6")
+![Entrevista Iovanella](../../assets/ElaEntrevista6.png "Entrevista 6")
 <br>
 [URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/EWnvCRctvWtNnWC_5f9lcN0BhU8OvDz-oYj8QhkF3xSBDw?e=IJe6js&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
@@ -248,24 +248,24 @@ Ela Moreno, una joven organizadora de eventos de 25 años, encuentra en su traba
 Se realizó un análisis detallado de las entrevistas con los usuarios, lo cual nos permitió comprender a fondo sus expectativas, necesidades y percepciones. Este proceso nos brindó información valiosa sobre cómo imaginan su producto ideal y qué aspectos consideran prioritarios. A partir de esta información, tomamos decisiones clave para orientar el diseño y funcionalidad de la solución. A continuación, se presentan algunas de las evidencias gráficas obtenidas durante este proceso de investigación. 
 
 **Segmento 1: Músicos Independientes** <br>
-![Grafico1](/assets/graficoCircular1.1.png "Grafico 1")
-![Grafico2](/assets/graficocircular1.2.png "Grafico 2")
+![Grafico1](../../assets/graficoCircular1.1.png "Grafico 1")
+![Grafico2](../../assets/graficocircular1.2.png "Grafico 2")
 ![Grafico3](/assets/graficoCircular1.3.png "Grafico 3")
 
 **Segmento 2: Promotores** <br>
 ![Grafico4](/assets/graficoCircular2.1.png "Grafico 4")
-![Grafico5](/assets/graficoCircular2.1.png "Grafico 5")
+![Grafico5](../../assets/graficoCircular2.1.png "Grafico 5")
 
 ## 2.3. Needfinding
 
 ### 2.3.1. User Personas
 
 <br> **- Segmento Objetivo 1: Músicos Independientes** <br>
-![UserPersonaSegmento1](/assets/MarcoAltamirano_UserPersona_Segmento1.png "User Persona Segmento 1")
+![UserPersonaSegmento1](../../assets/MarcoAltamirano_UserPersona_Segmento1.png "User Persona Segmento 1")
  <br>
 
 <br> **- Segmento Objetivo 2: Promotores** <br>
-![UserPersonaSegmento2](/assets/RodrigoCampoverde_UserPersona_Segmento2.png "User Persona Segmento 2")
+![UserPersonaSegmento2](../../assets/RodrigoCampoverde_UserPersona_Segmento2.png "User Persona Segmento 2")
 <br>
 ### 2.3.2. User Task Matrix
 
@@ -305,19 +305,19 @@ Las tareas que tienen mayor frecuencia son las realizadas por los músicos indep
 En esta sección, analizaremos el recorrido del usuario al utilizar nuestra plataforma TocaAqui.
 
 **Segmento 1: Músicos Independientes** <br>
-![JourneyMapMusicos](/assets/musicosjourneymap.png "Journey Map Segmento 1") <br>
+![JourneyMapMusicos](../../assets/musicosjourneymap.png "Journey Map Segmento 1") <br>
 
 **Segmento 2: Promotores** <br>
-![JourneyMapPromotores](/assets/PromotoresJourneymap.png "Journey Map Segmento 2") <br> 
+![JourneyMapPromotores](../../assets/PromotoresJourneymap.png "Journey Map Segmento 2") <br> 
 
 ### 2.3.4  Empathy   Mapping
 En esta sección se presenta el Empathy Mapping, una herramienta para crear un perfil detallado de los user personas y desarrollar una comprensión profunda de su perspectiva y experiencia. Para cada user persona, se incluyen cinco elementos clave: lo que el usuario ve, lo que el usuario escucha, lo que el usuario dice, lo que el usuario hace y lo que el usuario siente.
 
 **Segmento 1: Músicos Independientes** <br>
-![EmpathyMapMusicos](/assets/musicosEmp.png "Empathy Map Segmento 1")
+![EmpathyMapMusicos](../../assets/musicosEmp.png "Empathy Map Segmento 1")
 
 **Segmento 2: Promotores** <br>
-![EmpathyMapPromotores](/assets/musicosEmpathy.png "Empathy Map Segmento 2") <br>  
+![EmpathyMapPromotores](../../assets/musicosEmpathy.png "Empathy Map Segmento 2") <br>  
 
 
 ### 2.3.5  As-is Scenario Mapping
@@ -326,32 +326,32 @@ En esta sección se presenta el Empathy Mapping, una herramienta para crear un p
 **Preparación de la actividad** <br>
 Preparamos el cuadro y lo dividimos en fases: Steps, Doing, Thinking y Feeling
 
-![AsIsMusicos1](/assets/paso1-AsIs.png "As-Is Paso1 Segmento 1") <br>  
+![AsIsMusicos1](../../assets/paso1-AsIs.png "As-Is Paso1 Segmento 1") <br>  
 
 **Brainstorming** <br>
 Se obtuvo el siguiente resultado en el proceso de la lluvia de ideas:
 
-![AsIsMusicos2](/assets/paso2-AsIs1.png "As-Is Paso2 Segmento 1") <br>  
+![AsIsMusicos2](../../assets/paso2-AsIs1.png "As-Is Paso2 Segmento 1") <br>  
 
 **As-Is Scenario Mapping Músicos Independientes** <br>
 Finalmente, luego de identificar las fases y organizar ideas, se obtuvo el siguiente resultado:
 
-![AsIsMusicos3](/assets/paso3-AsIs1.png "As-Is Paso3 Segmento 1") <br>  
+![AsIsMusicos3](../../assets/paso3-AsIs1.png "As-Is Paso3 Segmento 1") <br>  
 
 **As-Is Scenario Mapping Promotores** <br>
 
 **Preparación de la actividad** <br>
 Preparamos el cuadro y lo dividimos en fases: Steps, Doing, Thinking y Feeling
 
-![AsIsPromotores1](/assets/paso1-AsIs.png "As-Is Paso1 Segmento 2") <br>  
+![AsIsPromotores1](../../assets/paso1-AsIs.png "As-Is Paso1 Segmento 2") <br>  
 
 **Brainstorming** <br>
 Se obtuvo el siguiente resultado en el proceso de la lluvia de ideas:
 
-![AsIsPromotores2](/assets/paso2-AsIs2.png "As-Is Paso2 Segmento 2") <br>  
+![AsIsPromotores2](../../assets/paso2-AsIs2.png "As-Is Paso2 Segmento 2") <br>  
 
 **As-Is Scenario Mapping Músicos Independientes** <br>
 Finalmente, luego de identificar las fases y organizar ideas, se obtuvo el siguiente resultado:
 
-![AsIsPromotores3](/assets/paso3-AsIs2.png "As-Is Paso3 Segmento 2") <br>  
+![AsIsPromotores3](../../assets/paso3-AsIs2.png "As-Is Paso3 Segmento 2") <br>  
 
