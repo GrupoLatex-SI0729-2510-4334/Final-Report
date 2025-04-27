@@ -72,44 +72,6 @@ Para nuestra estrategia de gestión de versiones con Git, nos hemos inspirado en
 <br>Para los mensajes de los commits realizados, se utilizará la especificación Conventional Commits basada en Angular Commit Guidelines. La estructura a seguir será la siguiente:
 <br> `git commit -m "<type>[optional scope]:<title>" -m"<description">`
 
-### 5.2. Landing Page, Services & Applications Implementation
-#### 5.2.1. Sprint 1
-##### 5.2.1.1. Sprint Planning 1
-
-| **Sprint #**                      | **Sprint 1**                                                                 |
-|----------------------------------|------------------------------------------------------------------------------|
-| **Sprint Planning Background**   |                                                                              |
-| **Date**                         | 19/04/2025                                                                   |
-| **Time**                         | 09:00 PM                                                                     |
-| **Location**                     | Servidor de Discord del Equipo                                               |
-| **Prepared By**                  | Diego Cabrera                                                             |
-| **Attendees (to planning meeting)** | Diego Cabrera / Andrea Santur / Alessandra Becerra / Joaquin Pedraza / Pedro Nanfuñay |
-| **Sprint 1 Review Summary**      |   En este sprint, el equipo se enfocó en establecer la base del proyecto: se creó, diseñó y lanzó la primera versión operativa de la landing page, incorporando elementos esenciales como la descripción del servicio, los planes de suscripción, formularios de contacto y soporte multilenguaje. Además, se realizaron tareas de UX, como la elaboración de User Personas, Journey Maps y la definición de la arquitectura de información.     |
-| **Sprint 1 Retrospective Summary** |      Los miembros del equipo señalaron que la colaboración y el trabajo en conjunto fueron efectivos. Resaltaron logros en la integración de herramientas como UXPressia, Figma y en el diseño responsivo. Como oportunidad de mejora, se propuso optimizar la gestión del tiempo en las subtareas y definir criterios de aceptación más claros desde el comienzo.   |
-| **Sprint Goal & User Stories**   |        Finalizar la etapa de descubrimiento e investigación, validación de usuarios, análisis de la competencia, diseño de la arquitectura de la información y la estructura básica de la landing.      |
-| **Sprint 1 Goal**                |   El objetivo fue crear una landing page completa y alineada con la visión del proyecto “TocaAquí”, garantizando que fuera funcional, responsiva, accesible y visualmente atractiva para artistas y locales. Además, este sprint estableció las bases para la experiencia de usuario, con entregables como User Personas, Empathy Maps, Wireframes y Style Guides.       |
-| **Sprint 1 Velocity**            | 4 Velocity                                                                   |
-| **Sum of Story Points**          | 6 Story Points                                                               |
-
-##### 5.2.1.2. Aspect Leaders and Collaborators
-
-| Team Member              | GitHub Username     | Landing Page | Diseño UI/UX | HTML/CSS | JavaScript | Documentación |
-|--------------------------|---------------------|--------------|---------------|----------|-------------|----------------|
-| Andrea Santur           | andreli-star        | C            | C             | C        | L           | C              |
-| Diego Cabrera           | OscarAntayhuaCastillo | L            | C             | C        | C           | L              |
-| Alessandra Becerra           | aleeBecerra        | C            | C             | L        | C           | C              |
-| Joaquin Pedraza            | JoaquinPedraza1             | C            | C             | C        | L           | C              |
-| Pedro Nanfuñay          | PedroJ18        | C            | L             | C        | C           | C              |
-
-##### 5.2.1.3. Sprint Backlog 1
-
-| **User Story Id** | **User Story Title** | **Work-Item/Task Id** | **Work-Item/Task Title** | **Description** | **Estimation** | **Assigned To** | **Status** |
-|:-----------------:|:--------------------:|:---------------------:|:-----------------------:|:---------------:|:--------------:|:--------------:|:----------:|
-| US01 | Visualización clara del propósito de la plataforma	 | T01 | Diseño general de la landing page | Creación y redacción del propósito de nuestra plataforma | 5h | Diego Cabrera | Done |
-| US02 | Visualización de planes para artistas y locales | T02 | Visualización de las subscripciones | Creación de los planes de pago de TocaAquí | 3h | Andrea Santur | Done |
-| US03 | Visualización del equipo de desarrollo en la landing | T03 | Redacción de la sección de "Sobre Nosotros" | Creación de la sección de presentación del equipo | 2h | Joaquin Pedraza | Done |
-| US04 | 	Acceso rápido a registro desde botones CTA | T04 | Presentación del formulario | Creación del formulario a ser rellenado por el artista o por el promotor | 3h | Alessandra Becerra | Done |
-
 ### 5.3 Validation Interviews
 #### 5.3.1 Diseño de entrevistas
 
