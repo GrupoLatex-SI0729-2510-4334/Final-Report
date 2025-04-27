@@ -305,30 +305,6 @@ A continuación presentamos los resultados de las entrevistas de validación rea
   </tbody>
 </table>
 
-**Entrevista 2**
-<table border="1" cellspacing="0" cellpadding="8">
-  <thead>
-    <tr>
-      <th><strong>Dato</strong></th>
-      <th><strong>Información</strong></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr><td>Nombre completo</td><td>David Manuel Torres Meneses</td></tr>
-    <tr><td>Edad</td><td>20 años</td></tr>
-    <tr><td>Distrito</td><td>Los Olivos</td></tr>
-    <tr><td>Inicio de la entrevista</td><td>00:00</td></tr>
-    <tr><td>Duración de la entrevista</td><td>06:40</td></tr>
-    <tr><td>Foto captura</td><td><img src="/assets/DavidValidacion.png" alt="David captura"></td></tr>
-    <tr><td>Visualización de la Landing Page</td><td>Genera alta confianza. La landing page es vista como una herramienta de apoyo fundamental para los promotores. Transmite seriedad y permite sentirse respaldado al momento de agendar o publicar eventos rápidamente.</td></tr>
-    <tr><td>Exploración de funcionalidades clave</td><td>Se percibe como didáctica, intuitiva y muy llamativa. Las funcionalidades como la publicación de eventos, la selección en calendario, y el detalle de beneficios son claros y accesibles, facilitando el trabajo del promotor.</td></tr>
-    <tr><td>Flujos de registro y navegación inicial</td><td>Flujo intuitivo y funcional. La navegación inicial permite empezar de forma rápida la programación de eventos, seleccionar fechas, lugares y condiciones fácilmente. Además, la validación de requerimientos técnicos por artista mejora la experiencia.</td></tr>
-    <tr><td>Publicación de eventos y postulación</td><td>Completo y práctico. Se incluyen todos los requisitos necesarios para publicar eventos: rider técnico, condiciones, ubicación, validaciones de logística y características específicas de cada artista. Se destaca la facilidad para planificar y administrar eventos múltiples.</td></tr>
-    <tr><td>Planes y diferencias de servicios</td><td>Aunque actualmente la plataforma es satisfactoria, el entrevistado sugiere mejorar ofreciendo beneficios tipo "Premium" y alianzas estratégicas, que otorguen ventajas tanto a nivel nacional como internacional para promotores frecuentes.</td></tr>
-  </tbody>
-</table>
-
-
 **Entrevista 3**
 <table border="1" cellspacing="0" cellpadding="8">
   <thead>
@@ -375,6 +351,29 @@ A continuación presentamos los resultados de las entrevistas de validación rea
     <tr><td>Flujos de registro y navegación inicial</td><td>Opinó que la navegación para iniciar la publicación de un evento es bastante intuitiva y fácil de comprender.</td></tr>
     <tr><td>Publicación de eventos y postulación</td><td>Indicó que la plataforma incluye la mayoría de la información necesaria, como planes y datos de contacto, lo que genera confianza para la gestión de eventos.</td></tr>
     <tr><td>Planes y diferencias de servicios</td><td>Se mostró conforme con las diferencias entre los planes y necesidades, que proporciona."</td></tr>
+  </tbody>
+</table>
+
+**Entrevista 2**
+<table border="1" cellspacing="0" cellpadding="8">
+  <thead>
+    <tr>
+      <th><strong>Dato</strong></th>
+      <th><strong>Información</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>Nombre completo</td><td>David Manuel Torres Meneses</td></tr>
+    <tr><td>Edad</td><td>20 años</td></tr>
+    <tr><td>Distrito</td><td>Los Olivos</td></tr>
+    <tr><td>Inicio de la entrevista</td><td>00:00</td></tr>
+    <tr><td>Duración de la entrevista</td><td>06:40</td></tr>
+    <tr><td>Foto captura</td><td><img src="/assets/DavidValidacion.png" alt="David captura"></td></tr>
+    <tr><td>Visualización de la Landing Page</td><td>Genera alta confianza. La landing page es vista como una herramienta de apoyo fundamental para los promotores. Transmite seriedad y permite sentirse respaldado al momento de agendar o publicar eventos rápidamente.</td></tr>
+    <tr><td>Exploración de funcionalidades clave</td><td>Se percibe como didáctica, intuitiva y muy llamativa. Las funcionalidades como la publicación de eventos, la selección en calendario, y el detalle de beneficios son claros y accesibles, facilitando el trabajo del promotor.</td></tr>
+    <tr><td>Flujos de registro y navegación inicial</td><td>Flujo intuitivo y funcional. La navegación inicial permite empezar de forma rápida la programación de eventos, seleccionar fechas, lugares y condiciones fácilmente. Además, la validación de requerimientos técnicos por artista mejora la experiencia.</td></tr>
+    <tr><td>Publicación de eventos y postulación</td><td>Completo y práctico. Se incluyen todos los requisitos necesarios para publicar eventos: rider técnico, condiciones, ubicación, validaciones de logística y características específicas de cada artista. Se destaca la facilidad para planificar y administrar eventos múltiples.</td></tr>
+    <tr><td>Planes y diferencias de servicios</td><td>Aunque actualmente la plataforma es satisfactoria, el entrevistado sugiere mejorar ofreciendo beneficios tipo "Premium" y alianzas estratégicas, que otorguen ventajas tanto a nivel nacional como internacional para promotores frecuentes.</td></tr>
   </tbody>
 </table>
 
