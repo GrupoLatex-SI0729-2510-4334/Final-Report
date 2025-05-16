@@ -87,13 +87,11 @@ URL Project Report (Github): [https://github.com/GrupoLatex-SI0729-2510-4334/Fin
 
 # **Student Outcome**  
 <p align ="justify">
-<strong> ABET – EAC - Student Outcome 5 </strong> <br>
-Criterio: <em> La capacidad de funcionar efectivamente en un equipo cuyos miembros
-juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo,
-establecen objetivos, planifican tareas y cumplen objetivos.</em><br>
+<strong> ABET – EAC - Student Outcome 3 </strong> <br>
+Criterio: <em>Demuestra la capacidad de comunicarse eficazmente con una variedad de audiencias.</em><br>
 En el siguiente cuadro se describe las acciones realizadas y enunciados de
 conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
-del ABET – EAC - Student Outcome 5.</p> 
+del ABET – EAC - Student Outcome 3.</p> 
 
 <table style="border-collapse: collapse; width: 100%; border: 1px solid black;">
   <thead>
@@ -105,28 +103,40 @@ del ABET – EAC - Student Outcome 5.</p>
   </thead>
   <tbody>
     <tr style="border-bottom: 1px solid black;">
-      <td style="border-right: 1px solid black;"><strong>Trabaja en equipo para
-            proporcionar liderazgo en
-            forma conjunta</strong></td>
+      <td style="border-right: 1px solid black;"><strong>Comunica oralmente con efectividad a
+diferentes rangos de audiencia.</strong></td>
       <td style="border-right: 1px solid black;">
         <ul>
           <p><strong>TB1</strong></p>
           <li>Diego Ivan Cabrera Buitron: <br> Participe activamente en las reuniones de equipo, completé mi parte del trabajo dentro de los plazos establecidos, colaboré en la revisión del código de mis compañeros y proporcioné retroalimentación constructiva.</li>
           <li>Andrea Elizabeth Santur Tello: <br> He participado en las convocatorias del equipo, he cumplido con las partes que me correspondían dentro del plazo establecido, he colaborado en algunos puntos y di todo de mí en este entregable. Así como también, di comentarios constructivos que nos ayudaron a crecer como grupo.</li>
+            <li>Alessandra Nicole Becerra Tejeda: <br> En este entregable participé en las reuniones del equipo explicando los resultados de las entrevistas y el escenario As-Is. Me aseguré de que todos entendieran los hallazgos y cómo se relacionaban con las necesidades del usuario.</li>
           <li>Nanfuñay Liza Pedro Jesús: <br> Mostré participación activa en las reuniones del equipo, contribuyendo de manera constante al desarrollo del informe y la landing page. Demostré responsabilidad en el cumplimiento de tareas dentro de los plazos establecidos y colaboré de forma efectiva en retroalimentaciones para mejorar el trabajo en equipo.</li>
+          <br>
+          <p><strong>TP</strong></p>
+           <li>Diego Ivan Cabrera Buitron: <br> </li>
+           <li>Alessandra Nicole Becerra Tejeda: <br> Durante la elaboración del TP, participé activamente en reuniones de equipo para coordinar la implementación del frontend en la sección de búsqueda. Expliqué mis avances y propuse mejoras, comunicándome con claridad con mis compañeros de equipo</li>
+           <li>Andrea Elizabeth Santur Tello: <br> </li>
         </ul> 
       </td>
       <td><strong>TB1</strong><p align="justify">Se trabajó en equipo tanto en nuestras sesiones presenciales como en nuestras reuniones remotas, proporcionamos conjuntamente un liderazgo de equipo integro para elaborar de nuestro producto y el desarrollo profesional de cada miembro del equipo.
       <br>
     </tr>
     <tr style="border-bottom: 1px solid black;">
-      <td style="border-right: 1px solid black;"><strong>Crea un entorno colaborativo e inclusivo, establece metas,    planifica tareas y cumple     objetivos</strong></td>
+      <td style="border-right: 1px solid black;"><strong>Comunica por escrito con efectividad a
+diferentes rangos de audiencia</strong></td>
       <td style="border-right: 1px solid black;">
         <ul>
           <p><strong>TB1</strong></p>
           <li>Diego Ivan Cabrera Buitron: <br> Asistencia a reuniones de equipo, apertura de ayuda a otros miembros del equipo y cumplimiento de la creación estructural de la carátula, registro de versiones, project report collaborations insights, contenido del informe y el student outcome.</li>
           <li>Andrea Elizabeth Santur Tello: <br> Participación continua en las convocatorias del equipo, respuesta de llamado y convocatoria. Cumplimiento en los puntos del Impact Mapping, la parte de entrevistas, diseño y registro de entrevistas,Diagarama de clases ,lo que corresponde del Student Outcome, así como también, serví de refuerzo en algunos puntos que me necesitaban.</li>
+            <li>Alessandra Nicole Becerra Tejeda: <br> En este entregable colaboré con las entrevistas a usuarios y documenté el escenario As-Is, usando un lenguaje claro y organizado para que el equipo pudiera identificar problemas y oportunidades de mejora.</li>
           <li>Nanfuñay Liza Pedro Jesús: <br> Asistí de manera activa a las reuniones del equipo, donde establecí metas claras. Ello me permitió organizar y trabajar en conjunto con el equipo de manera efectiva para alcanar los objetivos establecidos.</li>
+           <br>
+          <p><strong>TP</strong></p>
+           <li>Diego Ivan Cabrera Buitron: <br> </li>
+           <li>Alessandra Nicole Becerra Tejeda: <br> Apoyé en documentar los componentes que trabajé en el frontend de la funcionalidad de búsqueda, detallando su propósito y funcionamiento para facilitar su mantenimiento y comprensión.</li>
+           <li>Andrea Elizabeth Santur Tello: <br> </li>
         </ul>
       </td>
       <td><p><strong>TB1</strong></p><p align="justify">Cada miembro de nuestro equipo mostró disposición y estableció un entorno colaborativo a través de medios de comunicación efectivos, se establecieron reuniones, llamadas, entregas tempranas y constantes revisiones de cada capítulo de nuestro proyecto. Nos reunimos en periodos continuos para opinar y colaborar en cada proceso del desarrollo de nuestro producto y su documentación. Nos establecimos metas tempranas con la planificación de tareas y las mejoramos conjuntamente con la revisión de la calidad del proceso culminado.</p>
