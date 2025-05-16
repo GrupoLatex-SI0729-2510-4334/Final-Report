@@ -613,7 +613,7 @@ Ver mi agenda de eventos
 
 
 ### 5.2.2.7 Software  Deployment Evidence for Sprint Review 
-<br><img src="../../assets/deploy.png"><br>
+<br><img src="../../assets/deployment.png"><br>
 
 
 ## 5.2.2.8 Team Collaboration Insights during Sprint
