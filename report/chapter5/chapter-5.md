@@ -591,20 +591,35 @@ Durante este Sprint, se han alcanzado varios hitos importantes en la implementac
 
 Dashboard de eventos
 
-
+<br><img src="../../assets/dashboard.png"><br>
 Busqueda de eventos
-
-
+<br><img src="../../assets/search.png"><br>
+Perfil de usuario 
+<br><img src="../../assets/per.png"><br>
+Editar Perfil
+<br><img src="../../assets/Editar Perfil.png"><br>
+Ver los eventos para postular
+<br><img src="../../assets/post1.png"><br>
+Postular y registrarse a un evento 
+<br><img src="../../assets/post2.png"><br>
+Evaluar eventos musicales
+<br><img src="../../assets/eva.png"><br>
+Editar evaluación de evento 
+<br><img src="../../assets/eva2.png"><br>
+Ver mi agenda de eventos
+<br><img src="../../assets/age2.png"><br>
 
 
 
 
 ### 5.2.2.7 Software  Deployment Evidence for Sprint Review 
-
+<br><img src="../../assets/deploy.png"><br>
 
 
 ## 5.2.2.8 Team Collaboration Insights during Sprint
 Durante este Sprint, el equipo ha trabajado de manera colaborativa en el diseño y programacion en la implementación de la Web Application de Grupo Latex. A continuación, se presenta un resumen de cómo se han desarrollado las actividades de implementación, junto con capturas de pantalla de los analíticos de colaboración y commits en GitHub realizados por los miembros del equipo.
 
+<br><img src="../../assets/colaboration1.png"><br>
+<br><img src="../../assets/colaboration2.png"><br>
 
 
