@@ -116,7 +116,7 @@ diferentes rangos de audiencia.</strong></td>
           <p><strong>TP</strong></p>
            <li>Diego Ivan Cabrera Buitron: <br> </li>
            <li>Alessandra Nicole Becerra Tejeda: <br> Durante la elaboración del TP, participé activamente en reuniones de equipo para coordinar la implementación del frontend en la sección de búsqueda. Expliqué mis avances y propuse mejoras, comunicándome con claridad con mis compañeros de equipo</li>
-           <li>Andrea Elizabeth Santur Tello: <br> </li>
+           <li>Andrea Elizabeth Santur Tello: <br> En este entregable, he estado participando y de manera activa en las reuniones programadas por el equipo para poder desarrollar algunos puntos. Recibí apoyo y ayuda, para poder mejorar y además, de varias retroalimentaciones de mis compañeros de trabajo.</li>
         </ul> 
       </td>
       <td><strong>TB1</strong><p align="justify">Se trabajó en equipo tanto en nuestras sesiones presenciales como en nuestras reuniones remotas, proporcionamos conjuntamente un liderazgo de equipo integro para elaborar de nuestro producto y el desarrollo profesional de cada miembro del equipo.
@@ -136,7 +136,7 @@ diferentes rangos de audiencia</strong></td>
           <p><strong>TP</strong></p>
            <li>Diego Ivan Cabrera Buitron: <br> </li>
            <li>Alessandra Nicole Becerra Tejeda: <br> Apoyé en documentar los componentes que trabajé en el frontend de la funcionalidad de búsqueda, detallando su propósito y funcionamiento para facilitar su mantenimiento y comprensión.</li>
-           <li>Andrea Elizabeth Santur Tello: <br> </li>
+           <li>Andrea Elizabeth Santur Tello: <br> Aporté en elaborar el frontend, en la parte de la agenda, resaltando las fechas, colocando todos los meses del año, para una mejor organización y además, de ver el reporte semanal y los eventos confirmados.</li>
         </ul>
       </td>
       <td><p><strong>TB1</strong></p><p align="justify">Cada miembro de nuestro equipo mostró disposición y estableció un entorno colaborativo a través de medios de comunicación efectivos, se establecieron reuniones, llamadas, entregas tempranas y constantes revisiones de cada capítulo de nuestro proyecto. Nos reunimos en periodos continuos para opinar y colaborar en cada proceso del desarrollo de nuestro producto y su documentación. Nos establecimos metas tempranas con la planificación de tareas y las mejoramos conjuntamente con la revisión de la calidad del proceso culminado.</p>
