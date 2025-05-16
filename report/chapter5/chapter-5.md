@@ -563,17 +563,17 @@ A continuación presentamos los resultados de las entrevistas de validación rea
 | Sprint # | Sprint 2  | 
 |--------------------|------------|
 | Sprint Planning Background | 
-| Date | 2024-09-28 | 
-| Time |  1:00 AM |
+| Date | 2025-05-16 | 
+| Time |  13:00 PM |
 | Location |  UPC - Campus San Miguel |
 | Preparate by| Joaquin Pedraza Maldonado | 
-|  Attendees (to planning meeting) | Gómez Vallejos Sergio André ,Zevallos Linares Alessandro Netto ,Pedraza Maldonado Joaquin Andree ,Romero Qwistgaard Russell Stephen  | 
+|  Attendees (to planning meeting) | Diego Ivan Cabrera ,Alessandra Becerra, Andrea Santu, Pedro y Pedraza Maldonado Joaquin Andree ,  | 
 | Sprint n-2 Review Summary | --- | 
-| Sprint Planning Background | Durante esta etapa, se llevó a cabo una exhaustiva verificación del frontEnd Webb App y la implementacion de las mejoras continuas dadas en nuestro sprint 1. |
+| Sprint Planning Background | Durante esta etapa, se llevó a cabo una exhaustiva verificación del frontEnd y la implementacion de las mejoras continuas dadas en nuestro sprint 1. |
 | Sprint Goal & User Stories | 
 | Sprint 2 Goal | Desarrolar la funcionalidad de la  webb App con i18n. Se considerará que el objetivo del sprint se ha cumplido con la funcionalidad hecha y el frontEnd.|  
 | Sprint Velocity | Se establece un Velocity de 20 Story Points para este Sprint. | 
-| Sum of Story Points | 25 Story Points | 
+| Sum of Story Points | 18 Story Points | 
 
 ### 5.2.2.2 Sprint Backlog 2
 
@@ -609,6 +609,15 @@ Editar evaluación de evento
 Ver mi agenda de eventos
 <br><img src="../../assets/age2.png"><br>
 
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review 2
+
+Para el desarrollo de la plataforma, específicamente en la parte del Frontend, utilizamos lo siguiente:
+
+Webstorm (IDE de desarrollo): Usamos Webstorm como nuestro entorno de desarrollo integrado para trabajar en el Frontend.
+
+Angular : Optamos por Angular como el  principal para el desarrollo.
+
+GitHub: Nuestro repositorio del Frontend está alojado en GitHub, lo que facilita la colaboración y el seguimiento de los cambios en el código.
 
 
 
