@@ -22,6 +22,7 @@ Informe de TB1
 
 Startup: GrupoLatex
 
+Producto: TocaAquí
 Producto: TocaAqui
 
 Grupo: 01
@@ -29,14 +30,16 @@ Grupo: 01
 |           Integrantes            |   Código    |
 |:--------------------------------:|:-----------:|
 | Diego Ivan Cabrera Buitron | u20211b293 |
+| Diego Ivan Cabrera Buitron | u20211b293 |
 | Andrea Elizabeth Santur Tello |u202310988  |
 | Alessandra Nicole Becerra Tejeda | u202318947 |
 | Joaquin Andree Pedraza Maldonado | u202218514  | 
 | Pedro Jesus Nanfuñay Liza | u202215462 |
 
-Abril 2025
-
 </div>
+
+
+Mayo 2025
 
 
 # **Registro de Versiones del Informe**
@@ -78,20 +81,56 @@ Abril 2025
   </tbody>
 </table>
 
+<table>
+  <thead>
+    <tr>
+        <th>Versión</th>
+        <th>Fecha</th>
+        <th>Autor</th>
+        <th>Descripción de modificación</th>
+    </tr>
+  </thead>
+  <tbody>
+  <tr>
+      <td><strong>TP</strong></td>
+      <td>Viernes 16 de Mayo</td>
+      <td>
+        <ul>
+          <li>Diego Ivan Cabrera Buitron</li>
+          <li>Andrea Elizabeth Santur Tello</li>
+          <li>Alessandra Nicole Becerra Tejeda</li>
+          <li>Joaquin Andree Pedraza Maldonado</li>
+          <li>Pedro Jesus Nanfuñay Liza</li>
+        </ul>
+      </td>
+      <td>
+        Se han actualizado los siguientes capítulos:
+        <ul>
+          <li>Capítulo I: Introducción</li>
+          <li>Capítulo II: Requirements Elicitation & Analysis</li>
+          <li>Capítulo III: Requirements Specification</li>
+          <li>Capítulo IV: Product Design</li>
+          <li>Avance del Capítulo V: Product Implementation, Validation & Deployment hasta el punto 5.2.1.8</li>
+          <li>Avance de Conclusiones, Bibliografía y Anexos</li>
+        </ul>
+        Se ha realizado la creación de la primera versión del front-end, utilizando Angular como el Framework principal.
+      </td>
+  </tr>
+  </tbody>
+</table>
+
 
 # **Project Report Collaboration Insights**
 
 URL Project Report (Github): [https://github.com/GrupoLatex-SI0729-2510-4334/Final-Report](https://github.com/GrupoLatex-SI0729-2510-4334/Final-Report)
 
-# **Student Outcome**
+# **Student Outcome**  
 <p align ="justify">
-<strong> ABET – EAC - Student Outcome 5 </strong> <br>
-Criterio: <em> La capacidad de funcionar efectivamente en un equipo cuyos miembros
-juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo,
-establecen objetivos, planifican tareas y cumplen objetivos.</em><br>
+<strong> ABET – EAC - Student Outcome 3 </strong> <br>
+Criterio: <em>Demuestra la capacidad de comunicarse eficazmente con una variedad de audiencias.</em><br>
 En el siguiente cuadro se describe las acciones realizadas y enunciados de
 conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
-del ABET – EAC - Student Outcome 5.</p> 
+del ABET – EAC - Student Outcome 3.</p> 
 
 <table style="border-collapse: collapse; width: 100%; border: 1px solid black;">
   <thead>
@@ -103,11 +142,22 @@ del ABET – EAC - Student Outcome 5.</p>
   </thead>
   <tbody>
     <tr style="border-bottom: 1px solid black;">
-      <td style="border-right: 1px solid black;"><strong>Comunica oralmente con efectividad a diferentes rangos de audiencia</strong></td>
+      <td style="border-right: 1px solid black;"><strong>Comunica oralmente con efectividad a
+diferentes rangos de audiencia.</strong></td>
       <td style="border-right: 1px solid black;">
         <ul>
           <p><strong>TB1</strong></p>
           <li>Diego Ivan Cabrera Buitron: <br> Participe activamente en las reuniones de equipo, completé mi parte del trabajo dentro de los plazos establecidos, colaboré en la revisión del código de mis compañeros y proporcioné retroalimentación constructiva.</li>
+          <li>Andrea Elizabeth Santur Tello: <br> He participado en las convocatorias del equipo, he cumplido con las partes que me correspondían dentro del plazo establecido, he colaborado en algunos puntos y di todo de mí en este entregable. Así como también, di comentarios constructivos que nos ayudaron a crecer como grupo.</li>
+            <li>Alessandra Nicole Becerra Tejeda: <br> En este entregable participé en las reuniones del equipo explicando los resultados de las entrevistas y el escenario As-Is. Me aseguré de que todos entendieran los hallazgos y cómo se relacionaban con las necesidades del usuario.</li>
+          <li>Nanfuñay Liza Pedro Jesús: <br> Participé activamente en las reuniones del equipo, cumplí con las tareas asignadas en el tiempo establecido y demostré capacidad para exponer los objetivos y proceso de desarrollo del proyecto, así como los resultados obtenidos en el entregable. </li>
+          <br>
+          <p><strong>TP</strong></p>
+           <li>Diego Ivan Cabrera Buitron: <br> Durante la creación del front-end, pude comunicarme con mi equipo, tanto en lenguaje técnico como ne lenguaje no técnico y así, tener una comunicación efectiva y adecuada mejorando la productividad del equipo.</li>
+           <li>Alessandra Nicole Becerra Tejeda: <br> Durante la elaboración del TP, participé activamente en reuniones de equipo para coordinar la implementación del frontend en la sección de búsqueda. Expliqué mis avances y propuse mejoras, comunicándome con claridad con mis compañeros de equipo</li>
+           <li>Andrea Elizabeth Santur Tello: <br> En este entregable, he estado participando y de manera activa en las reuniones programadas por el equipo para poder desarrollar algunos puntos. Recibí apoyo y ayuda, para poder mejorar y además, de varias retroalimentaciones de mis compañeros de trabajo.</li>
+           <li>Nanfuñay Liza Pedro Jesús: <br> Participé activamente en la reuniones del equipo para la coordinación del desarrollo de la Web Application. Demostrando capacidad para desarrollar e implementar el bounded context Profile. Así como explicar mis avances y brindar y recibir retroalimentación por parte de mis compañeros de equipo.</li>
+           <li>Joaquin Andree Pedraza Maldonado: <br> .</li>
           <li>Andrea Elizabeth Santur Tello: <br> He participado en las convocatorias del equipo, he cumplido con las partes que me correspondían dentro del plazo establecido, he colaborado en algunos puntos y di todo de mí en este entregable. Así como también, di comentarios constructivos que nos ayudaron a crecer como grupo. </li>
            <li>Alessandra Nicole Becerra Tejeda: <br> Participé de manera activa en las reuniones del equipo, cumplí con las tareas bajo mi responsabilidad y dentro de los plazos establecidos, además contribuí de manera activa en las sesiones de retroalimentación para fortalecer la colaboración y el desempeño del equipo.  </li>
           <li>Nanfuñay Liza Pedro Jesús: <br> Mostré participación activa en las reuniones del equipo, contribuyendo de manera constante al desarrollo del informe y la landing page. Demostré responsabilidad en el cumplimiento de tareas dentro de los plazos establecidos y colaboré de forma efectiva en retroalimentaciones para mejorar el trabajo en equipo.</li>
@@ -115,21 +165,32 @@ del ABET – EAC - Student Outcome 5.</p>
         </ul> 
       </td>
       <td><strong>TB1</strong><p align="justify">Se trabajó en equipo tanto en nuestras sesiones presenciales como en nuestras reuniones remotas, proporcionamos conjuntamente un liderazgo de equipo integro para elaborar de nuestro producto y el desarrollo profesional de cada miembro del equipo.
-      <br>
+      <br><strong>TP</strong><p align="justify">Se planificó oralmente en equipo la creación de esta primera versión del front-end, proporcionando la productividad del equipo y comunicar de manera efectiva la importancia de nuestro producto.
     </tr>
     <tr style="border-bottom: 1px solid black;">
-      <td style="border-right: 1px solid black;"><strong>Comunica por escrito con efectividad a diferentes rangos de audiencia</strong></td>
+      <td style="border-right: 1px solid black;"><strong>Comunica por escrito con efectividad a
+diferentes rangos de audiencia</strong></td>
       <td style="border-right: 1px solid black;">
         <ul>
           <p><strong>TB1</strong></p>
           <li>Diego Ivan Cabrera Buitron: <br> Asistencia a reuniones de equipo, apertura de ayuda a otros miembros del equipo y cumplimiento de la creación estructural de la carátula, registro de versiones, project report collaborations insights, contenido del informe y el student outcome.</li>
+          <li>Andrea Elizabeth Santur Tello: <br> Participación continua en las convocatorias del equipo, respuesta de llamado y convocatoria. Cumplimiento en los puntos del Impact Mapping, la parte de entrevistas, diseño y registro de entrevistas,Diagarama de clases ,lo que corresponde del Student Outcome, así como también, serví de refuerzo en algunos puntos que me necesitaban.</li>
+            <li>Alessandra Nicole Becerra Tejeda: <br> En este entregable colaboré con las entrevistas a usuarios y documenté el escenario As-Is, usando un lenguaje claro y organizado para que el equipo pudiera identificar problemas y oportunidades de mejora.</li>
+          <li>Nanfuñay Liza Pedro Jesús: <br> Demostré capacidad para documentar correctamente los objetivos y puntos desarrollados en el proyecto, como la descripción de la Startup y los User Stories, utilizando un lenguaje organizado y coherente que permita a los usuarios comprender la información fácilmente. </li>
+           <br>
+          <p><strong>TP</strong></p>
+           <li>Diego Ivan Cabrera Buitron: Colaboré con la designación de tareas por parte del grupo, comunicando escritamente mediante mensajes las tareas a realizar, verificando la productividad y facilitando el presente trabajo<br> </li>
+           <li>Alessandra Nicole Becerra Tejeda: <br> Apoyé en documentar los componentes que trabajé en el frontend de la funcionalidad de búsqueda, detallando su propósito y funcionamiento para facilitar su mantenimiento y comprensión.</li>
+           <li>Andrea Elizabeth Santur Tello: <br> Aporté en elaborar el frontend, en la parte de la agenda, resaltando las fechas, colocando todos los meses del año, para una mejor organización y además, de ver el reporte semanal y los eventos confirmados.</li>
+           <li>Nanfuñay Liza Pedro Jesús: <br> Colaboré en el desarrollo de la Web Application, donde me encargué de la implementación del bounded context Profile que permite la correcta visualización del perfil del usuario, así como la capacidad de editar dicha información.</li>
+           <li>Joaquin Andree Pedraza Maldonado: <br> .</li>
           <li>Andrea Elizabeth Santur Tello: <br> Participación continua en las convocatorias del equipo, respuesta de llamado y convocatoria. Cumplimiento en los puntos del Impact Mapping, la parte de entrevistas, diseño y registro de entrevistas,Diagarama de clases ,lo que corresponde del Student Outcome, así como también, serví de refuerzo en algunos puntos que me necesitaban. </li>
           <li>Alessandra Nicole Becerra Tejeda: <br>Asistí activamente a las reuniones realizadas por el equipo, donde resolvimos dudas colaborativamente y mostré una buena disposición para lograr un buen trabajo. </li>
           <li>Nanfuñay Liza Pedro Jesús: <br> Asistí de manera activa a las reuniones del equipo, donde establecí metas claras. Ello me permitió organizar y trabajar en conjunto con el equipo de manera efectiva para alcanzar los objetivos establecidos.</li>
                 <li>NPedraza Maldonado Joaquin: <br> Asisti a las reuniones pactadas por mi grupo y ayude a que mis compañeros realicen efectivamente sus partes  asignadas y cumpli  a tiempo mis actividades asignadas mediante la elaboración de la TB1.</li>
         </ul>
       </td>
-      <td><p><strong>TB1</strong></p><p align="justify">Cada miembro de nuestro equipo mostró disposición y estableció un entorno colaborativo a través de medios de comunicación efectivos, se establecieron reuniones, llamadas, entregas tempranas y constantes revisiones de cada capítulo de nuestro proyecto. Nos reunimos en periodos continuos para opinar y colaborar en cada proceso del desarrollo de nuestro producto y su documentación. Nos establecimos metas tempranas con la planificación de tareas y las mejoramos conjuntamente con la revisión de la calidad del proceso culminado.</p>
+      <td><p><strong>TB1</strong></p><p align="justify">Cada miembro de nuestro equipo mostró disposición y estableció un entorno colaborativo a través de medios de comunicación efectivos, se establecieron reuniones, llamadas, entregas tempranas y constantes revisiones de cada capítulo de nuestro proyecto. Nos reunimos en periodos continuos para opinar y colaborar en cada proceso del desarrollo de nuestro producto y su documentación. Nos establecimos metas tempranas con la planificación de tareas y las mejoramos conjuntamente con la revisión de la calidad del proceso culminado.</p><br><strong>TP</strong></p><p align="justify">El presente equipó demostró comunicarse de manera efectiva y así, la productividad de este mismo incrementó considerablemente, contribuyendo a la creación de la primera versión del producto, demostrando la importancia de este mismo mediante la comunicación presente dentro del equipo. Se establecieron tareas designadas para cada integrante del equipo que se establecieron mediante la comunicación oral y escrita y que se trabajaron en su totalidad. 
   </tbody>
 </table>
 
