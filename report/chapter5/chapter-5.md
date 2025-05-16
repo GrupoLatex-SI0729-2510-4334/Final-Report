@@ -555,3 +555,56 @@ A continuación presentamos los resultados de las entrevistas de validación rea
 - Asociación Peruana de Managers Musicales. (2020). Encuesta sobre el impacto de la pandemia en músicos independientes. Cocktail. https://cocktail.pe/mas-del-80-de-musicos-independientes-padecen-economicamente-durante-la-pandemia/
 - Ramos Espinoza, M. A. (2021). Música independiente en Lima: mapeo de un circuito cultural desde las lógicas de sus agentes (Tesis de licenciatura, Pontificia Universidad Católica del Perú). PUCP. https://tesis.pucp.edu.pe/items/ab79feff-9493-4f8e-9aa8-81d3e50ec57d/full
 - Soriano, P. D. (2020). Eventos musicales para contribuir a la oferta cultural en el Centro Histórico de Lima. Universidad de San Martín de Porres. https://repositorio.usmp.edu.pe/bitstream/handle/20.500.12727/7073/SORIANO_PD.pdf?sequence=1
+
+
+
+
+### 5.2.2.1 Sprint planning 2 
+| Sprint # | Sprint 2  | 
+|--------------------|------------|
+| Sprint Planning Background | 
+| Date | 2024-09-28 | 
+| Time |  1:00 AM |
+| Location |  UPC - Campus San Miguel |
+| Preparate by| Joaquin Pedraza Maldonado | 
+|  Attendees (to planning meeting) | Gómez Vallejos Sergio André ,Zevallos Linares Alessandro Netto ,Pedraza Maldonado Joaquin Andree ,Romero Qwistgaard Russell Stephen  | 
+| Sprint n-2 Review Summary | --- | 
+| Sprint Planning Background | Durante esta etapa, se llevó a cabo una exhaustiva verificación del frontEnd Webb App y la implementacion de las mejoras continuas dadas en nuestro sprint 1. |
+| Sprint Goal & User Stories | 
+| Sprint 2 Goal | Desarrolar la funcionalidad de la  webb App con i18n. Se considerará que el objetivo del sprint se ha cumplido con la funcionalidad hecha y el frontEnd.|  
+| Sprint Velocity | Se establece un Velocity de 20 Story Points para este Sprint. | 
+| Sum of Story Points | 25 Story Points | 
+
+### 5.2.2.2 Sprint Backlog 2
+
+
+
+## 5.2.2.3 Development Evidence for Sprint Review
+
+Durante este sprint, se han realizado avances significativos en la implementación de la Landing Page. Se han completado varias historias de usuario de la landing page y se han realizado múltiples commits en los repositorios correspondientes. A continuación, se presenta una tabla que incluye los commits relacionados con la implementación para el repositorio de la landing page.
+
+
+## 5.2.2.4 Execution Evidence for Sprint Review
+
+Durante este Sprint, se han alcanzado varios hitos importantes en la implementación de la Web Application. Se han completado las siguientes tareas:
+
+
+Dashboard de eventos
+
+
+Busqueda de eventos
+
+
+
+
+
+
+### 5.2.2.7 Software  Deployment Evidence for Sprint Review 
+
+
+
+## 5.2.2.8 Team Collaboration Insights during Sprint
+Durante este Sprint, el equipo ha trabajado de manera colaborativa en el diseño y programacion en la implementación de la Web Application de Grupo Latex. A continuación, se presenta un resumen de cómo se han desarrollado las actividades de implementación, junto con capturas de pantalla de los analíticos de colaboración y commits en GitHub realizados por los miembros del equipo.
+
+
+
