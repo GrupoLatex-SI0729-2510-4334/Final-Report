@@ -111,7 +111,7 @@ diferentes rangos de audiencia.</strong></td>
           <li>Diego Ivan Cabrera Buitron: <br> Participe activamente en las reuniones de equipo, completé mi parte del trabajo dentro de los plazos establecidos, colaboré en la revisión del código de mis compañeros y proporcioné retroalimentación constructiva.</li>
           <li>Andrea Elizabeth Santur Tello: <br> He participado en las convocatorias del equipo, he cumplido con las partes que me correspondían dentro del plazo establecido, he colaborado en algunos puntos y di todo de mí en este entregable. Así como también, di comentarios constructivos que nos ayudaron a crecer como grupo.</li>
             <li>Alessandra Nicole Becerra Tejeda: <br> En este entregable participé en las reuniones del equipo explicando los resultados de las entrevistas y el escenario As-Is. Me aseguré de que todos entendieran los hallazgos y cómo se relacionaban con las necesidades del usuario.</li>
-          <li>Nanfuñay Liza Pedro Jesús: <br> Mostré participación activa en las reuniones del equipo, contribuyendo de manera constante al desarrollo del informe y la landing page. Demostré responsabilidad en el cumplimiento de tareas dentro de los plazos establecidos y colaboré de forma efectiva en retroalimentaciones para mejorar el trabajo en equipo.</li>
+          <li>Nanfuñay Liza Pedro Jesús: <br> Participé activamente en las reuniones del equipo, cumplí con las tareas asignadas en el tiempo establecido y demostré capacidad para exponer los objetivos y proceso de desarrollo del proyecto, así como los resultados obtenidos en el entregable. </li>
           <br>
           <p><strong>TP</strong></p>
            <li>Diego Ivan Cabrera Buitron: <br> </li>
@@ -131,7 +131,7 @@ diferentes rangos de audiencia</strong></td>
           <li>Diego Ivan Cabrera Buitron: <br> Asistencia a reuniones de equipo, apertura de ayuda a otros miembros del equipo y cumplimiento de la creación estructural de la carátula, registro de versiones, project report collaborations insights, contenido del informe y el student outcome.</li>
           <li>Andrea Elizabeth Santur Tello: <br> Participación continua en las convocatorias del equipo, respuesta de llamado y convocatoria. Cumplimiento en los puntos del Impact Mapping, la parte de entrevistas, diseño y registro de entrevistas,Diagarama de clases ,lo que corresponde del Student Outcome, así como también, serví de refuerzo en algunos puntos que me necesitaban.</li>
             <li>Alessandra Nicole Becerra Tejeda: <br> En este entregable colaboré con las entrevistas a usuarios y documenté el escenario As-Is, usando un lenguaje claro y organizado para que el equipo pudiera identificar problemas y oportunidades de mejora.</li>
-          <li>Nanfuñay Liza Pedro Jesús: <br> Asistí de manera activa a las reuniones del equipo, donde establecí metas claras. Ello me permitió organizar y trabajar en conjunto con el equipo de manera efectiva para alcanar los objetivos establecidos.</li>
+          <li>Nanfuñay Liza Pedro Jesús: <br> Demostré capacidad para documentar correctamente los objetivos y puntos desarrollados en el proyecto, como la descripción de la Startup y los User Stories, utilizando un lenguaje organizado y coherente que permita a los usuarios comprender la información fácilmente. </li>
            <br>
           <p><strong>TP</strong></p>
            <li>Diego Ivan Cabrera Buitron: <br> </li>
