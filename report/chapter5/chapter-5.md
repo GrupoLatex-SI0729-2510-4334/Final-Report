@@ -283,12 +283,10 @@ En la realización del Sprint 1, se observó una participación activa y equitat
 
 | **User Story Id** | **User Story Title** | **Work-Item/Task Id** | **Work-Item/Task Title** | **Description** | **Estimation** | **Assigned To** | **Status** |
 |:-----------------:|:--------------------:|:---------------------:|:-----------------------:|:---------------:|:--------------:|:--------------:|:----------:|
-| US05 | Visualización adecuada en móviles y pantallas pequeñas | T05 | Creación del Dashboard | Elaboración y creación de la Sección "Dashboard" | 6h | Diego Cabrera | Done |
-| US06 | 	Navegación accesible desde menú fijo | T06 | Creación del Search | Elaboración y creación de la Sección "Search" | 4h | Alessandra Becerra | Done |
-| US08 | 	Envío de un mensaje a través del formulario de contacto | T07 | Creación del Profile | Elaboración y creación de la Sección "Profile" | 7h | Pedro Nanfuñay | Done |
-| US09 | 	Selección del tipo de usuario desde la landing | T08 | Creación del Postulation | Elaboración y creación de la Sección "Postulation" | 5h | Joaquín Pedraza | Done |
-| US10 | Registro como artista en la plataforma | T09 | Creación de las Evaluations | Elaboración y creación de la Sección "Evaluations" | 4h | Joaquín Pedraza | Done |
-| US11 | 	Registro como administrador de local | T10 | Creación de la Agenda | Elaboración y creación de la Sección "Agenda" | 6h | Andrea Santur | Done |
+| US012 |Acceso al dashboard del local | T01 | Acceso a la vista de todos los eventos | Creación y redacción del propósito de nuestra plataforma | 5h | Diego Cabrera | Done |
+| US015 | Búsqueda de eventos compatibles con mi perfil | T02 | Visualización de filtros de búsqueda | Creación de la búsqueda de los eventos de TocaAquí | 3h | Alessandra Becerra | Done |
+| US16 | 	Postulación rápida a un evento desde la plataforma | T03 | Redacción de la postulación a eventos | Creación de la secciónde de postulación de los músicos | 2h | Joaquín Pedraza | Done |
+| US18 | Gestión y edición de mi perfil artístico | T04 | Presentación del perfil de usuario | Ceación del formulario a ser editado por el usuario | 3h | Pedro Nanfuñay | Done |
 
 ## 5.2.2.4 Development Evidence for Sprint Review
 
