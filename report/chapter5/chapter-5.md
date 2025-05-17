@@ -153,7 +153,7 @@ Para el correcto uso de lenguajes de programación, se adaptarán buenas prácti
 
 ##### 5.2.1.2. Aspect Leaders and Collaborators
 
-| Team Member              | GitHub Username     | Landing Page | Diseño UI/UX | HTML/CSS | JavaScript | Documentación |
+| Team Member              | GitHub Username     | Landing Page | Diseño UI/UX | HTML/CSS | TypeScript | Documentación |
 |--------------------------|---------------------|--------------|---------------|----------|-------------|----------------|
 | Andrea Santur           | andreli-star        | C            | C             | C        | L           | C              |
 | Diego Cabrera           | OscarAntayhuaCastillo | L            | C             | C        | C           | L              |
@@ -252,6 +252,88 @@ En la realización del Sprint 1, se observó una participación activa y equitat
 
 **Analiticas de Colaboración:** <br>
 ![Contributors](../../assets/contributors.png)
+
+### 5.2.2.1 Sprint planning 2 
+| Sprint # | Sprint 2  | 
+|--------------------|------------|
+| Sprint Planning Background | 
+| Date | 2025-05-16 | 
+| Time |  13:00 PM |
+| Location |  UPC - Campus San Miguel |
+| Preparate by| Joaquin Pedraza Maldonado | 
+|  Attendees (to planning meeting) | Diego Ivan Cabrera ,Alessandra Becerra, Andrea Santu, Pedro Jesús Liza Nafuñay y Pedraza Maldonado Joaquin Andree ,  | 
+| Sprint n-2 Review Summary | --- | 
+| Sprint Planning Background | Durante esta etapa, se llevó a cabo una exhaustiva verificación del frontEnd y la implementacion de las mejoras continuas dadas en nuestro sprint 1. |
+| Sprint Goal & User Stories | 
+| Sprint 2 Goal | Desarrolar la funcionalidad de la  webb App con i18n. Se considerará que el objetivo del sprint se ha cumplido con la funcionalidad hecha y el frontEnd.|  
+| Sprint Velocity | Se establece un Velocity de 20 Story Points para este Sprint. | 
+| Sum of Story Points | 18 Story Points | 
+
+### 5.2.2.2 Aspect Leaders and Collaborators.
+
+| Team Member              | GitHub Username     | FrontEnd | Angular Material | HTML/CSS | TypeScript | Documentación |
+|--------------------------|---------------------|--------------|---------------|----------|-------------|----------------|
+| Andrea Santur           | andreli-star        | C            | C             | C        | L           | C              |
+| Diego Cabrera           | OscarAntayhuaCastillo | L            | C             | C        | C           | L              |
+| Alessandra Becerra           | aleeBecerra        | C            | C             | L        | C           | C              |
+| Joaquin Pedraza            | JoaquinPedraza1             | C            | C             | C        | L           | C              |
+| Pedro Nanfuñay          | PedroJ18        | C            | L             | C        | C           | C              |
+
+### 5.2.2.3 Sprint Backlog 2
+
+
+
+## 5.2.2.4 Development Evidence for Sprint Review
+
+Durante este sprint, se han realizado avances significativos en la implementación de la Landing Page. Se han completado varias historias de usuario de la landing page y se han realizado múltiples commits en los repositorios correspondientes. A continuación, se presenta una tabla que incluye los commits relacionados con la implementación para el repositorio de la landing page.
+
+
+## 5.2.2.5 Execution Evidence for Sprint Review
+
+Durante este Sprint, se han alcanzado varios hitos importantes en la implementación de la Web Application. Se han completado las siguientes tareas:
+
+
+Dashboard de eventos
+
+<br><img src="../../assets/dashboard.png"><br>
+Busqueda de eventos
+<br><img src="../../assets/search.png"><br>
+Perfil de usuario 
+<br><img src="../../assets/per.png"><br>
+Editar Perfil
+<br><img src="../../assets/editarPerfil.jpg"><br>
+Ver los eventos para postular
+<br><img src="../../assets/post1.png"><br>
+Postular y registrarse a un evento 
+<br><img src="../../assets/post2.png"><br>
+Evaluar eventos musicales
+<br><img src="../../assets/eva.png"><br>
+Editar evaluación de evento 
+<br><img src="../../assets/eva2.png"><br>
+Ver mi agenda de eventos
+<br><img src="../../assets/age2.png"><br>
+
+#### 5.2.2.6 Services Documentation Evidence for Sprint Review 2
+
+Para el desarrollo de la plataforma, específicamente en la parte del Frontend, utilizamos lo siguiente:
+
+Webstorm (IDE de desarrollo): Usamos Webstorm como nuestro entorno de desarrollo integrado para trabajar en el Frontend.
+
+Angular : Optamos por Angular como el  principal para el desarrollo.
+
+GitHub: Nuestro repositorio del Frontend está alojado en GitHub, lo que facilita la colaboración y el seguimiento de los cambios en el código.
+
+
+
+### 5.2.2.7 Software  Deployment Evidence for Sprint Review 
+<br><img src="../../assets/deployment.png"><br>
+
+
+## 5.2.2.8 Team Collaboration Insights during Sprint
+Durante este Sprint, el equipo ha trabajado de manera colaborativa en el diseño y programacion en la implementación de la Web Application de Grupo Latex. A continuación, se presenta un resumen de cómo se han desarrollado las actividades de implementación, junto con capturas de pantalla de los analíticos de colaboración y commits en GitHub realizados por los miembros del equipo.
+
+<br><img src="../../assets/colaboration1.png"><br>
+<br><img src="../../assets/colaboration2.png"><br>
 
 ### 5.3 Validation Interviews
 #### 5.3.1 Diseño de entrevistas
@@ -540,6 +622,9 @@ A continuación presentamos los resultados de las entrevistas de validación rea
 | Inclusión de íconos con texto | Los botones y secciones se entienden sin necesidad de íconos. | Considerar incluir íconos para facilitar el reconocimiento visual. |
 
 
+
+
+
 # Conclusiones
 - TocaAquí responde a una necesidad real en la industria musical independiente, es decir, el proyecto surge como solución a los problemas de informalidad, falta de oportunidades y desorganización que afectan a músicos emergentes y promotores de eventos. Esta plataforma propone profesionalizar el vínculo entre artistas y espacios culturales mediante tecnología segura, accesible y eficiente.
 
@@ -555,80 +640,3 @@ A continuación presentamos los resultados de las entrevistas de validación rea
 - Asociación Peruana de Managers Musicales. (2020). Encuesta sobre el impacto de la pandemia en músicos independientes. Cocktail. https://cocktail.pe/mas-del-80-de-musicos-independientes-padecen-economicamente-durante-la-pandemia/
 - Ramos Espinoza, M. A. (2021). Música independiente en Lima: mapeo de un circuito cultural desde las lógicas de sus agentes (Tesis de licenciatura, Pontificia Universidad Católica del Perú). PUCP. https://tesis.pucp.edu.pe/items/ab79feff-9493-4f8e-9aa8-81d3e50ec57d/full
 - Soriano, P. D. (2020). Eventos musicales para contribuir a la oferta cultural en el Centro Histórico de Lima. Universidad de San Martín de Porres. https://repositorio.usmp.edu.pe/bitstream/handle/20.500.12727/7073/SORIANO_PD.pdf?sequence=1
-
-
-
-
-### 5.2.2.1 Sprint planning 2 
-| Sprint # | Sprint 2  | 
-|--------------------|------------|
-| Sprint Planning Background | 
-| Date | 2025-05-16 | 
-| Time |  13:00 PM |
-| Location |  UPC - Campus San Miguel |
-| Preparate by| Joaquin Pedraza Maldonado | 
-|  Attendees (to planning meeting) | Diego Ivan Cabrera ,Alessandra Becerra, Andrea Santu, Pedro y Pedraza Maldonado Joaquin Andree ,  | 
-| Sprint n-2 Review Summary | --- | 
-| Sprint Planning Background | Durante esta etapa, se llevó a cabo una exhaustiva verificación del frontEnd y la implementacion de las mejoras continuas dadas en nuestro sprint 1. |
-| Sprint Goal & User Stories | 
-| Sprint 2 Goal | Desarrolar la funcionalidad de la  webb App con i18n. Se considerará que el objetivo del sprint se ha cumplido con la funcionalidad hecha y el frontEnd.|  
-| Sprint Velocity | Se establece un Velocity de 20 Story Points para este Sprint. | 
-| Sum of Story Points | 18 Story Points | 
-
-### 5.2.2.2 Sprint Backlog 2
-
-
-
-## 5.2.2.3 Development Evidence for Sprint Review
-
-Durante este sprint, se han realizado avances significativos en la implementación de la Landing Page. Se han completado varias historias de usuario de la landing page y se han realizado múltiples commits en los repositorios correspondientes. A continuación, se presenta una tabla que incluye los commits relacionados con la implementación para el repositorio de la landing page.
-
-
-## 5.2.2.4 Execution Evidence for Sprint Review
-
-Durante este Sprint, se han alcanzado varios hitos importantes en la implementación de la Web Application. Se han completado las siguientes tareas:
-
-
-Dashboard de eventos
-
-<br><img src="../../assets/dashboard.png"><br>
-Busqueda de eventos
-<br><img src="../../assets/search.png"><br>
-Perfil de usuario 
-<br><img src="../../assets/per.png"><br>
-Editar Perfil
-<br><img src="../../assets/Editar Perfil.png"><br>
-Ver los eventos para postular
-<br><img src="../../assets/post1.png"><br>
-Postular y registrarse a un evento 
-<br><img src="../../assets/post2.png"><br>
-Evaluar eventos musicales
-<br><img src="../../assets/eva.png"><br>
-Editar evaluación de evento 
-<br><img src="../../assets/eva2.png"><br>
-Ver mi agenda de eventos
-<br><img src="../../assets/age2.png"><br>
-
-#### 5.2.2.6. Services Documentation Evidence for Sprint Review 2
-
-Para el desarrollo de la plataforma, específicamente en la parte del Frontend, utilizamos lo siguiente:
-
-Webstorm (IDE de desarrollo): Usamos Webstorm como nuestro entorno de desarrollo integrado para trabajar en el Frontend.
-
-Angular : Optamos por Angular como el  principal para el desarrollo.
-
-GitHub: Nuestro repositorio del Frontend está alojado en GitHub, lo que facilita la colaboración y el seguimiento de los cambios en el código.
-
-
-
-### 5.2.2.7 Software  Deployment Evidence for Sprint Review 
-<br><img src="../../assets/deployment.png"><br>
-
-
-## 5.2.2.8 Team Collaboration Insights during Sprint
-Durante este Sprint, el equipo ha trabajado de manera colaborativa en el diseño y programacion en la implementación de la Web Application de Grupo Latex. A continuación, se presenta un resumen de cómo se han desarrollado las actividades de implementación, junto con capturas de pantalla de los analíticos de colaboración y commits en GitHub realizados por los miembros del equipo.
-
-<br><img src="../../assets/colaboration1.png"><br>
-<br><img src="../../assets/colaboration2.png"><br>
-
-
