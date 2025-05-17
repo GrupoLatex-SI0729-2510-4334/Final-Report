@@ -281,14 +281,27 @@ En la realización del Sprint 1, se observó una participación activa y equitat
 
 ### 5.2.2.3 Sprint Backlog 2
 
+| **User Story Id** | **User Story Title** | **Work-Item/Task Id** | **Work-Item/Task Title** | **Description** | **Estimation** | **Assigned To** | **Status** |
+|:-----------------:|:--------------------:|:---------------------:|:-----------------------:|:---------------:|:--------------:|:--------------:|:----------:|
+| US012 | Acceso al dashboard del local	 | T01 | Acceso a la vista de todos los eventos | Creación y redacción del propósito de nuestra plataforma | 5h | Diego Cabrera | Done |
+| US015 | Búsqueda de eventos compatibles con mi perfil | T02 | Visualización de filtros de búsqueda | Creación de la búsqueda de los eventos de TocaAquí | 3h | Alessandra Becerra | Done |
+| US016 | Postulación rápida a un evento desde la plataforma | T03 | Redacción de la postulación a eventos | Creación de la sección de postulación de los músicos | 2h | Joaquin Pedraza | Done |
+| US018 | 	Gestión y edición de mi perfil artístico | T04 | Presentación del perfil de usuario | Creación del formulario a ser editado por el usuario | 3h | Pero Nanfuñay | Done |
 
-
-## 5.2.2.4 Development Evidence for Sprint Review
+### 5.2.2.4 Development Evidence for Sprint Review
 
 Durante este sprint, se han realizado avances significativos en la implementación de la Landing Page. Se han completado varias historias de usuario de la landing page y se han realizado múltiples commits en los repositorios correspondientes. A continuación, se presenta una tabla que incluye los commits relacionados con la implementación para el repositorio de la landing page.
 
+| Repository   | Branch | Commit Id | Commit Message   | Commit Message Body (resumen) | Committed on  |
+|-|-|-|-|-|-|
+| front-end  | master   | 5b6460e  | feat(front-end): added the final changes. | Actualización de los cambios finales | May 16, 2025 |
+| front-end  | develop   | ac055a3  | feat(develop):added modificed agenda.  | Actualización del componente de Agenda | May 16, 2025  |
+| front-end  | develop   | 77e55ac  | feat(json-server): fixed some issue. | Correción del JSON server | May 16, 2025 |
+| front-end  | develop   | aadf479  | feat(develop) adedd dependecies | Acrualización de las dependencias | May 15, 2025 |
+| front-end  | develop   | 70084fe  | feat(develop): added events data | Actualización de los eventos | May 15, 2025 |
+| front-end  | develop   | 8312040  | feat(frontend): added all the components of the web application. | Actualización de los componentes de la aplicación. | May 12, 2025 |
 
-## 5.2.2.5 Execution Evidence for Sprint Review
+### 5.2.2.5 Execution Evidence for Sprint Review
 
 Durante este Sprint, se han alcanzado varios hitos importantes en la implementación de la Web Application. Se han completado las siguientes tareas:
 
