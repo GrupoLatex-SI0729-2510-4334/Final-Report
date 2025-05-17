@@ -261,7 +261,7 @@ En la realización del Sprint 1, se observó una participación activa y equitat
 | Time |  13:00 PM |
 | Location |  UPC - Campus San Miguel |
 | Preparate by| Joaquin Pedraza Maldonado | 
-|  Attendees (to planning meeting) | Diego Ivan Cabrera ,Alessandra Becerra, Andrea Santu, Pedro Jesús Liza Nafuñay y Pedraza Maldonado Joaquin Andree ,  | 
+|  Attendees (to planning meeting) | Diego Ivan Cabrera ,Alessandra Becerra, Andrea Santur, Pedro Jesús Liza Nafuñay y Pedraza Maldonado Joaquin Andree ,  | 
 | Sprint n-2 Review Summary | --- | 
 | Sprint Planning Background | Durante esta etapa, se llevó a cabo una exhaustiva verificación del frontEnd y la implementacion de las mejoras continuas dadas en nuestro sprint 1. |
 | Sprint Goal & User Stories | 
@@ -279,9 +279,14 @@ En la realización del Sprint 1, se observó una participación activa y equitat
 | Joaquin Pedraza            | JoaquinPedraza1             | C            | C             | C        | L           | C              |
 | Pedro Nanfuñay          | PedroJ18        | C            | L             | C        | C           | C              |
 
-### 5.2.2.3 Sprint Backlog 2
+#### 5.2.2.3 Sprint Backlog 2
 
-
+| **User Story Id** | **User Story Title** | **Work-Item/Task Id** | **Work-Item/Task Title** | **Description** | **Estimation** | **Assigned To** | **Status** |
+|:-----------------:|:--------------------:|:---------------------:|:-----------------------:|:---------------:|:--------------:|:--------------:|:----------:|
+| US05 | Visualización adecuada en móviles y pantallas pequeñas | T01 | Diseño general de la landing page | Creación y redacción del propósito de nuestra plataforma | 7h | Diego Cabrera | Done |
+| US06 | 	Navegación accesible desde menú fijo | T02 | Visualización de las subscripciones | Creación de los planes de pago de TocaAquí | 5h | Andrea Santur | Done |
+| US08 | 	Envío de un mensaje a través del formulario de contacto | T03 | Redacción de la sección de "Sobre Nosotros" | Creación de la sección de presentación del equipo | 3h | Joaquin Pedraza | Done |
+| US09 | 	Selección del tipo de usuario desde la landing | T04 | Presentación del formulario | Creación del formulario a ser rellenado por el artista o por el promotor | 4h | Alessandra Becerra | Done |
 
 ## 5.2.2.4 Development Evidence for Sprint Review
 
