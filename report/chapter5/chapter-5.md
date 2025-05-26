@@ -271,7 +271,7 @@ En la realización del Sprint 1, se observó una participación activa y equitat
 
 ### 5.2.2.2 Aspect Leaders and Collaborators.
 
-| Team Member              | GitHub Username     | FrontEnd | Angular Material | HTML/CSS | TypeScript | Documentación |
+| Team Member              | GitHub Username     | FrontEnd | Angular Material | HTML/CSS | TypeScript | Documentation |
 |--------------------------|---------------------|--------------|---------------|----------|-------------|----------------|
 | Andrea Santur           | andreli-star        | C            | C             | C        | L           | C              |
 | Diego Cabrera           | OscarAntayhuaCastillo | L            | C             | C        | C           | L              |
