@@ -261,7 +261,7 @@ En la realización del Sprint 1, se observó una participación activa y equitat
 | Time |  13:00 PM |
 | Location |  UPC - Campus San Miguel |
 | Preparate by| Joaquin Pedraza Maldonado | 
-|  Attendees (to planning meeting) | Diego Ivan Cabrera ,Alessandra Becerra, Andrea Santu, Pedro Jesús Liza Nafuñay y Pedraza Maldonado Joaquin Andree ,  | 
+|  Attendees (to planning meeting) | Diego Ivan Cabrera ,Alessandra Becerra, Andrea Santur, Pedro Jesús Liza Nafuñay y Pedraza Maldonado Joaquin Andree ,  | 
 | Sprint n-2 Review Summary | --- | 
 | Sprint Planning Background | Durante esta etapa, se llevó a cabo una exhaustiva verificación del frontEnd y la implementacion de las mejoras continuas dadas en nuestro sprint 1. |
 | Sprint Goal & User Stories | 
@@ -279,7 +279,7 @@ En la realización del Sprint 1, se observó una participación activa y equitat
 | Joaquin Pedraza            | JoaquinPedraza1             | C            | C             | C        | L           | C              |
 | Pedro Nanfuñay          | PedroJ18        | C            | L             | C        | C           | C              |
 
-### 5.2.2.3 Sprint Backlog 2
+#### 5.2.2.3 Sprint Backlog 2
 
 | **User Story Id** | **User Story Title** | **Work-Item/Task Id** | **Work-Item/Task Title** | **Description** | **Estimation** | **Assigned To** | **Status** |
 |:-----------------:|:--------------------:|:---------------------:|:-----------------------:|:---------------:|:--------------:|:--------------:|:----------:|
