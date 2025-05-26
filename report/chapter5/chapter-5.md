@@ -341,6 +341,10 @@ GitHub: Nuestro repositorio del Frontend está alojado en GitHub, lo que facilit
 ### 5.2.2.7 Software  Deployment Evidence for Sprint Review 
 <br><img src="../../assets/deployment.png"><br>
 
+Landing Page: [https://grupolatex-si0729-2510-4334.github.io/Landing-Page/](https://grupolatex-si0729-2510-4334.github.io/Landing-Page/)
+
+Frontend: [https://front-end-phi-sooty.vercel.app/](https://front-end-phi-sooty.vercel.app/)
+
 
 ## 5.2.2.8 Team Collaboration Insights during Sprint
 Durante este Sprint, el equipo ha trabajado de manera colaborativa en el diseño y programacion en la implementación de la Web Application de Grupo Latex. A continuación, se presenta un resumen de cómo se han desarrollado las actividades de implementación, junto con capturas de pantalla de los analíticos de colaboración y commits en GitHub realizados por los miembros del equipo.
@@ -639,6 +643,7 @@ A continuación presentamos los resultados de las entrevistas de validación rea
 
 
 # Conclusiones
+
 - TocaAquí responde a una necesidad real en la industria musical independiente, es decir, el proyecto surge como solución a los problemas de informalidad, falta de oportunidades y desorganización que afectan a músicos emergentes y promotores de eventos. Esta plataforma propone profesionalizar el vínculo entre artistas y espacios culturales mediante tecnología segura, accesible y eficiente.
 
 - A través de entrevistas y análisis de segmentos objetivos, se identificó que tanto músicos como promotores demandan herramientas que faciliten la contratación directa, la coordinación logística y el aseguramiento de pagos, confirmando la pertinencia de la solución planteada.
@@ -648,6 +653,7 @@ A continuación presentamos los resultados de las entrevistas de validación rea
 - A diferencia de plataformas existentes que solo ofrecen contactos o promoción de eventos, TocaAquí integra contratación formal, pagos vía escrow, validación técnica y promoción colaborativa, construyendo un ecosistema confiable para el desarrollo de la escena musical emergente.
 
 - La implementación exitosa de TocaAquí no solo beneficiará a músicos y promotores, sino que también contribuirá a dinamizar el circuito cultural independiente, impulsando la profesionalizació
+
 # Bibliografía
 
 - Asociación Peruana de Managers Musicales. (2020). Encuesta sobre el impacto de la pandemia en músicos independientes. Cocktail. https://cocktail.pe/mas-del-80-de-musicos-independientes-padecen-economicamente-durante-la-pandemia/
