@@ -123,15 +123,15 @@ Login
 
 Panel de control del artista
 
-<img src="../../assets/Artisit Dashboard.png">
+<img src="../../assets/ArtisitDashboard.png">
 
 Perfil del artista
 
-<img src="../../assets/Artist Profile.png">
+<img src="../../assets/ArtistProfile.png">
 
 Perfil del productor
 
-<img src="../../assets/Productor Profile.png">
+<img src="../../assets/ProductorProfile.png">
 
 Agenda
 ![Agenda](../../assets/Agenda.png )
@@ -143,39 +143,39 @@ Postulaciones
 
 Panel de control del productor
 
-<img src="../../assets/Productor Dashboar.png">
+<img src="../../assets/ProductorDashboar.png">
 
 Evaluación del evento - Promotor
 
-<img src="../../assets/Evaluaciónpost evento Promotor.png">
-<img src="../../assets/Evaluaciónpost evento Promotor (1).png">
+<img src="../../assets/EvaluaciónposteventoPromotor.png">
+<img src="../../assets/EvaluaciónposteventoPromotor (1).png">
 
 Evaluación del evento - Artista
 
-<img src="../../assets/EvaluaciónposteventoMúsico.png">
+<img src="../../assets/EvaluaciónposteventoMúsic.png">
 <img src="../../assets/EvaluaciónposteventoMúsico(1).png">
-<img src="../../assets/Evaluaciónpostevento Músico(2).png">
-<img src="../../assets/Evaluaciónpostevento Músico(3).png">
+<img src="../../assets/EvaluaciónposteventoMúsico(2).png">
+<img src="../../assets/EvaluaciónposteventMúsico(3).png">
 
 Promoción del evento
 
-<img src="../../assets/Promocion del evento y entradas.png">
-<img src="../../assets/Promocion del evento y entradas (1).png">
-<img src="../../assets/Promocion del evento y entradas (2).png">
-<img src="../../assets/Promocion del evento y entradas (3).png">
-<img src="../../assets/Promocion del evento y entradas (4).png">
-<img src="../../assets/Promocion del evento y entradas (5).png">
-<img src="../../assets/Promocion del evento y entradas (6).png">
+<img src="../../assets/Promociondeleventoyentradas.png">
+<img src="../../assets/Promociondeleventoyentradas(1).png">
+<img src="../../assets/Promociondeleventoyentradas(2).png">
+<img src="../../assets/Promociondeleventoyentradas(3).png">
+<img src="../../assets/Promociondeleventoyentradas(4).png">
+<img src="../../assets/Promociondeleventoyentradas(5).png">
+<img src="../../assets/Promociondeleventoyentradas(6).png">
 
 Pagos promotor
 
-<img src="../../assets/Pagos promotor.png">
-<img src="../../assets/Pagos promotor (1).png">
+<img src="../../assets/Pagospromotor.png">
+<img src="../../assets/Pagospromotor(1).png">
 
 Pagos artista
 
-<img src="../../assets/Pagos artista.png">
-<img src="../../assets/Pagos artista (1).png">
+<img src="../../assets/Pagosartista.png">
+<img src="../../assets/Pagosartista(1).png">
 
 Contrato digital
 
@@ -207,49 +207,49 @@ Login
 
 Panel de control del artista
 
-<img src="../../assets/Artisit Dashboard Mock.png">
+<img src="../../assets/ArtisitDashboardMock.png">
 
 Perfil del artista
 
-<img src="../../assets/Artist Profile Mock.png">
+<img src="../../assets/ArtistProfileMock.png">
 
 Perfil del productor
 
-<img src="../../assets/Productor Profile Mock.png">
+<img src="../../assets/ProductorProfileMock.png">
 
 Agenda
 
-<img src="../../assets/Agenda Mock.png">
+<img src="../../assets/AgendaMock.png">
 
 Postulaciones
 
-<img src="../../assets/Postulaciones Mock.png">
+<img src="../../assets/PostulacionesMock.png">
 
 Panel de control del productor
 
-<img src="/assets/Productor Dashboard Mock.png">
+<img src="/assets/ProductorDashboardMock.png">
 
 Evaluación del evento - Promotor
 
-<img src="../../assets/Evaluación  post evento Promotor Mock.png">
-<img src="../../assets/Evaluación  post evento Promotor Mock (1).png">
+<img src="../../assets/EvaluaciónposteventoPromotorMock.png">
+<img src="../../assets/EvaluaciónposteventoPromotorMock(1).png">
 
 Evaluación del evento - Artista
 
-<img src="../../assets/Evaluaciónpost evento Musico Mock.png">
-<img src="../../assets/Evaluaciónpost evento Musico Mock (1).png">
-<img src="../../assets/Evaluaciónpost evento Músico Mock (2).png">
-<img src="../../assets/Evaluaciónpost evento Músico Mock (3).png">
+<img src="../../assets/EvaluaciónposteventoMusicoMock.png">
+<img src="../../assets/EvaluaciónposteventoMusicoMock(1).png">
+<img src="../../assets/EvaluaciónposteventoMúsicoMock(2).png">
+<img src="../../assets/EvaluaciónposteventoMúsicoMock(3).png">
 
 Promoción del evento
 
-<img src="../../assets/Promociondel eventoyentradas Mock.png">
-<img src="../../assets/Promocion del eventoyentradas Mock (1).png">
-<img src="../../assets/Promocion del evento y entradas Mock (2).png">
-<img src="../../assets/Promocion del evento y entradas Mock (3).png">
-<img src="../../assets/Promocion del evento y entradas Mock(4).png">
-<img src="../../assets/Promocion del evento y entradas Mock (5).png">
-<img src="../../assets/Promocion del evento y entradas Mock (6).png">
+<img src="../../assets/PromociondeleventoyentradasMock.png">
+<img src="../../assets/PromociondeleventoyentradasMock(1).png">
+<img src="../../assets/PromociondeleventoyentradasMock(2).png">
+<img src="../../assets/Promociondeleventoyentradasmock(3).png">
+<img src="../../assets/PromociondeleventoyentradasMock(4).png">
+<img src="../../assets/PromociondeleventoyentradasMock(5).png">
+<img src="../../assets/PromociondeleventoyentradasMock(6).png">
 
 Pagos promotor
 
@@ -258,8 +258,8 @@ Pagos promotor
 
 Pagos artista
 
-<img src="../../assets/Pagos Artista Mock.png">
-<img src="../../assets/Pagos Artista Mock (1).png">
+<img src="../../assets/PagosArtistaMock.png">
+<img src="../../assets/PagosArtistaMock(1).png">
 
 Contrato digital
 
@@ -269,10 +269,10 @@ Contrato digital
 
 Rider técnico/logísticoç
 
-<img src="../../assets/Logistico Mock.png">
-<img src="../../assets/Logistico Mock (1).png">
-<img src="../../assets/Logistico Mock (2).png">
-<img src="../../assets/Logistico Mock (3).png">
+<img src="../../assets/LogisticoMock.png">
+<img src="../../assets/LogisticoMock(1).png">
+<img src="../../assets/LogisticoMock(2).png">
+<img src="../../assets/LogisticoMock(3).png">
 
 #### 4.4.4. Web Applications User Flow Diagrams
 <img src="../../assets/Revision.png">
@@ -310,7 +310,7 @@ El sistema TocaAquí se basa en un diseño orientado a objetos y una base de dat
 
 #### 4.7.1. Class Diagrams
 
-<img src="../../assets/Clase UML-TocaAqui.png">
+<img src="../../assets/ClaseUML-TocaAqui.png">
 
 #### 4.7.2. Class Dictionary
 
