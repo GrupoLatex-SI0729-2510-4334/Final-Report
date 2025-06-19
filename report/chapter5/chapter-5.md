@@ -352,6 +352,157 @@ Durante este Sprint, el equipo ha trabajado de manera colaborativa en el diseño
 <br><img src="../../assets/colaboration1.png"><br>
 <br><img src="../../assets/colaboration2.png"><br>
 
+### 5.2.2. Sprint 3
+
+
+
+#### 5.2.2.1. Sprint Planning 3
+| **Sprint #**                    | Sprint 3                                                                                                                                                                                                                                                                                                                                                                              |
+|---------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sprint Planning Date**        | 14/10/2024                                                                                                                                                                                                                                                                                                                                                                            |
+| **Time**                        | 22:00 PM                                                                                                                                                                                                                                                                                                                                                                              |
+| **Location**                    | Google Meet                                                                                                                                                                                                                                                                                                                                                                           |
+| **Prepared By**                 | Ricardo Barrutia                                                                                                                                                                                                                                                                                                                                                                      |
+| **Attendees**                   | Ricardo Barrutia, Edery Abanto, Fabiola Espinoza, Joaquin Pedraza                                                                                                                                                                                                                                                                                                                     |
+| **Sprint Review Summary**       | Se desplego el front end de GastroGo y se empezo a desarrollar el backend.                                                                                                                                                                                                                                                                                                            |
+| **Sprint Retrospective Summary**| Se finalizo el desarrolllo del front end con la mejora continua respectiva para la landing page y front end. Asimismo se debe                                                                                                                                                                                                                                                         |
+| **Sprint Goal**                 | En este sprint, el objetivo es desarrollar la lógica y funcionalidades principales del backend de la aplicación web, además de su despliegue. Durante las diversas reuniones del equipo, se asignaron tareas específicas a cada integrante para implementar los servicios del backend. Al finalizar el sprint, la aplicación debe estar desplegada en un entorno de pruebas adecuado. |
+| **Sprint Velocity**             | 31                                                                                                                                                                                                                                                                                                                                                                                    |
+| **Sum of Story Points**         | 31 Story Points                                                                                                                                                                                                                                                                                                                                                                       |
+
+
+#### 5.2.2.2. Sprint Backlog 3
+
+| Historia de Usuario                                       | Epic                               | Comentarios                                                                                          | Puntos | Responsable | Estado |
+|-----------------------------------------------------------|------------------------------------|--------------------------------------------------------------------------------------------------------|--------|-------------|--------|
+| E2 - US009: Registro de usuario                           | E2                                 |                                                                                                        | 4      |             | Done   |
+| E2 - US010: Inicio de sesión                              | E                                  |                                                                                                        | 5      |             | Done   |
+| E2 - US010: Inicio de sesión                              | E                                  | C.                                                                                                     | 4      |             | Done   |
+| E2                                                        | E                                  |                                                                                                        | 4      |             | Done   |
+| E2                                                        | E                                  |                                                                                                        | 5      |             | Done   |
+| E2                                                        | E                                  |                                                                                                        | 6      |             | Done   |
+| E2                                                        | E                                  |                                                                                                        | 4      |             | Done   |
+| E2                                                        | E                                  |                                                                                                        | 4      |             | Done   |
+| E2 -                                                     | E                                  |                                                                                                        |        |             |        |
+| E                                                         | E                                  | oooooooooooooooooooooooooooooooooooooo                                                                 |        |             | Done   |
+| E                                                         | E                                  | C.                                                                                                     | 6      |             | Done   |
+| E4                                                        | E                                  |                                                                                                        | 4      |             | Done   |
+| E4                                                        | E4                                 | C                                                                                                      | 4      |             | Done   |
+| E6 - US029: Métodos de Pago Diversos                      | E                                  |                                                                                                        | 4      |             | Done   |
+|                                                           | E6 - c                              |                                                                                                        | 4      |             | Done   |
+| E                                                         | E                                  |                                                                                                        | 5      |             | Done   |
+| E                                                         | E                                  | I.                                                                                                     | 6      |             | Done   |
+| E                                                         | E                                  | C.                                                                                                     | 4      |             | Done   |
+| E                                                         | E9 - US043 - W1 Cancellation Option|                                                                                                        | 5      |             | Done   |
+| E                                                         | E                                  |                                                                                                        | 6      |             | Done   |
+| E                                                         | E                                  |                                                                                                        | 8      | Edery       |        |
+| E                                                         | E                                  | .                                                                                                      | 8      | Edery       |        |
+| E1                                                        | E                                  |                                                                                                        | 8      |             |        |
+| E                                                         | E                                  |                                                                                                        | 8      |             |        |
+| E1                                                        | E                                  | .                                                                                                      | 8      |             | Done   |
+| E1                                                        | E                                  |
+
+
+#### 5.2.2.3. Development Evidence for Sprint Review 3
+| **Repository**     | **Branch** | **Commit Id** | **Commit Message** | **Committed on (Date)** |
+|--------------------|------------|---------------|---------------------|--------------------------|
+|                    |            |               |                     |                          |
+|                    |            |               |                     |                          |
+|                    |            |               |                     |                          |
+|                    |            |               |                     |                          |
+|                    |            |               |                     |                          |
+|                    |            |               |                     |                          |
+|                    |            |               |                     |                          |
+|                    |            |               |                     |                          |
+|                    |            |               |                     |                          |
+|                    |            |               |                     |                          |
+
+
+
+
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review 3
+En este sprint, se ha completado el desarrollo de la landing page. Para su despliegue, se emplearon varias herramientas clave, entre ellas:
+
+|
+#### 5.2.2.5. Execution Evidence for Sprint Review 3
+
+En esta entrega, el equipo Verduritas logró implementar la landing page, la cual presenta distintas secciones que ofrecen información esencial para los usuarios. Estas secciones están diseñadas para explicar quiénes somos, qué nos diferencia, cómo funciona nuestra plataforma, y brindar una visión general de la experiencia, los planes disponibles y un espacio para contactarnos. Con este enfoque, se busca proporcionar una experiencia clara y completa para los visitantes.
+
+Enlace del Backend: 
+
+
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review 3
+
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review 3
+siones del proyecto, asegurando un control adecuado de los cambios.
+
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint 3
+
+El equipo trabajó en el desarrollo de la landing page utilizando ramas de cada feature, lo que permitió mejorar, actualizar y realizar modificaciones de manera más organizada. El uso de estas ramas facilita la integración y revisión antes de fusionarlas con la rama principal (main), asegurando que no se introduzcan errores. A continuación, se muestra el network graph y  code frecuency mediante la plataforma GitHub:
+
+
+
+Code frecuency:
+
+
+
+### 5.3. Validation Interviews
+
+
+#### 5.3.1 Registro de entrevistas
+
+En esta sección se registrarán las entrevistas de validación realizadas a ambos segmentos objetivos. Se adjunta el link del video completo:
+
+Segmento de trabajadores:
+
+
+#### 5.3.2 Evaluaciones según heurísticas
+
+En base a la información recolectada a partir de las entrevistas realizadas y nuestras experiencias personales, analizamos las heurísticas de diseño de nuestra aplicación GastroGo:
+
+1. **Visibilidad del estado del sistema:**
+
+El sistema proporciona una visibilidad adecuada del estado, especialmente en la pantalla de inicio de sesión, como destacó Jonathan Berrocal. Sin embargo, algunos elementos, como los botones de perfil y métodos de pago, necesitan mayor claridad visual, según José, ya que algunos botones no son fácilmente distinguibles debido a su color o bordes.
+
+2. **Relación entre el sistema y el mundo real:**
+
+El uso de imágenes de comida en la página principal fue un punto de confusión señalado por Luis Miguel, quien mencionó que podrían hacer que la app se perciba como una aplicación de recetas en lugar de una herramienta para pedidos en restaurantes. Este es un área que requiere ajustes para alinearse mejor con el propósito del sistema.
+
+3. **Libertad y control por parte del usuario:**
+
+Los usuarios como Celso valoraron la opción de actualizar el estado del menú en tiempo real y la flexibilidad que otorga la funcionalidad de actividades en grupo. Sin embargo, la interfaz para la votación en grupo fue señalada por otro entrevistado como una área que podría beneficiarse de ser más visualmente atractiva y clara.
+
+4. **Consistencia y estándares:**
+
+La organización de la información fue percibida como adecuada, especialmente en la pantalla de registro, como señaló Daniel Vázquez. Los usuarios no encontraron dificultades al entender las opciones disponibles en general, pero el espaciado entre elementos y la visibilidad de algunos botones, como mencionó José, podría mejorar.
+
+5. **Prevención de errores:**
+
+Celso destacó que la seguridad y la organización del sistema para verificar el estado de los pedidos y recibir notificaciones ayudan a reducir la posibilidad de errores en el proceso de pedidos. Sin embargo, la confusión generada por las imágenes de comida mencionada por Luis Miguel podría llevar a un malentendido si no se ajusta.
+
+6. **Reconocimiento antes que recuerdo:**
+
+Si bien la mayoría de las funciones fueron bien recibidas por los usuarios, Jonathan Berrocal sugirió que el diseño de la pantalla de inicio podría beneficiarse de más elementos visuales como imágenes en la sección de slides, lo que mejoraría el reconocimiento inmediato de los propósitos de la aplicación.
+
+7. **Flexibilidad y eficiencia de uso:**
+
+La aplicación fue valorada positivamente por usuarios como Celso y Daniel Vázquez por su funcionalidad clara y directa. Sin embargo, José mencionó que algunos problemas de visualización, como el espaciado y la visibilidad de los botones, podrían deberse a la resolución de su pantalla, lo que sugiere una mejora en la flexibilidad visual.
+
+8. **Estética y diseño minimalista:**
+
+El diseño visual fue bien recibido en general. Luis Miguel destacó que la página principal está bien organizada, pero recomendó ajustes en las imágenes para evitar confusiones. Asimismo, Jonathan Berrocal sugirió que el diseño se beneficiaría de más elementos visuales, y José propuso mejorar el espaciado y los botones para una apariencia más limpia.
+
+9. **Ayudar a los usuarios a reconocer, diagnosticar y corregir errores:**
+
+El sistema presenta un buen control sobre la gestión de pedidos y actualizaciones en tiempo real, como resaltó Celso. Sin embargo, la falta de claridad visual en ciertos botones podría hacer que los usuarios no detecten rápidamente errores o acciones pendientes, como observó José.
+
+10. **Ayuda y documentación:**
+
+Aunque no hubo observaciones directas sobre la documentación durante las entrevistas, la claridad de la interfaz y las opciones fue generalmente bien recibida. No obstante, la implementación de ayudas visuales en ciertos componentes podría mejorar la experiencia general de los usuarios.
+
 ### 5.3 Validation Interviews
 #### 5.3.1 Diseño de entrevistas
 
