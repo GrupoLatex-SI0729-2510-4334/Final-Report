@@ -253,6 +253,7 @@ En la realización del Sprint 1, se observó una participación activa y equitat
 **Analiticas de Colaboración:** <br>
 ![Contributors](../../assets/contributors.png)
 
+## 5.2.2 Sprint 2
 ### 5.2.2.1 Sprint planning 2 
 | Sprint # | Sprint 2  | 
 |--------------------|------------|
@@ -352,11 +353,8 @@ Durante este Sprint, el equipo ha trabajado de manera colaborativa en el diseño
 <br><img src="../../assets/colaboration1.png"><br>
 <br><img src="../../assets/colaboration2.png"><br>
 
-### 5.2.2. Sprint 3
-
-
-
-#### 5.2.2.1. Sprint Planning 3
+### 5.2.3. Sprint 3
+#### 5.2.3.1. Sprint Planning 3
 | **Sprint #**                    | Sprint 3                                                                                                                                                                                                                                                                                                                                                                              |
 |---------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Sprint Planning Date**        |                                                                                                                                                                                                                                                                                                                                                                 |
@@ -371,7 +369,7 @@ Durante este Sprint, el equipo ha trabajado de manera colaborativa en el diseño
 | **Sum of Story Points**         | 31 Story Points                                                                                                                                                                                                                                                                                                                                                                       |
 
 
-#### 5.2.2.2. Sprint Backlog 3
+#### 5.2.3.2. Sprint Backlog 3
 
 | Historia de Usuario                                       | Epic                               | Comentarios                                                                                          | Puntos | Responsable | Estado |
 |-----------------------------------------------------------|------------------------------------|--------------------------------------------------------------------------------------------------------|--------|-------------|--------|
@@ -403,7 +401,7 @@ Durante este Sprint, el equipo ha trabajado de manera colaborativa en el diseño
 | E1                                                        | E                                  |
 
 
-#### 5.2.2.3. Development Evidence for Sprint Review 3
+#### 5.2.3.3. Development Evidence for Sprint Review 3
 | **Repository**     | **Branch** | **Commit Id** | **Commit Message** | **Committed on (Date)** |
 |--------------------|------------|---------------|---------------------|--------------------------|
 |                    |            |               |                     |                          |
@@ -420,25 +418,25 @@ Durante este Sprint, el equipo ha trabajado de manera colaborativa en el diseño
 
 
 
-#### 5.2.2.4. Testing Suite Evidence for Sprint Review 3
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review 3
 En este sprint, se ha completado el desarrollo de la landing page. Para su despliegue, se emplearon varias herramientas clave, entre ellas:
 
 
-#### 5.2.2.5. Execution Evidence for Sprint Review 3
-
-
- 
+#### 5.2.3.5. Execution Evidence for Sprint Review 3
 
 
 
-#### 5.2.2.6. Services Documentation Evidence for Sprint Review 3
 
 
-#### 5.2.2.7. Software Deployment Evidence for Sprint Review 3
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review 3
+
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review 3
 siones del proyecto, asegurando un control adecuado de los cambios.
 
 
-#### 5.2.1.8. Team Collaboration Insights during Sprint 3
+#### 5.2.3.8. Team Collaboration Insights during Sprint 3
 
 El equipo trabajó en el desarrollo de la landing page utilizando ramas de cada feature, lo que permitió mejorar, actualizar y realizar modificaciones de manera más organizada. El uso de estas ramas facilita la integración y revisión antes de fusionarlas con la rama principal (main), asegurando que no se introduzcan errores. A continuación, se muestra el network graph y  code frecuency mediante la plataforma GitHub:
 
@@ -572,7 +570,7 @@ A continuación presentamos los resultados de las entrevistas de validación rea
     <tr><td>Planes y diferencias de servicios</td><td>Entiende las diferencias entre los planes, pero sugiere que funcionalidades como escrow automático y automatización logística también estén en el plan medio.</td></tr>
   </tbody>
 </table>
-[URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/ESDM8thHRehIhtIRW0xccVkBOmuRNRItcUYWGiqwzNCL4Q?e=76Uw2x)
+[URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211b293_upc_edu_pe/EZu23DrF5TRFv6Gu3dIsxxABlZx2e3B57LDb-pMRu7oXKQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=cCVdHw)
 
 **Entrevista 2**
 <table border="1" cellspacing="0" cellpadding="8">
@@ -596,7 +594,7 @@ A continuación presentamos los resultados de las entrevistas de validación rea
     <tr><td>Planes y diferencias de servicios</td><td>Entiende las diferencias entre Básico, Medio y Premium, pero sugiere agregar más beneficios para hacerlo más atractivo.</td></tr>
   </tbody>
 </table>
-[URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/ESDM8thHRehIhtIRW0xccVkBOmuRNRItcUYWGiqwzNCL4Q?e=76Uw2x)
+[URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211b293_upc_edu_pe/EZu23DrF5TRFv6Gu3dIsxxABlZx2e3B57LDb-pMRu7oXKQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=cCVdHw)
 
 **Entrevista 3**
 <table border="1" cellspacing="0" cellpadding="8">
@@ -620,7 +618,7 @@ A continuación presentamos los resultados de las entrevistas de validación rea
     <tr><td>Planes y diferencias de servicios</td><td>Valoró positivamente los diferentes planes (básico, medio y premium) y consideró que los precios son adecuados en comparación al mercado.</td></tr>
   </tbody>
 </table>
-[URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/ESDM8thHRehIhtIRW0xccVkBOmuRNRItcUYWGiqwzNCL4Q?e=76Uw2x)
+[URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211b293_upc_edu_pe/EZu23DrF5TRFv6Gu3dIsxxABlZx2e3B57LDb-pMRu7oXKQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=cCVdHw)
 
 ### Segmento : Promotores
 
@@ -647,7 +645,7 @@ A continuación presentamos los resultados de las entrevistas de validación rea
     <tr><td>Planes y diferencias de servicios</td><td>Se mostró conforme con las diferencias entre los planes y necesidades, que proporciona."</td></tr>
   </tbody>
 </table>
-[URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/ESDM8thHRehIhtIRW0xccVkBOmuRNRItcUYWGiqwzNCL4Q?e=76Uw2x)
+[URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211b293_upc_edu_pe/EZu23DrF5TRFv6Gu3dIsxxABlZx2e3B57LDb-pMRu7oXKQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=cCVdHw)
 
 **Entrevista 2**
 <table border="1" cellspacing="0" cellpadding="8">
@@ -671,7 +669,7 @@ A continuación presentamos los resultados de las entrevistas de validación rea
     <tr><td>Planes y diferencias de servicios</td><td>Aunque actualmente la plataforma es satisfactoria, el entrevistado sugiere mejorar ofreciendo beneficios tipo "Premium" y alianzas estratégicas, que otorguen ventajas tanto a nivel nacional como internacional para promotores frecuentes.</td></tr>
   </tbody>
 </table>
-[URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/ESDM8thHRehIhtIRW0xccVkBOmuRNRItcUYWGiqwzNCL4Q?e=76Uw2x)
+[URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211b293_upc_edu_pe/EZu23DrF5TRFv6Gu3dIsxxABlZx2e3B57LDb-pMRu7oXKQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=cCVdHw)
 
 **Entrevista 3**
 <table border="1" cellspacing="0" cellpadding="8">
@@ -696,8 +694,7 @@ A continuación presentamos los resultados de las entrevistas de validación rea
     <tr><td>Sugerencias de mejora</td><td>Sugirió que podría detallarse más información sobre los organizadores de los eventos para generar aún más confianza en los postulantes.</td></tr>
   </tbody>
 </table>
-[URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310988_upc_edu_pe/ESDM8thHRehIhtIRW0xccVkBOmuRNRItcUYWGiqwzNCL4Q?e=76Uw2x)
-
+[URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211b293_upc_edu_pe/EZu23DrF5TRFv6Gu3dIsxxABlZx2e3B57LDb-pMRu7oXKQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=cCVdHw)
 
 
   ### 5.3.3. Evaluaciones según herurísticas.
@@ -746,8 +743,6 @@ A continuación presentamos los resultados de las entrevistas de validación rea
 | Contraste de colores | El contraste entre texto blanco y fondo es legible, pero el fondo de algunos botones puede mejorar. | Asegurar un contraste mínimo de 4.5:1 en todos los elementos. |
 | Tamaño de fuente | Tamaño adecuado en la mayoría de elementos, pero puede ser pequeño en móvil. | Aumentar ligeramente el tamaño en dispositivos pequeños. |
 | Inclusión de íconos con texto | Los botones y secciones se entienden sin necesidad de íconos. | Considerar incluir íconos para facilitar el reconocimiento visual. |
-
-
 
 
 
