@@ -359,7 +359,7 @@ Durante este Sprint, el equipo ha trabajado de manera colaborativa en el diseño
 #### 5.2.2.1. Sprint Planning 3
 | **Sprint #**                    | Sprint 3                                                                                                                                                                                                                                                                                                                                                                              |
 |---------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Sprint Planning Date**        | 14/10/2024                                                                                                                                                                                                                                                                                                                                                                            |
+| **Sprint Planning Date**        |                                                                                                                                                                                                                                                                                                                                                                 |
 | **Time**                        | 22:00 PM                                                                                                                                                                                                                                                                                                                                                                              |
 | **Location**                    | Google Meet                                                                                                                                                                                                                                                                                                                                                                           |
 | **Prepared By**                 | Joaquin Pedraza                                                                                                                                                                                                                                                                                                                                                                    |
@@ -423,7 +423,7 @@ Durante este Sprint, el equipo ha trabajado de manera colaborativa en el diseño
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review 3
 En este sprint, se ha completado el desarrollo de la landing page. Para su despliegue, se emplearon varias herramientas clave, entre ellas:
 
-|
+
 #### 5.2.2.5. Execution Evidence for Sprint Review 3
 
 
