@@ -369,36 +369,24 @@ Durante este Sprint, el equipo ha trabajado de manera colaborativa en el diseño
 | **Sum of Story Points**         | 30 Story Points                                                                                                                                                                                                                                                                                                                                                                       |
 
 
-#### 5.2.3.2. Sprint Backlog 3
+#### 5.2.3.3. Sprint Backlog 3
 
-| Historia de Usuario                                       | Epic                               | Comentarios                                                                                          | Puntos | Responsable | Estado |
-|-----------------------------------------------------------|------------------------------------|--------------------------------------------------------------------------------------------------------|--------|-------------|--------|
-| E2 - US009: Registro de usuario                           | E2                                 |                                                                                                        | 4      |             | Done   |
-| E2 - US010: Inicio de sesión                              | E                                  |                                                                                                        | 5      |             | Done   |
-| E2 - US010: Inicio de sesión                              | E                                  | C.                                                                                                     | 4      |             | Done   |
-| E2                                                        | E                                  |                                                                                                        | 4      |             | Done   |
-| E2                                                        | E                                  |                                                                                                        | 5      |             | Done   |
-| E2                                                        | E                                  |                                                                                                        | 6      |             | Done   |
-| E2                                                        | E                                  |                                                                                                        | 4      |             | Done   |
-| E2                                                        | E                                  |                                                                                                        | 4      |             | Done   |
-| E2 -                                                     | E                                  |                                                                                                        |        |             |        |
-| E                                                         | E                                  | oooooooooooooooooooooooooooooooooooooo                                                                 |        |             | Done   |
-| E                                                         | E                                  | C.                                                                                                     | 6      |             | Done   |
-| E4                                                        | E                                  |                                                                                                        | 4      |             | Done   |
-| E4                                                        | E4                                 | C                                                                                                      | 4      |             | Done   |
-| E6 - US029: Métodos de Pago Diversos                      | E                                  |                                                                                                        | 4      |             | Done   |
-|                                                           | E6 - c                              |                                                                                                        | 4      |             | Done   |
-| E                                                         | E                                  |                                                                                                        | 5      |             | Done   |
-| E                                                         | E                                  | I.                                                                                                     | 6      |             | Done   |
-| E                                                         | E                                  | C.                                                                                                     | 4      |             | Done   |
-| E                                                         | E9 - US043 - W1 Cancellation Option|                                                                                                        | 5      |             | Done   |
-| E                                                         | E                                  |                                                                                                        | 6      |             | Done   |
-| E                                                         | E                                  |                                                                                                        | 8      | Edery       |        |
-| E                                                         | E                                  | .                                                                                                      | 8      | Edery       |        |
-| E1                                                        | E                                  |                                                                                                        | 8      |             |        |
-| E                                                         | E                                  |                                                                                                        | 8      |             |        |
-| E1                                                        | E                                  | .                                                                                                      | 8      |             | Done   |
-| E1                                                        | E                                  |
+| **User Story Id** | **User Story Title** | **Work-Item/Task Id** | **Work-Item/Task Title** | **Description** | **Estimation** | **Assigned To** | **Status** |
+|:-----------------:|:--------------------:|:---------------------:|:-----------------------:|:---------------:|:--------------:|:--------------:|:----------:|
+| US009 | Selección del tipo de usuario desde la landing | T01 | Selección de tipo de usuarios en la Landing Page | Seleccionar el tipo de usuario a registrar que redirige a la Web Application | 2h | Diego Cabrera | Done |
+| US010 | Registro como artista en la plataforma | T02 | Registro de usuario como artista | Registro de usuario como artista en la página de login | 3h | Diego Cabrera | Done |
+| US011 | Registro como administrador de local | T03 | Registro de usuario como promotor | Registro de usuario como promotor en la página de login | 3h | Diego Cabrera | Done |
+| US024 | Registro de la evaluación del evento | T04 | Registro de comentarios respecto al evento | Registro de comentarios respecto al desempeño del evento finalizado | 4h | Diego Cabrera | Done |
+| US025 | Visualización las evaluaciones del evento | T05 | Visualización de evaluaciones realizadas al evento | Visualización de las evaluaciones y comentarios registrados tras la finalización de un evento | 2h | Diego Cabrera | Done |
+| US026 | Añadir elementos al portafolio | T06 | Registro de elementos al portafolio del usuario | Creación y registro de elementos para el portafolio del usuario | 4h | Pedro Nanfuñay | Done |
+| US027 | Visualización de elementos del portafolio | T07 | Visualización de elementos registrados en el portafolio | Visualización de elementos añadidos al portafolio por el usuario | 3h | Pedro Nanfuñay | Done |
+| US028 | Filtro de eventos por criterios | T08 | Filtrado de búsqueda de eventos por criterios | Filtros de búsqueda de eventos por criterios | 3h | Alessandra Becerra | Done |
+| US029 | Restablecer filtros aplicados | T09 | Restablecer filtros de búsqueda de eventos aplicados | Restablecer filtros de búsqueda aplicados a los eventos disponibles | 2h | Alessandra Becerra | Done |
+| TS001 | Registro de usuario (artista o promotor) a través de un RESTful API | T10 | Registro de usuarios en el web services | Registro de usuarios a través del Web Services | 3h | Pedro Nanfuñay | Done |
+| TS003 | Publicar evento desde un RESTful API | T11 | Registro de un evento en el web services | Publicación de eventos a través del Web Services | 3h | Diego Cabrera | Done |
+| TS011 | Visualización de postulaciones del artista vía RESTful API | T12 | Visualización de postulaciones registradas | Visualización de postulaciones registradas por el músico a través del Web Services | 2h | Joaquin Pedraza | Done |
+| TS012 | Evaluación post-evento mediante RESTful API | T13 | Registro de evaluación de evento | Registro de evaluación tras la finalización del evento a través del Web Services | 2h | Diego Cabrera | Done |
+| TS013 | Carga y edición del perfil artístico vía RESTful API | T14 | Editar información del perfil | Editar información del perfil a través del Web Services | 2h | Pedro Nanfuñay | Done |
 
 
 #### 5.2.3.3. Development Evidence for Sprint Review 3
