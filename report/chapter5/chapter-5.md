@@ -451,6 +451,13 @@ Search
 #### 5.2.3.8. Team Collaboration Insights during Sprint 3
 
 El equipo trabajó en el desarrollo de la landing page utilizando ramas de cada feature, lo que permitió mejorar, actualizar y realizar modificaciones de manera más organizada. El uso de estas ramas facilita la integración y revisión antes de fusionarlas con la rama principal (main), asegurando que no se introduzcan errores. A continuación, se muestra el network graph y  code frecuency mediante la plataforma GitHub:
+**Fronted**
+<img src="../../assets/sprintInsightsFrontend.png">
+**Backend**
+<img src="../../assets/sprintInsightsBackend.png">
+
+
+
 
 
 
