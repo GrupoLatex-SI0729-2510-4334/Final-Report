@@ -389,19 +389,37 @@ Durante este Sprint, el equipo ha trabajado de manera colaborativa en el diseño
 | TS013 | Carga y edición del perfil artístico vía RESTful API | T14 | Editar información del perfil | Editar información del perfil a través del Web Services | 2h | Pedro Nanfuñay | Done |
 
 
-#### 5.2.3.3. Development Evidence for Sprint Review 3
-| **Repository**     | **Branch** | **Commit Id** | **Commit Message** | **Committed on (Date)** |
-|--------------------|------------|---------------|---------------------|--------------------------|
-|                    |            |               |                     |                          |
-|                    |            |               |                     |                          |
-|                    |            |               |                     |                          |
-|                    |            |               |                     |                          |
-|                    |            |               |                     |                          |
-|                    |            |               |                     |                          |
-|                    |            |               |                     |                          |
-|                    |            |               |                     |                          |
-|                    |            |               |                     |                          |
-|                    |            |               |                     |                          |
+#### 5.2.3.4. Development Evidence for Sprint Review 3
+
+Durante el presente sprint, se han realizado avances e implementaciones significativas en el desarrollo del Backend, así como en la segunda versión del Frontend. Se han completado historias relacionadas a los mismos mediante múltiples commits en los repositorios correspondientes. A continuación, se presenta una tabla que incluye los commits relacionados con la implementación para los repositorios del Frontend y Backend.
+
+| **Repository**     | **Branch** | **Commit Id** | **Commit Message** | **Commit Message Body (resumen)** | **Committed on (Date)** |
+|--------------------|------------|---------------|---------------------|----------------------------------|--------------------------|
+| Front-End | master | 1b9f513 | feat: updated profile section | Actualización de la sección de Perfil | Jun 13, 2025 |
+| Front-End | master | 1c79b36 | feat: added add portfolio item dialog component | Añadir un elemento al portafolio | Jun 13, 2025 |
+| Front-End | master | af77eaf | feat: added portfolio list component | Obtener la lista de elementos del portafolio | Jun 13, 2025 |
+| Front-End | master | 336538c | feat: added portfolio item component | Obtener elemento del portafolio | Jun 13, 2025 |
+| Front-End | master | fbe3ccf | feat: added profile reviews section | Sección Reviews añadida en Perfil | Jun 13, 2025 |
+| Front-End | master | 9c0d7a1 | feat: updated profile api service | Actualización del servicio de Perfil | Jun 13, 2025 |
+| Front-End | master | be5b74c | feat: updated profile entity | Actualización de la entidad Profile | Jun 13, 2025 |
+| Front-End | master | 1ceb399 | feat: added portfolio entity | Entidad Portafolio añadida | Jun 13, 2025 |
+| Front-End | master | b90bb3f | feat:added updated section agenda | Actualización de la sección de Agenda | Jun 13, 2025 |
+| Front-End | master | e9ba6c8 | feat(master) Adedd Saved-postulations | Función para guardar postulaciones | Jun 13, 2025 |
+| Front-End | master | edbb82a | feat: fixed the evaluation assembler section. | Corregido servicio assembler de la sección Evaluaciones | Jun 13, 2025 |
+| Front-End | master | 0140ded | feat: fixed the serverBaseUrl path. | Url base corregida | Jun 13, 2025 |
+| Back-End | main | 1c75ced | feat: added the deploy version. | Versión del proyecto listo para el deploy | Jun 20, 2025 |
+| Back-End | main | 80f5d24 | feat(develop):backend agenda api | Se añadió el API service para Agenda | Jun 19, 2025 |
+| Back-End | main | 8481dba | feat: added search | Se añadió el API service para Búsqueda de eventos  | Jun 19, 2025 |
+| Back-End | main | 34ef64f | feat: added portfolio entity and resource. | Se añadió la entidad y recurso de Portafolio | Jun 18, 2025 |
+| Back-End | main | 27813f2 | feat: added profile API service. | Se añadió el API service para Perfil | Jun 18, 2025 |
+| Back-End | main | ed8b7d5 | feat: fixed the postulation service and the evaluation service. | Corregido el API service de Postulaciones y Evaluaciones | Jun 18, 2025 |
+| Back-End | main | af588f5 | feat(develop) Update PostulationQueryService | Actualización del Query Service de Postulación | Jun 17, 2025 |
+| Back-End | main | ee5f89a | Feat(develop) Update Postulations | Actualización del API service de Postulaciones | Jun 17, 2025 |
+| Back-End | main | 971e5a8 | feat: added the evaluation API service. | Se añadió el API service de Evaluaciones | Jun 17, 2025 |
+| Back-End | main | bad00f0 | feat: fixed some issues of the documentation setion. | Corregido algunos errores en la estructura del proyecto | Jun 17, 2025 |
+| Back-End | main | dcbad31 | feat: created the base of the API service. | Creado el API service base | Jun 17, 2025 |
+| Back-End | develop | cbbad3b | feat(develop) Adedd Bounded Postulations | Se añadió el Bounded Context de Postulaciones | Jun 16, 2025 |
+| Back-End | develop | bc24982 | feat: added the tocaaqui backend section. | Creación de la estructura base del proyecto Backend para TocaAquí | Jun 12, 2025 |
 
 
 
