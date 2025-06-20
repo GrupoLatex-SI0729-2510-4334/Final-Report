@@ -191,7 +191,7 @@ diferentes rangos de audiencia</strong></td>
            <li>Joaquin Andree Pedraza Maldonado: Contribui en la documentación del sprint 3 de forma escrita como tambien oralmente para que el trabajo sea concretado satisfactoriamente  <br> .</li>
            <li>Alessandra Nicole Becerra Tejeda: Realicé con éxito el bounded context asignado y realicé entrevistas de validación sobre nuestro frontend. <br> </li>
             <li>Andrea Elizabeth Santur Tello: Realicé con mucha satisfacción el bounded context de Agenda, asegurando su correcta estructura.Además, colaboré en la validación del sitio web mediante entrevistas a usuarios. <br> </li>
-           <li>Pedro Jesús Nanfuñay Liza: Desarrollé satisfactoriamente el bounded context de Profile para el backend, asegurando una correcta estructura y funcionamiento. <br> </li>
+           <li>Pedro Jesús Nanfuñay Liza: Desarrollé satisfactoriamente el bounded context de Profile para el backend, asegurando una correcta estructura y funcionamiento. Así mismo, colaboré en el desarrollo del informe del presente sprint. <br> </li>
            <li>Diego Ivan Cabrera buitron: Realicé satisfactoriamente el bounded context de evaluations, asegurando el funcionamiento correcto de los get, post y delete del presente servicio web. <br> </li>
           </ul>
       </td>
