@@ -160,8 +160,7 @@ diferentes rangos de audiencia.</strong></td>
            <li>Joaquin Andree Pedraza Maldonado: Durante el desarrollo del front-end, mantuve una comunicación efectiva con mi equipo, adaptándome tanto al lenguaje técnico como al no técnico. Esto facilitó la colaboración y contribuyó a mejorar la productividad del equipo. <br> .</li>
             <p><strong>TB2</strong></p>
            <li>Joaquin Andree Pedraza Maldonado: Durante el desarrollo del back end, mantuve una comunicación activa con mi grupo. Estos facilito a que todos podamos concluir nuestras partes asignadas de manera efectiva. <br> </li>
-           <li>Alessandra Nicole Becerra Tejeda: Mantuve una buena comunicación con mi equipo, avanzando conjuntamente el backend de nuestro proyecto y logrando cumplir con las metas dentro de los límites establecidos. <br> </li>
-        </ul> 
+           <li>Alessandra Nicole Becerra Tejeda: Mantuve una buena comunicación con mi equipo, avanzando conjuntamente el backend de nuestro proyecto y logrando cumplir con las metas dentro de los límites establecidos. <br> </li> 
         <li>Andrea Elizabeth Santur Tello: Durante el desarrollo del backend para este entregable, colaboré activamente en la implementación de las funcionalidades asignadas, contribuyendo al cumplimiento de los requisitos definidos por el equipo. Participé activamente en las reuniones para coordinar avances y asegurar la integración fluida con las demás secciones del proyecto. <br> </li>
         </ul> 
       </td>
@@ -190,8 +189,7 @@ diferentes rangos de audiencia</strong></td>
            <li>Joaquin Andree Pedraza Maldonado: Contribui en la documentación del sprint 3 de forma escrita como tambien oralmente para que el trabajo sea concretado satisfactoriamente  <br> .</li>
            <li>Alessandra Nicole Becerra Tejeda: Realicé con éxito el bounded context asignado y realicé entrevistas de validación sobre nuestro frontend. <br> </li>
             <li>Andrea Elizabeth Santur Tello: Realicé con mucha satisfacción el bounded context de Agenda, asegurando su correcta estructura.Además, colaboré en la validación del sitio web mediante entrevistas a usuarios. <br> </li>
-          
-        </ul>
+          </ul>
       </td>
       <td><p><strong>TB1</strong></p><p align="justify">Cada miembro de nuestro equipo mostró disposición y estableció un entorno colaborativo a través de medios de comunicación efectivos, se establecieron reuniones, llamadas, entregas tempranas y constantes revisiones de cada capítulo de nuestro proyecto. Nos reunimos en periodos continuos para opinar y colaborar en cada proceso del desarrollo de nuestro producto y su documentación. Nos establecimos metas tempranas con la planificación de tareas y las mejoramos conjuntamente con la revisión de la calidad del proceso culminado.</p><br><strong>TP</strong></p><p align="justify">El presente equipó demostró comunicarse de manera efectiva y así, la productividad de este mismo incrementó considerablemente, contribuyendo a la creación de la primera versión del producto, demostrando la importancia de este mismo mediante la comunicación presente dentro del equipo. Se establecieron tareas designadas para cada integrante del equipo que se establecieron mediante la comunicación oral y escrita y que se trabajaron en su totalidad. 
   </tbody>
