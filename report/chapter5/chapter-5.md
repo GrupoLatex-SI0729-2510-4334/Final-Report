@@ -446,17 +446,6 @@ Code frecuency:
 
 
 
-### 5.3. Validation Interviews
-
-
-#### 5.3.1 Registro de entrevistas
-
-En esta sección se registrarán las entrevistas de validación realizadas a ambos segmentos objetivos. Se adjunta el link del video completo:
-
-Segmento de trabajadores:
-
-
-#### 5.3.2 Evaluaciones según heurísticas
 
 
 ### 5.3 Validation Interviews
