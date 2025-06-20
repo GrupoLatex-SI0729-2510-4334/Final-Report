@@ -424,16 +424,28 @@ En este sprint, se ha completado el desarrollo de la landing page. Para su despl
 
 #### 5.2.3.5. Execution Evidence for Sprint Review 3
 
+Durante el presente sprint, se desarrollaron las principales technical stories para la realización de los servicios web.
 
+Postulation
+<img src="../../assets/wsPostulation1.png">
 
+Agenda
+<img src="../../assets/wsAgenda1.png">
 
+Profile
+<img src="../../assets/wsProfile.png">
 
+Evaluation
+<img src="../../assets/wsEvaluation1.png">
+
+Search
+<img src="../../assets/wsSearch1.png">
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review 3
 
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review 3
-siones del proyecto, asegurando un control adecuado de los cambios.
+
 
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint 3
