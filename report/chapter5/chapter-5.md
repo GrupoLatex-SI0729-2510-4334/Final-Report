@@ -574,9 +574,9 @@ A continuación presentamos los resultados de las entrevistas de validación rea
     <tr><td>Inicio de la entrevista</td><td>00:00</td></tr>
     <tr><td>Duración de la entrevista</td><td>06:40</td></tr>
     <tr><td>Foto captura</td><td><img src="../../assets/AlexanderValidacion.png" alt="Alexander captura"></td></tr>
-    <tr><td>Visualización de la Landing Page</td><td>Le gustó mucho el diseño general, resaltando los colores negro, amarillo y blanco. Considera que transmite confianza y profesionalismo. La información está organizada de forma clara y entendible.</td></tr>
+    <tr><td>Visualización de la Landing Page y el dashboard </td><td>Le gustó mucho el diseño general, resaltando los colores negro, amarillo y blanco. Considera que transmite confianza y profesionalismo. La información está organizada de forma clara y entendible.</td></tr>
     <tr><td>Exploración de funcionalidades clave</td><td>Considera práctico el calendario de fechas para organizar presentaciones y valora la facilidad de comunicación con promotores. Sugiere mostrar ejemplos de bandas que ya usaron la plataforma.</td></tr>
-    <tr><td>Flujos de registro y navegación inicial</td><td>Positiva. Se siente motivado a registrarse. Sugiere mejorar el perfil de usuario agregando más detalles para hacerlo más completo.</td></tr>
+    <tr><td>Flujos de registro y navegación del producto </td><td>Positiva. Se siente motivado a registrarse. Sugiere mejorar el perfil de usuario agregando más detalles para hacerlo más completo.</td></tr>
     <tr><td>Publicación de eventos y postulación</td><td>Valoró la funcionalidad de la agenda de shows y la posibilidad de gestionar fechas y logística de forma sencilla.</td></tr>
     <tr><td>Planes y diferencias de servicios</td><td>Entiende las diferencias entre los planes, pero sugiere que funcionalidades como escrow automático y automatización logística también estén en el plan medio.</td></tr>
   </tbody>
@@ -598,9 +598,9 @@ A continuación presentamos los resultados de las entrevistas de validación rea
     <tr><td>Inicio de la entrevista</td><td>06:40</td></tr>
     <tr><td>Duración de la entrevista</td><td>06:00</td></tr>
     <tr><td>Foto captura</td><td><img src="../../assets/BryanValidacion.png" alt="Bryan captura"></td></tr>
-    <tr><td>Visualización de la Landing Page</td><td>La apariencia le transmitió confianza y profesionalismo, pero comentó que el fondo dificultaba la lectura por el exceso de brillo. Sugiere ajustar el color o contraste.</td></tr>
+    <tr><td>Visualización de la Landing Page y el dashboard</td><td>La apariencia le transmitió confianza y profesionalismo, pero comentó que el fondo dificultaba la lectura por el exceso de brillo. Sugiere ajustar el color o contraste.</td></tr>
     <tr><td>Exploración de funcionalidades clave</td><td>Percibe que la plataforma ofrece opciones interesantes como contacto con locales y fechas disponibles, aunque desea ver más herramientas visuales asociadas a la música.</td></tr>
-    <tr><td>Flujos de registro y navegación inicial</td><td>Entendió bien los accesos iniciales y considera que podría gestionar sus shows sin mayores complicaciones.</td></tr>
+    <tr><td>Flujos de registro y navegación del producto</td><td>Entendió bien los accesos iniciales y considera que podría gestionar sus shows sin mayores complicaciones.</td></tr>
     <tr><td>Publicación de eventos y postulación</td><td>Aprecia que haya formas claras de contacto y postulación, aunque no profundizó mucho en esta parte inicial.</td></tr>
     <tr><td>Planes y diferencias de servicios</td><td>Entiende las diferencias entre Básico, Medio y Premium, pero sugiere agregar más beneficios para hacerlo más atractivo.</td></tr>
   </tbody>
@@ -622,9 +622,9 @@ A continuación presentamos los resultados de las entrevistas de validación rea
     <tr><td>Inicio de la entrevista</td><td>00:00</td></tr>
     <tr><td>Duración de la entrevista</td><td>06:40</td></tr>
     <tr><td>Foto captura</td><td><img src="../../assets/BenjaminValidacion.png" alt="Benjamín captura"></td></tr>
-    <tr><td>Visualización de la Landing Page</td><td>La landing page le pareció llamativa, especialmente por el uso de colores, y le transmitió confianza y profesionalismo.</td></tr>
+    <tr><td>Visualización de la Landing Page y el dashboard</td><td>La landing page le pareció llamativa, especialmente por el uso de colores, y le transmitió confianza y profesionalismo.</td></tr>
     <tr><td>Exploración de funcionalidades clave</td><td>Entendió rápidamente la propuesta de valor: músicos se presentan y promotores los descubren de manera clara y directa.</td></tr>
-    <tr><td>Flujos de registro y navegación inicial</td><td>Se mostró motivado a registrarse tras explorar la landing page. Consideró que la sección "Sobre nosotros" y ver los desarrolladores aumentó su confianza. Sugiere mostrar ejemplos de usuarios anteriores para reforzar la confianza.</td></tr>
+    <tr><td>Flujos de registro y navegación del producto</td><td>Se mostró motivado a registrarse tras explorar la landing page. Consideró que la sección "Sobre nosotros" y ver los desarrolladores aumentó su confianza. Sugiere mostrar ejemplos de usuarios anteriores para reforzar la confianza.</td></tr>
     <tr><td>Publicación de eventos y postulación</td><td>No observó claramente cómo gestionar fechas disponibles, pero entendió que la plataforma facilita encontrar oportunidades para tocar.</td></tr>
     <tr><td>Planes y diferencias de servicios</td><td>Valoró positivamente los diferentes planes (básico, medio y premium) y consideró que los precios son adecuados en comparación al mercado.</td></tr>
   </tbody>
@@ -649,9 +649,9 @@ A continuación presentamos los resultados de las entrevistas de validación rea
     <tr><td>Inicio de la entrevista</td><td>00:00</td></tr>
     <tr><td>Duración de la entrevista</td><td>06:40</td></tr>
     <tr><td>Foto captura</td><td><img src="../../assets/AgustinValidacion.png" alt="Agustín captura"></td></tr>
-    <tr><td>Visualización de la Landing Page</td><td>Indicó que la landing page es llamativa y vistosa, transmitiendo confianza especialmente para eventos grandes. Sin embargo, comentó que para personas que buscan algo más discreto podría no ser tan atractiva.</td></tr>
+    <tr><td>Visualización de la Landing Page y el dashboard</td><td>Indicó que la landing page es llamativa y vistosa, transmitiendo confianza especialmente para eventos grandes. Sin embargo, comentó que para personas que buscan algo más discreto podría no ser tan atractiva.</td></tr>
     <tr><td>Exploración de funcionalidades clave</td><td>Comentó que el sistema de validación de requerimientos técnicos de cada artista es útil y genera confianza. También mencionó que el sistema de contratos digitales y pagos protegidos refuerza esta sensación.</td></tr>
-    <tr><td>Flujos de registro y navegación inicial</td><td>Opinó que la navegación para iniciar la publicación de un evento es bastante intuitiva y fácil de comprender.</td></tr>
+    <tr><td>Flujos de registro y navegación del producto</td><td>Opinó que la navegación para iniciar la publicación de un evento es bastante intuitiva y fácil de comprender.</td></tr>
     <tr><td>Publicación de eventos y postulación</td><td>Indicó que la plataforma incluye la mayoría de la información necesaria, como planes y datos de contacto, lo que genera confianza para la gestión de eventos.</td></tr>
     <tr><td>Planes y diferencias de servicios</td><td>Se mostró conforme con las diferencias entre los planes y necesidades, que proporciona."</td></tr>
   </tbody>
@@ -673,9 +673,9 @@ A continuación presentamos los resultados de las entrevistas de validación rea
     <tr><td>Inicio de la entrevista</td><td>00:00</td></tr>
     <tr><td>Duración de la entrevista</td><td>06:40</td></tr>
     <tr><td>Foto captura</td><td><img src="../../assets/DavidValidacion.png" alt="David captura"></td></tr>
-    <tr><td>Visualización de la Landing Page</td><td>Genera alta confianza. La landing page es vista como una herramienta de apoyo fundamental para los promotores. Transmite seriedad y permite sentirse respaldado al momento de agendar o publicar eventos rápidamente.</td></tr>
+    <tr><td>Visualización de la Landing Page y el dashboard</td><td>Genera alta confianza. La landing page es vista como una herramienta de apoyo fundamental para los promotores. Transmite seriedad y permite sentirse respaldado al momento de agendar o publicar eventos rápidamente.</td></tr>
     <tr><td>Exploración de funcionalidades clave</td><td>Se percibe como didáctica, intuitiva y muy llamativa. Las funcionalidades como la publicación de eventos, la selección en calendario, y el detalle de beneficios son claros y accesibles, facilitando el trabajo del promotor.</td></tr>
-    <tr><td>Flujos de registro y navegación inicial</td><td>Flujo intuitivo y funcional. La navegación inicial permite empezar de forma rápida la programación de eventos, seleccionar fechas, lugares y condiciones fácilmente. Además, la validación de requerimientos técnicos por artista mejora la experiencia.</td></tr>
+    <tr><td>Flujos de registro y navegación del producto</td><td>Flujo intuitivo y funcional. La navegación inicial permite empezar de forma rápida la programación de eventos, seleccionar fechas, lugares y condiciones fácilmente. Además, la validación de requerimientos técnicos por artista mejora la experiencia.</td></tr>
     <tr><td>Publicación de eventos y postulación</td><td>Completo y práctico. Se incluyen todos los requisitos necesarios para publicar eventos: rider técnico, condiciones, ubicación, validaciones de logística y características específicas de cada artista. Se destaca la facilidad para planificar y administrar eventos múltiples.</td></tr>
     <tr><td>Planes y diferencias de servicios</td><td>Aunque actualmente la plataforma es satisfactoria, el entrevistado sugiere mejorar ofreciendo beneficios tipo "Premium" y alianzas estratégicas, que otorguen ventajas tanto a nivel nacional como internacional para promotores frecuentes.</td></tr>
   </tbody>
@@ -697,9 +697,9 @@ A continuación presentamos los resultados de las entrevistas de validación rea
     <tr><td>Inicio de la entrevista</td><td>06:40</td></tr>
     <tr><td>Duración de la entrevista</td><td>06:00</td></tr>
     <tr><td>Foto captura</td><td><img src="../../assets/ElaValidacion.png" alt="Ela captura"></td></tr>
-    <tr><td>Visualización de la Landing Page</td><td>Le transmitió confianza y profesionalismo. Destacó que el diseño es atractivo, fácil de manejar y que la idea de la plataforma le pareció innovadora.</td></tr>
+    <tr><td>Visualización de la Landing Page y el dashboard</td><td>Le transmitió confianza y profesionalismo. Destacó que el diseño es atractivo, fácil de manejar y que la idea de la plataforma le pareció innovadora.</td></tr>
     <tr><td>Exploración de funcionalidades clave</td><td>Consideró muy útiles las herramientas como el calendario, contratos digitales, validación técnica y gestor de logística. Mencionó que ayudan a ahorrar mucho tiempo.</td></tr>
-    <tr><td>Flujos de registro y navegación inicial</td><td>Opinó que la navegación y el flujo son intuitivos y fáciles de entender. No presentó dificultades al comprender cómo registrarse o postular a eventos.</td></tr>
+    <tr><td>Flujos de registro y navegación del producto</td><td>Opinó que la navegación y el flujo son intuitivos y fáciles de entender. No presentó dificultades al comprender cómo registrarse o postular a eventos.</td></tr>
     <tr><td>Publicación de eventos y postulación</td><td>Consideró que el flujo de publicación contiene toda la información necesaria para gestionar un evento y que el sistema facilita la comunicación entre músicos y promotores.</td></tr>
     <tr><td>Planes y diferencias de servicios</td><td>Mencionó que los planes le parecieron buenos y claros. Notó las diferencias y valoró positivamente la existencia de diferentes opciones para distintos tipos de usuarios.</td></tr>
     <tr><td>Sugerencias de mejora</td><td>Sugirió que podría detallarse más información sobre los organizadores de los eventos para generar aún más confianza en los postulantes.</td></tr>
