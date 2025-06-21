@@ -448,6 +448,15 @@ Search
 <img src="../../assets/wsSearch1.png">
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review 3
+Durante este sprint se desarrollaron los siguientes endpoints, organizados por controlador, que permiten gestionar perfiles, agendas, postulaciones, evaluaciones y eventos.
+
+| **Endpoint Name** | **Implemented Actions** | **Call Syntax** | **Parameters Specification** | **Call Example** | **Response Explanation** |
+|-------------------|--------------------------|------------------|-------------------------------|------------------|---------------------------|
+| **Postulations** | POST | `/api/v1/postulations` | `candidateId`, `eventId`, `motivation` | `POST http://localhost:8080/api/v1/postulations` | Crea una nueva postulación a un evento. |
+| **Agendas** | GET, POST, PUT, DELETE | GET: `/api/v1/agendas/{agendaId}`<br>GET: `/api/v1/agendas`<br>POST: `/api/v1/agendas`<br>PUT: `/api/v1/agendas/{agendaId}`<br>DELETE: `/api/v1/agendas/{agendaId}` | GET/PUT/DELETE: `agendaId`<br>POST: `title`, `description`, `date`, `location` | `GET http://localhost:8080/api/v1/agendas/1` | Permite gestionar agendas de eventos por ID o listarlas todas. |
+| **Profiles** | GET, POST, PUT | GET: `/api/v1/profiles/{id}`<br>GET: `/api/v1/profiles`<br>POST: `/api/v1/profiles`<br>PUT: `/api/v1/profiles/{id}` | GET/PUT: `id`<br>POST: `name`, `email`, `bio`, `interests` | `GET http://localhost:8080/api/v1/profiles/1` | Devuelve información del perfil correspondiente o permite su actualización. |
+| **Evaluations** | GET, POST, PUT, DELETE | GET: `/api/v1/evaluations/{id}`<br>GET: `/api/v1/evaluations`<br>POST: `/api/v1/evaluations`<br>PUT: `/api/v1/evaluations/{id}`<br>DELETE: `/api/v1/evaluations/{id}` | GET/PUT/DELETE: `id`<br>POST: `evaluatorId`, `candidateId`, `score`, `feedback` | `GET http://localhost:8080/api/v1/evaluations/3` | Devuelve o modifica una evaluación específica por ID. |
+| **Events** | GET, POST, GET by genre | GET: `/api/v1/events`<br>POST: `/api/v1/events`<br>GET: `/api/v1/events/genre/{genre}` | POST: `title`, `description`, `date`, `genre`<br>GET by genre: `genre` | `GET http://localhost:8080/api/v1/events/genre/rock` | Devuelve todos los eventos, permite crear nuevos o filtrar por género. |
 
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review 3
