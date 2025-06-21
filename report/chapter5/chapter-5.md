@@ -367,6 +367,14 @@ Durante este Sprint, el equipo ha trabajado de manera colaborativa en el diseño
 | **Sprint Goal**                 | En este sprint, el objetivo es desarrollar la lógica y funcionalidades principales del backend de la aplicación web, además de su despliegue. Durante las diversas reuniones del equipo, se asignaron tareas específicas a cada integrante para implementar los servicios del backend. |
 | **Sprint Velocity**             | 30                                                                                                                                                                                                                                                                                                                                                                                    |
 | **Sum of Story Points**         | 30 Story Points                                                                                                                                                                                                                                                                                                                                                                       |
+### 5.2.3.2 Aspect Leaders and Collaborators.
+| Team Member              | GitHub Username     | BackEnd | Springboot | HTML/CSS | TypeScript | Documentation |
+|--------------------------|---------------------|--------------|---------------|----------|-------------|----------------|
+| Andrea Santur           | andreli-star        | L           | C             | C        | L           | C              |
+| Diego Cabrera           | Omele7 |C            | C             | C        | L          | L              |C
+| Alessandra Becerra           | aleeBecerra        | C            | L             | L        | C           | C              |
+| Joaquin Pedraza            | JoaquinPedraza1             | L            | C             | C        | L           | C              |
+| Pedro Nanfuñay          | PedroJ18        | C            |              | C        | C           | L              |
 
 
 #### 5.2.3.3. Sprint Backlog 3
