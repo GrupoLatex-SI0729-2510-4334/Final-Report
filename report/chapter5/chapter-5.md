@@ -184,7 +184,7 @@ Validar la usabilidad y efectividad de la landing page de TocaAquí y de los flu
 - Landing Page
 - *Prinipales tareas en la aplicación*
 
--*Navegacion a través de la plataforma web*
+-*Navegacion a través de la plataforma web*<br>
 -*Flujos de usuario (user flows):*
 1. El usuario ingresa a landing page 
 2. Registro y creación de perfil musical.
@@ -215,15 +215,25 @@ Validar la usabilidad y efectividad de la landing page de TocaAquí y de los flu
 
 - ¿Te sentiste motivado a registrarte en la plataforma después de leer la landing page? ¿Qué te animaría aún más a hacerlo?
 
+-¿Qué te parece la página de inicio? ¿Se entiende de qué trata la plataforma?
+
+-¿Qué info te gustaría ver en el perfil de un músico o promotor?
+
+-¿Qué te haría sentir seguro a al usar esta plataforma? Crees q es importante la proteccion de datos?
+
+-¿Qué detalles esperas ver al entrar a un evento o perfil?
+
+-¿Cómo te gustaría contactar o contratar a un músico desde la plataforma?
+
 **Segmento: Promotores**
 
 **Objetivo: Determinar si los promotores encuentran la plataforma útil y eficiente para publicar eventos, recibir postulaciones, gestionar aspectos técnicos y tomar decisiones informadas sobre artistas..**
 
--*Explicación de los alcances de la demostración*
+-*Explicación de los alcances de la demostración*<br>
 - Landing Page
 -  Prinipales tareas en la aplicación
 
--*Navegacion a través de la plataforma web*
+-*Navegacion a través de la plataforma web* <br>
 -*Flujos de usuario (user flows):*
 1. El usuario ingresa a landing page 
 2. Registro y configuración de perfil como promotor.
@@ -253,6 +263,16 @@ Validar la usabilidad y efectividad de la landing page de TocaAquí y de los flu
 - ¿La interfaz te permite visualizar bien el estado de tus eventos y las gestiones logísticas en curso?
 
 - ¿Qué aspecto de la plataforma crees que podría hacerle mejoras para los próximos eventos?
+
+- ¿Qué te parece la página de inicio? ¿Se entiende de qué trata la plataforma?
+
+- ¿Qué info te gustaría ver en el perfil de un músico o promotor?
+
+- ¿Qué te haría sentir seguro a al usar esta plataforma? Crees q es importante la proteccion de datos?
+
+- ¿Qué detalles esperas ver al entrar a un evento o perfil?
+
+- ¿Cómo te gustaría contactar o contratar a un músico desde la plataforma?
 
 ### 5.3.2. Registro de Entrevistas.
   
