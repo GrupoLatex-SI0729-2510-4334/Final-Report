@@ -503,7 +503,7 @@ Validar la usabilidad y efectividad de la landing page de TocaAquí y de los flu
 6. Revisión de evaluaciones post-evento.
 7. Componentes visuales para presentación de artistas y eventos.
 8. Botones y secciones para registro/login.
-9. Estilos y maquetado de varias páginas tipo portafolio o perfil.
+9. Estilos y maquetado de varias páginas tipo portafolio o perfil. <br>
 
 -*Formato de Registro de la Entrevista*
 *Datos del Entrevistado:
@@ -556,7 +556,7 @@ Validar la usabilidad y efectividad de la landing page de TocaAquí y de los flu
 6. Evaluación de artistas post-evento.
 7. Componentes visuales para presentación de artistas y eventos.
 8. Botones y secciones para registro/login.
-9. Estilos y maquetado de varias páginas tipo portafolio o perfil.
+9. Estilos y maquetado de varias páginas tipo portafolio o perfil. <br>
 -*Formato de Registro de la Entrevista*
 -*Datos del Entrevistado:*
 
