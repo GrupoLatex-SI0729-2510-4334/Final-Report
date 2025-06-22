@@ -490,6 +490,7 @@ Validar la usabilidad y efectividad de la landing page de TocaAquí y de los flu
 **Objetivo:Evaluar si el diseño, el flujo de registro, las herramientas de gestión musical y la claridad en la propuesta de valor ayudan al músico a comprender y usar la plataforma eficientemente..**
 -*Explicación de los alcances de la demostración*
 - Landing Page
+- Plataforma del Fronted (Producto)
 - *Prinipales tareas en la aplicación*
 
 -*Navegacion a través de la plataforma web*
@@ -500,6 +501,9 @@ Validar la usabilidad y efectividad de la landing page de TocaAquí y de los flu
 4. Firma de contratos digitales y gestión de pagos mediante escrow.
 5. Gestión logística del evento desde su cuenta.
 6. Revisión de evaluaciones post-evento.
+7. Componentes visuales para presentación de artistas y eventos.
+8. Botones y secciones para registro/login.
+9. Estilos y maquetado de varias páginas tipo portafolio o perfil.
 
 -*Formato de Registro de la Entrevista*
 *Datos del Entrevistado:
@@ -522,6 +526,16 @@ Validar la usabilidad y efectividad de la landing page de TocaAquí y de los flu
 - ¿Te gustaría ver ejemplos reales de bandas o solistas que ya usaron TocaAquí para cerrar presentaciones?
 
 - ¿Te sentiste motivado a registrarte en la plataforma después de leer la landing page? ¿Qué te animaría aún más a hacerlo?
+  
+- ¿Qué te parece la página de inicio? ¿Se entiende de qué trata la plataforma?
+
+- ¿Qué info te gustaría ver en el perfil de un músico o promotor?
+
+- ¿Qué te haría sentir seguro a al usar esta plataforma? Crees q es importante la proteccion de datos?
+
+- ¿Qué detalles esperas ver al entrar a un evento o perfil?
+
+- ¿Cómo te gustaría contactar o contratar a un músico desde la plataforma?
 
 **Segmento: Promotores**
 
@@ -529,6 +543,7 @@ Validar la usabilidad y efectividad de la landing page de TocaAquí y de los flu
 
 -*Explicación de los alcances de la demostración*
 - Landing Page
+- Plataforma del Fronted (Producto)
 -  Prinipales tareas en la aplicación
 
 -*Navegacion a través de la plataforma web*
@@ -539,6 +554,9 @@ Validar la usabilidad y efectividad de la landing page de TocaAquí y de los flu
 4. Revisión y selección de postulaciones de artistas.
 5.Validación de requerimientos técnicos de los artistas.
 6. Evaluación de artistas post-evento.
+7. Componentes visuales para presentación de artistas y eventos.
+8. Botones y secciones para registro/login.
+9. Estilos y maquetado de varias páginas tipo portafolio o perfil.
 -*Formato de Registro de la Entrevista*
 -*Datos del Entrevistado:*
 
@@ -561,6 +579,17 @@ Validar la usabilidad y efectividad de la landing page de TocaAquí y de los flu
 - ¿La interfaz te permite visualizar bien el estado de tus eventos y las gestiones logísticas en curso?
 
 - ¿Qué aspecto de la plataforma crees que podría hacerle mejoras para los próximos eventos?
+
+- ¿Qué te parece la página de inicio? ¿Se entiende de qué trata la plataforma?
+
+- ¿Qué info te gustaría ver en el perfil de un músico o promotor?
+
+- ¿Qué te haría sentir seguro a al usar esta plataforma? Crees q es importante la proteccion de datos?
+
+- ¿Qué detalles esperas ver al entrar a un evento o perfil?
+
+- ¿Cómo te gustaría contactar o contratar a un músico desde la plataforma?
+
 
 ### 5.3.2. Registro de Entrevistas.
   
