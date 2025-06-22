@@ -491,7 +491,7 @@ Validar la usabilidad y efectividad de la landing page de TocaAquí y de los flu
 -*Explicación de los alcances de la demostración*
 - Landing Page
 - Plataforma del Fronted (Producto)
-- *Prinipales tareas en la aplicación*
+- *Principales tareas en la aplicación*
 
 -*Navegacion a través de la plataforma web*
 -*Flujos de usuario (user flows):*
@@ -544,7 +544,7 @@ Validar la usabilidad y efectividad de la landing page de TocaAquí y de los flu
 -*Explicación de los alcances de la demostración*
 - Landing Page
 - Plataforma del Fronted (Producto)
--  Prinipales tareas en la aplicación
+-  Principales tareas en la aplicación
 
 -*Navegacion a través de la plataforma web*
 -*Flujos de usuario (user flows):*
