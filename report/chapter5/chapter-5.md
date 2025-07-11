@@ -493,6 +493,27 @@ Dentro del frontend  se han realizado pequeñas mejoras y se han añadido funcio
 Dentro del backend se han agregado nuevos endpoints para autenticación de usuarios además de la corrección de endpoints que funcionaban de manera incorrecta y por tanto complicaban el progreso.
 <img src="../../assets/BackendCommits.png">
 
+### 5.2.4. Sprint 4
+#### 5.2.4.1. Sprint Planning 4
+#### 5.2.4.2 Aspect Leaders and Collaborators.
+#### 5.2.4.3. Sprint Backlog 4
+#### 5.2.4.4. Development Evidence for Sprint Review 4
+#### 5.2.4.5. Execution Evidence for Sprint Review 4
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review 4
+Hemos logrado desplegar una aplicación web conectada a un backend Spring Boot. A continuación, se muestra la documentación de la API que se consume desde el frontend.
+| **Endpoint Name** | **Implemented Actions** | **Call Syntax** | **Parameters Specification** | **Call Example** | **Response Explanation** |
+|-------------------|--------------------------|------------------|-------------------------------|------------------|---------------------------|
+| **Postulations** | POST | `/api/v1/postulations` | `candidateId`, `eventId`, `motivation` | `POST http://localhost:8080/api/v1/postulations` | Crea una nueva postulación a un evento. |
+| **Agendas** | GET, POST, PUT, DELETE | GET: `/api/v1/agendas/{agendaId}`<br>GET: `/api/v1/agendas`<br>POST: `/api/v1/agendas`<br>PUT: `/api/v1/agendas/{agendaId}`<br>DELETE: `/api/v1/agendas/{agendaId}` | GET/PUT/DELETE: `agendaId`<br>POST: `title`, `description`, `date`, `location` | `GET http://localhost:8080/api/v1/agendas/1` | Permite gestionar agendas de eventos por ID o listarlas todas. |
+| **Profiles** | GET, POST, PUT | GET: `/api/v1/profiles/{id}`<br>GET: `/api/v1/profiles`<br>POST: `/api/v1/profiles`<br>PUT: `/api/v1/profiles/{id}` | GET/PUT: `id`<br>POST: `name`, `email`, `bio`, `interests` | `GET http://localhost:8080/api/v1/profiles/1` | Devuelve información del perfil correspondiente o permite su actualización. |
+| **Evaluations** | GET, POST, PUT, DELETE | GET: `/api/v1/evaluations/{id}`<br>GET: `/api/v1/evaluations`<br>POST: `/api/v1/evaluations`<br>PUT: `/api/v1/evaluations/{id}`<br>DELETE: `/api/v1/evaluations/{id}` | GET/PUT/DELETE: `id`<br>POST: `evaluatorId`, `candidateId`, `score`, `feedback` | `GET http://localhost:8080/api/v1/evaluations/3` | Devuelve o modifica una evaluación específica por ID. |
+| **Events** | GET, POST, GET by genre | GET: `/api/v1/events`<br>POST: `/api/v1/events`<br>GET: `/api/v1/events/genre/{genre}` | POST: `title`, `description`, `date`, `genre`<br>GET by genre: `genre` | `GET http://localhost:8080/api/v1/events/genre/rock` | Devuelve todos los eventos, permite crear nuevos o filtrar por género. |
+
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review 4
+#### 5.2.4.8. Team Collaboration Insights during Sprint 4
+
+
 ### 5.3 Validation Interviews
 #### 5.3.1 Diseño de entrevistas
 
