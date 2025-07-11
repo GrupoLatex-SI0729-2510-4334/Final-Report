@@ -484,12 +484,10 @@ Durante este sprint, el equipo logró finalizar los tres componentes fundamental
 **Frontend**
 Dentro del frontend  se han realizado pequeñas mejoras y se han añadido funcionalidades extra, en base a los cambios relacionados con la adaptación de las entidades al backend.
 <img src="../../assets/FrontedCommits.png">
-<img src="../../assets/FrontedCommits1.png">
 
 **Backend**
 Dentro del backend se han agregado nuevos endpoints para autenticación de usuarios además de la corrección de endpoints que funcionaban de manera incorrecta y por tanto complicaban el progreso.
 <img src="../../assets/BackendCommits.png">
-<img src="../../assets/FrontedCommits1.png">
 
 ### 5.3 Validation Interviews
 #### 5.3.1 Diseño de entrevistas
