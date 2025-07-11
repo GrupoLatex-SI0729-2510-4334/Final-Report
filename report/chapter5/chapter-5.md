@@ -482,17 +482,6 @@ El equipo trabajó en el desarrollo de la landing page utilizando ramas de cada 
 <img src="../../assets/sprintInsightsBackend1.png">
 <img src="../../assets/sprintInsightsBackend2.png">
 
-#### 5.2.4.8. Team Collaboration Insights during Sprint 4
-Durante este sprint, el equipo logró finalizar los tres componentes fundamentales de la plataforma TocaAqui, consolidando el producto en su versión funcional para ser presentado. Los entregables completados fueron siendo estos la landing page, web application y web service.
-
-**Frontend**
-Dentro del frontend  se han realizado pequeñas mejoras y se han añadido funcionalidades extra, en base a los cambios relacionados con la adaptación de las entidades al backend.
-<img src="../../assets/FrontedCommits.png">
-
-**Backend**
-Dentro del backend se han agregado nuevos endpoints para autenticación de usuarios además de la corrección de endpoints que funcionaban de manera incorrecta y por tanto complicaban el progreso.
-<img src="../../assets/BackendCommits.png">
-
 ### 5.2.4. Sprint 4
 #### 5.2.4.1. Sprint Planning 4
 #### 5.2.4.2 Aspect Leaders and Collaborators.
@@ -513,6 +502,15 @@ Hemos logrado desplegar una aplicación web conectada a un backend Spring Boot. 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review 4
 #### 5.2.4.8. Team Collaboration Insights during Sprint 4
 
+Durante este sprint, el equipo logró finalizar los tres componentes fundamentales de la plataforma TocaAqui, consolidando el producto en su versión funcional para ser presentado. Los entregables completados fueron siendo estos la landing page, web application y web service.
+
+**Frontend** <br>
+Dentro del frontend  se han realizado pequeñas mejoras y se han añadido funcionalidades extra, en base a los cambios relacionados con la adaptación de las entidades al backend.
+<img src="../../assets/FrontedCommits.png">
+
+**Backend** <br>
+Dentro del backend se han agregado nuevos endpoints para autenticación de usuarios además de la corrección de endpoints que funcionaban de manera incorrecta y por tanto complicaban el progreso.
+<img src="../../assets/BackendCommits.png">
 
 ### 5.3 Validation Interviews
 #### 5.3.1 Diseño de entrevistas
