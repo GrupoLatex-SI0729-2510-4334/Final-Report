@@ -486,7 +486,14 @@ El equipo trabajó en el desarrollo de la landing page utilizando ramas de cada 
 #### 5.2.4.1. Sprint Planning 4
 #### 5.2.4.2 Aspect Leaders and Collaborators.
 #### 5.2.4.3. Sprint Backlog 4
+
+| **User Story Id** | **User Story Title** | **Work-Item/Task Id** | **Work-Item/Task Title** | **Description** | **Estimation** | **Assigned To** | **Status** |
+|:-----------------:|:--------------------:|:---------------------:|:-----------------------:|:---------------:|:--------------:|:--------------:|:----------:|
+| TS002 | Inicio de sesión mediante RESTful API | T01 | Inicio de sesión de usuarios | Validar campos de inicio de sesión para el acceso a la plataforma a través del Web Services | 2h | Pedro Nanfuñay | Done |
+| TS004 | Postulación del artista a un evento vía RESTful API | T02 | Registro de postulación de un artista | Registro de postulación del artista para un evento publicado a través del Web Services | 3h | Joaquín Pedraza | Done |
+
 #### 5.2.4.4. Development Evidence for Sprint Review 4
+
 #### 5.2.4.5. Execution Evidence for Sprint Review 4
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review 4
 Hemos logrado desplegar una aplicación web conectada a un backend Spring Boot. A continuación, se muestra la documentación de la API que se consume desde el frontend.
