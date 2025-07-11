@@ -494,6 +494,15 @@ El equipo trabajó en el desarrollo de la landing page utilizando ramas de cada 
 
 #### 5.2.4.4. Development Evidence for Sprint Review 4
 
+Durante el presente sprint, se han realizado avances e implementaciones significativas en el desarrollo de la plataforma, conectando el Frontend y Backend. Se han completado historias relacionadas a los mismos mediante múltiples commits en los repositorios correspondientes. A continuación, se presenta una tabla que incluye los commits relacionados con la implementación para los repositorios del Frontend y Backend.
+
+| **Repository**     | **Branch** | **Commit Id** | **Commit Message** | **Commit Message Body (resumen)** | **Committed on (Date)** |
+|--------------------|------------|---------------|---------------------|----------------------------------|--------------------------|
+| Front-End | master | 4771447 | feat(front-end): connected the register section with the backend. | Conexión de la sección de registro con el backend | Jul 3, 2025 |
+| Back-End | main | 93617d4 | feat: added the IAM service, with JWT authentication. | Se añadió la autenticación mediante JWT | Jul 3, 2025 |
+| Back-End | main | f9c839d | feat: unified the IAM and the Profile section. | Se unificaron las secciones IAM y Profile | Jul 3, 2025 |
+| Back-End | main | 73b7e18 | feat: updated the ProfileController. | Actualización del Controlador de Profile | Jul 3, 2025 |
+
 #### 5.2.4.5. Execution Evidence for Sprint Review 4
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review 4
 Hemos logrado desplegar una aplicación web conectada a un backend Spring Boot. A continuación, se muestra la documentación de la API que se consume desde el frontend.
