@@ -299,7 +299,7 @@ Rider técnico/logísticoç
 ![ContextDiagram](../../assets/ContextDiagram_TocaAqui.png "ContextDiagram")
 
 #### 4.6.2. Software Architecture Container Diagrams
-![ContainerDiagram](../../assets/ContainerDiagram_TocaAqui.png "ContainerDiagram")
+![ContainerDiagram](../../assets/ContainerDiagram_TocaAquí_v2.png "ContainerDiagram")
 
 #### 4.6.3. Software Architecture Components Diagrams
 ![ComponentsDiagram](../../assets/ComponentsDiagram_TocaAqui.png "ComponentsDiagram")
