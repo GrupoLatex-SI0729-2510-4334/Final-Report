@@ -489,8 +489,14 @@ El equipo trabajó en el desarrollo de la landing page utilizando ramas de cada 
 
 | **User Story Id** | **User Story Title** | **Work-Item/Task Id** | **Work-Item/Task Title** | **Description** | **Estimation** | **Assigned To** | **Status** |
 |:-----------------:|:--------------------:|:---------------------:|:-----------------------:|:---------------:|:--------------:|:--------------:|:----------:|
+| US014 | Publicación de eventos musicales | T01 | Publicación de eventos | Registro de eventos en la plataforma | 3h | Diego Cabrera | Done |
+| TS001 | Registro de usuario (artista o promotor) a través de un RESTful API | T10 | Registro de usuarios en el web services | Registro de usuarios a través del Web Services | 3h | Pedro Nanfuñay | Done |
 | TS002 | Inicio de sesión mediante RESTful API | T01 | Inicio de sesión de usuarios | Validar campos de inicio de sesión para el acceso a la plataforma a través del Web Services | 2h | Pedro Nanfuñay | Done |
+| TS003 | Publicar evento desde un RESTful API | T11 | Registro de un evento en el web services | Publicación de eventos a través del Web Services | 3h | Diego Cabrera | Done |
 | TS004 | Postulación del artista a un evento vía RESTful API | T02 | Registro de postulación de un artista | Registro de postulación del artista para un evento publicado a través del Web Services | 3h | Joaquín Pedraza | Done |
+| TS011 | Visualización de postulaciones del artista vía RESTful API | T12 | Visualización de postulaciones registradas | Visualización de postulaciones registradas por el músico a través del Web Services | 2h | Joaquin Pedraza | Done |
+| TS012 | Evaluación post-evento mediante RESTful API | T13 | Registro de evaluación de evento | Registro de evaluación tras la finalización del evento a través del Web Services | 2h | Diego Cabrera | Done |
+| TS013 | Carga y edición del perfil artístico vía RESTful API | T14 | Editar información del perfil | Editar información del perfil a través del Web Services | 2h | Pedro Nanfuñay | Done |
 
 #### 5.2.4.4. Development Evidence for Sprint Review 4
 
