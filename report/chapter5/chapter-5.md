@@ -484,7 +484,29 @@ El equipo trabajó en el desarrollo de la landing page utilizando ramas de cada 
 
 ### 5.2.4. Sprint 4
 #### 5.2.4.1. Sprint Planning 4
+| **Sprint #**                    | Sprint 4                                                                                                                                                                                                                                                                                                                                                                              |
+|---------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sprint Planning Date**        |        11/07/25   |
+| **Time**                        | 20:00 PM   |
+| **Location**                    | Google Meet y discord   |
+| **Prepared By**                 | Joaquin Pedraza   |
+| **Attendees**                   | Diego Cabrera,Pedro Nanfuñay ,Andrea Santur, Joaquin Pedraza Y Alessandra Becerra                   |
+| **Sprint Review Summary**       | Se desplego el back end y se realizo las mejoras continuas dadas en el feedback    |
+| **Sprint Retrospective Summary**| Se desplego el back end .Asimismo se aplico las mejoras continuas dadas en el anterior Sprint 3       |
+| **Sprint Goal**                 | En este sprint el objetivo principal fue realizar el despliegue del back end y aplicar las mejoras continuas para nuestro proyecto |
+| **Sprint Velocity**             | 25 |
+| **Sum of Story Points**         | 25 Story Points   |
+
+
 #### 5.2.4.2 Aspect Leaders and Collaborators.
+| Team Member              | GitHub Username     | BackEnd | Springboot | HTML/CSS | Despliegue | Documentation |
+|--------------------------|---------------------|--------------|---------------|----------|-------------|----------------|
+| Andrea Santur           | andreli-star        | L           | C             | L        | C           | C              |
+| Diego Cabrera           | Omele7 |C            | C             | C        | L          | L              | C
+| Alessandra Becerra           | aleeBecerra        | C            | L             | L        | C           | C              |
+| Joaquin Pedraza            | JoaquinPedraza1             | L            | C             | C        | L           | C             |
+| Pedro Nanfuñay          | PedroJ18        | L            |   C           | L        | C           | L              |
+
 #### 5.2.4.3. Sprint Backlog 4
 
 | **User Story Id** | **User Story Title** | **Work-Item/Task Id** | **Work-Item/Task Title** | **Description** | **Estimation** | **Assigned To** | **Status** |
