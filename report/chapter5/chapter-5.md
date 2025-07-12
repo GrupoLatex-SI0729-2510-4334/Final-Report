@@ -505,7 +505,7 @@ El equipo trabajó en el desarrollo de la landing page utilizando ramas de cada 
 | Diego Cabrera           | Omele7 |C            | C             | C        | L          | L              | C
 | Alessandra Becerra           | aleeBecerra        | C            | L             | L        | C           | C              |
 | Joaquin Pedraza            | JoaquinPedraza1             | L            | C             | C        | L           | C             |
-| Pedro Nanfuñay          | PedroJ18        | L            |   C           | L        | C           | L              |
+| Pedro Nanfuñay          | PedroJ18        | L            |   C           | L        | C           | L           |
 
 #### 5.2.4.3. Sprint Backlog 4
 
